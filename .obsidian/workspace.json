@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/GitHub test.md",
+                "file": "New notes/GitHub test2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub test"
+              "title": "GitHub test2"
             }
           }
         ],
@@ -212,7 +212,7 @@
   },
   "active": "b23cbedc35d830a0",
   "lastOpenFiles": [
-    "New notes/GitHub test.md",
+    "New notes/GitHub test2.md",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Introductie.md",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/Research Proposal.md",
