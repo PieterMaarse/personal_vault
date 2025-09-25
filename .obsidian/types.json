@@ -1,0 +1,18 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "meeting_with": "multitext",
+    "date": "date",
+    "MOC": "multitext",
+    "author(s)": "multitext",
+    "discussed": "multitext",
+    "about": "multitext",
+    "modellen": "multitext",
+    "gearchiveerd": "checkbox",
+    "inhoudelijk": "checkbox",
+    "cite": "checkbox",
+    "relevant_for": "multitext"
+  }
+}

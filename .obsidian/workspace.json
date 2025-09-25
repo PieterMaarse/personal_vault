@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "752321b3193428e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c062f22751dee567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a2b0266048348f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/test3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f97a0ccfe5ce385",
+    "type": "split",
+    "children": [
+      {
+        "id": "109b01db9cc6ee82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a88eb294c4c62841",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d6695ecc4034601d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"type\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7cde4072544fcff7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "right": {
+    "id": "349ae95106766c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdce2a39b298adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa7cca9eb3bd4e38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for PDF_rabaté-et-al-2024"
+            }
+          },
+          {
+            "id": "e79c7b5ce5fa6fce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PDF_rabaté-et-al-2024"
+            }
+          },
+          {
+            "id": "e791d01500aab5f7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7b6639fbbd86141c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "New notes/test2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of test2"
+            }
+          },
+          {
+            "id": "ac0a4481777b2794",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6e433e6fae26bdb1",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "markdown-importer:Open format converter": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e2a2b0266048348f",
+  "lastOpenFiles": [
+    "New notes/test3.md",
+    "New notes/test2.md",
+    "New notes/Test.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Introductie_Scriptie_Pieter_feedback.pdf",
+    "New notes/Clippings/Aanbieden output of andere exportbestanden.md",
+    "Scriptie/$Scriptie.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Introductie_Scriptie_Pieter.pdf",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Research Proposal.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Introductie.md",
+    "SA/SA Investeringen/Bronnen/Publicaties/EC Rapport - Moving the Frontier.md",
+    "SA/SA Investeringen/Bronnen/PDFs/PDF_moving the frontier of macroeconomic modelling of-KI0320515ENN.pdf",
+    "SA/SA Investeringen/EC Modellen Canvas.canvas",
+    "Scriptie/Bronnen/Overig/Handreiking voor de interpretatie van het begrip “Regeling voor vervroegde uittreding”.md",
+    "Scriptie/Bronnen/Academic Papers/Rabeté et al. (2024).md",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Visser_2016_inequality_older_workers.pdf",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+    "Scriptie/Bronnen/Scriptie Bronnen Overzicht.base",
+    "Scriptie/Bronnen/Academic Papers/De Wind et al. (2014).md",
+    "Scriptie/Bronnen/Academic Papers/Euwals et al. (2010).md",
+    "Scriptie/Bronnen/Academic Papers/Euwals et al. (2011).md",
+    "Scriptie/Bronnen/Academic Papers/Henkens and Tazelaar (1994).md",
+    "Scriptie/Bronnen/Academic Papers/Hooftman and Houtman (2010).md",
+    "Scriptie/Bronnen/Academic Papers/Van den Boogaard et al. (2016).md",
+    "Scriptie/Bronnen/Academic Papers/Vermeer et al. (2016).md",
+    "Scriptie/Bronnen/Academic Papers/Visser et al. (2016).md",
+    "Scriptie/Bronnen/Academic Papers/Zwick et al. (2022).md",
+    "Scriptie/Bronnen/Academic Papers/Von Bonsdorff et al. (2023).md",
+    "Scriptie/Bronnen/Academic Papers/Vermeer et al. (2014).md",
+    "Scriptie/Bronnen/Overig/PowerPoint EBB Voorspellingen SEO.md",
+    "Scriptie/Bronnen/Overig/LISS Codebook Robotization.md",
+    "Scriptie/Bronnen/Overig/LISS Codebook WorkSchooling.md",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Euwals_2011_decline_early_retirement.pdf",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Achtergrond Informatie/SBI.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Achtergrond Informatie/RVU.md",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Henkens_Tazelaar_1994_jasp.pdf",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Bonsdorf_2023_changes_physical_performance.pdf",
+    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Wind_2014_Health_job_characteristics.pdf",
+    "Pasted image 20250921151212.png",
+    "SA/SA Investeringen/EC Modellen Canvas.png",
+    "UniClass/Afbeeldingen/Programme Finance 1 2024P2.png",
+    "UniClass/Afbeeldingen/perpannu_timeline.png",
+    "UniClass/Afbeeldingen/Cost of Capital 1.png",
+    "UniClass/Afbeeldingen/Cost of Capital 2.png",
+    "UniClass/Picture1.jpg",
+    "UniClass/Chapter 8 Question 3.png",
+    "DNB Aanmelding/WhatsApp Image 2025-04-26 at 22.48.45_05a4811a.jpg"
+  ]
+}

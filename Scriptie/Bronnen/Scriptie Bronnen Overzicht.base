@@ -1,0 +1,76 @@
+filters:
+  and:
+    - file.tags.contains("bron")
+    - MOC.contains(link("$Scriptie"))
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: All Sources
+    order:
+      - file.name
+      - type
+      - about
+      - relevant_for
+    sort:
+      - property: type
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: about
+        direction: DESC
+    columnSize:
+      file.name: 152
+      note.type: 93
+      note.about: 606
+      note.relevant_for: 294
+  - type: table
+    name: Papers
+    filters:
+      and:
+        - type == "paper"
+    order:
+      - file.name
+      - cite
+      - PDF
+      - title
+      - year
+      - author(s)
+      - about
+      - relevant_for
+    sort:
+      - property: cite
+        direction: DESC
+    columnSize:
+      file.name: 152
+      note.cite: 52
+      note.PDF: 29
+      note.title: 182
+      note.year: 53
+      note.author(s): 148
+      note.about: 375
+      note.relevant_for: 249
+    rowHeight: tall
+  - type: table
+    name: Overig
+    filters:
+      and:
+        - type != "paper"
+    order:
+      - file.name
+      - by
+      - type
+      - about
+      - relevant_for
+    sort:
+      - property: relevant_for
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: type
+        direction: ASC
+    columnSize:
+      file.name: 265
+      note.by: 126
+      note.type: 102
+      note.about: 582
