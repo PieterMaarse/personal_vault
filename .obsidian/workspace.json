@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c062f22751dee567",
+        "id": "68d2a2e6b5a6382c",
         "type": "tabs",
         "children": [
           {
-            "id": "84bc9f398e411119",
+            "id": "c21c0ac52f6b844a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,8 +16,23 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "b23cbedc35d830a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/GitHub test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub test"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84bc9f398e411119",
+  "active": "b23cbedc35d830a0",
   "lastOpenFiles": [
+    "New notes/GitHub test.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Introductie.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
+    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Research Proposal.md",
     "New notes/test3.md",
     "New notes/test2.md",
     "New notes/Test.md",
@@ -204,8 +223,6 @@
     "New notes/Clippings/Aanbieden output of andere exportbestanden.md",
     "Scriptie/$Scriptie.md",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/Introductie_Scriptie_Pieter.pdf",
-    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Research Proposal.md",
-    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Scriptie Introductie.md",
     "SA/SA Investeringen/Bronnen/Publicaties/EC Rapport - Moving the Frontier.md",
     "SA/SA Investeringen/Bronnen/PDFs/PDF_moving the frontier of macroeconomic modelling of-KI0320515ENN.pdf",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
@@ -229,8 +246,6 @@
     "Scriptie/Bronnen/Overig/LISS Codebook Robotization.md",
     "Scriptie/Bronnen/Overig/LISS Codebook WorkSchooling.md",
     "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Euwals_2011_decline_early_retirement.pdf",
-    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Achtergrond Informatie/SBI.md",
-    "Scriptie/Scriptie Inhoudelijke Aantekeningen/Achtergrond Informatie/RVU.md",
     "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Henkens_Tazelaar_1994_jasp.pdf",
     "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Bonsdorf_2023_changes_physical_performance.pdf",
     "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_Wind_2014_Health_job_characteristics.pdf",
