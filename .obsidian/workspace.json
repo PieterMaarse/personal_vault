@@ -11,10 +11,16 @@
             "id": "36b94ef630a20b7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+                "page": 11,
+                "left": -421,
+                "top": 76,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF_rabaté-et-al-2024"
             }
           }
         ]
@@ -74,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
-    "collapsed": true
+    "width": 275.5
   },
   "right": {
     "id": "349ae95106766c6e",
