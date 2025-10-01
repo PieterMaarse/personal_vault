@@ -31,5 +31,5 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ## PDF
 
-!% tp.frontmatter.PDF %>
+![[Introductie_Scriptie_Pieter.pdf]]
 %% add "<" na "!" en Alt+r to run %%

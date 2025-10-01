@@ -7,6 +7,7 @@ tags:
 inhoudelijk: true
 about:
   - Het voorstel voor mijn onderzoek
+  - In markdown format
 ---
 ---
 ## Inbox
