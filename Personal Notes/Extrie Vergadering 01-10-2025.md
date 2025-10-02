@@ -1,10 +1,14 @@
 ---
 MOC:
+  - "[[$Personal Notes]]"
 tags:
   - meeting
 meeting_with:
-date:
+date: 2025-10-01
 discussed:
+  - Extrie acti 12 november
+  - Etentje 7 okt
+  - "Plannen: commissie Kraket & communicatie whatsapp"
 ---
 ---
 ## Inbox

@@ -1,11 +1,15 @@
 ---
 MOC:
+  - "[[$Scriptie]]"
 tags:
-  - "clippings"
-source: "https://www.cbs.nl/nl-nl/onze-diensten/maatwerk-en-microdata/microdata-zelf-onderzoek-doen/inloggen-op-cbs-microdata-omgeving/inloggen-op-de-cbs-microdataomgeving--windows--"
+  - clippings
+  - note
+source: https://www.cbs.nl/nl-nl/onze-diensten/maatwerk-en-microdata/microdata-zelf-onderzoek-doen/inloggen-op-cbs-microdata-omgeving/inloggen-op-de-cbs-microdataomgeving--windows--
 published:
 created: 2025-10-01
-description: "Toelichting Inloggen op de beveiligde Microdata-omgeving Windows"
+description: Toelichting Inloggen op de beveiligde Microdata-omgeving Windows
+about:
+  - stappenplan om in te loggen in CBS omgeving
 ---
 Deze instructie biedt uitleg voor het opzetten van een veilige verbinding naar de CBS-microdataomgeving op een Windows-systeem, met behulp van een VPN en RSA-tokens voor authenticatie. Er is een aparte instructie “ [Inloggen op de CBS-microdataomgeving (macOS](https://www.cbs.nl/nl-nl/onze-diensten/maatwerk-en-microdata/microdata-zelf-onderzoek-doen/inloggen-op-cbs-microdata-omgeving/inloggen-op-de-cbs-microdataomgeving--macos--))”.
 
