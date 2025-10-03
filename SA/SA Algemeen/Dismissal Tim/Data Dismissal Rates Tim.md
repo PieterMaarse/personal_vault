@@ -21,16 +21,24 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ## Vragen
 
-- [ ] Waarom Israel?
+- [x] Waarom Israel?
+- [ ] Unemployment rates?
+- [ ] Welke education levels wil je?
+- [ ] Jaren komen niet overeen
+- [ ] ==Unemployment anders gedefinieerd voor 55-74? opeens heel laag voor 65-74==
+
 
 
 ## Remarks
 
-- Israel zit er niet in
+- Luxemburg & Israel zitten er niet in
+- Bulgaria (BG), Cyprus (CY), Iceland (IS), Malta (MT), Norway (NO), Romania (RO), Slovakia (SK), United Kingdom (UK) wel in deze niet 
 - Veel data mist, pas vanaf 2011
 - 2021 niet reliable
 - Voor leeftijd is gebaseerd op modellen dus afgerond
 - Portugal heeft niet naar gender
+- Malta heef niet 55+, alleen 15-75
+- Heb geschreven op 001800
 
 ## Aantekeningen
 
