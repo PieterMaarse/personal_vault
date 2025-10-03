@@ -13,12 +13,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SA/SA Algemeen/Dismissal Tim/Data Dismissal Rates Tim.md",
+                "file": "Scriptie/Scriptie Praktische Aantekeningen/CBS Upload Procedure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Dismissal Rates Tim"
+              "title": "CBS Upload Procedure"
+            }
+          },
+          {
+            "id": "515ad301bb2e96d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
+            "id": "74fb4ba76928d92b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Scriptie Praktische Aantekeningen/PDF CBS procedure lisspanel.pdf",
+                "page": 4,
+                "left": -210,
+                "top": 447,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF CBS procedure lisspanel"
+            }
+          },
+          {
+            "id": "f371b4e274fc120e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Scriptie Praktische Aantekeningen/PDF CBS Voorschrift bestandsformaat en uploadprocedure.pdf",
+                "page": 2,
+                "left": -210,
+                "top": 369,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF CBS Voorschrift bestandsformaat en uploadprocedure"
             }
           }
         ]
@@ -212,9 +256,13 @@
   },
   "active": "24babe00c45834e9",
   "lastOpenFiles": [
+    "SA/SA Investeringen/Bronnen/PDFs/Factsheet C.pdf",
+    "Scriptie/Scriptie Praktische Aantekeningen/PDF CBS Voorschrift bestandsformaat en uploadprocedure.pdf",
+    "Scriptie/Scriptie Praktische Aantekeningen/PDF CBS procedure lisspanel.pdf",
+    "Scriptie/Scriptie Praktische Aantekeningen/CBS Upload Procedure.md",
+    "SA/SA Algemeen/Dismissal Tim/Data Dismissal Rates Tim.md",
     "SA/SA Algemeen/Dismissal Tim/Job_Insecurity_Feb2022.pdf",
     "SA/SA Algemeen/Dismissal Tim",
-    "SA/SA Algemeen/Dismissal Tim/Data Dismissal Rates Tim.md",
     "SA/SA Algemeen/Dismissal Tim/Labour market transitions - LFS longitudinal data (lfsi_long).md",
     "SA/SA Algemeen/Dismissal Tim/LMT Statistics Explained.md",
     "_Obsidian/Templates/Template MOC Notes.md",
@@ -239,15 +287,11 @@
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/LISS Aantekeningen/LISS Codebook Robotization.md",
     "Scriptie/Bronnen/Overig/AOW Monitor Concept.md",
     "Scriptie/Bronnen/Overig/ChatGPT - Introductie Uittreding.md",
-    "Scriptie/Bronnen/Overig/Early retirement scheme (RVU).md",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/LISS Aantekeningen",
     "Scriptie/Scriptie Inhoudelijke Aantekeningen/LISS Aantekeningen/codebook_cw24q_EN_1.0.pdf",
     "Scriptie/Scriptie Drive.lnk",
     "Scriptie/New shortcut.lnk",
     "Scriptie/codelijstenisco08.xls",
-    "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
-    "Scriptie/Eigen bestanden",
-    "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter_feedback.pdf",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
     "Pasted image 20250921151212.png",
     "SA/SA Investeringen/EC Modellen Canvas.png",
