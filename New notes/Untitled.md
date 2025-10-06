@@ -2,7 +2,7 @@
 MOC:
 tags:
   - note
-date: <% tp.file.creation_date("YYYY-MM-DD") %>
+date: 2025-10-06
 about:
 gearchiveerd:
 inhoudelijk:

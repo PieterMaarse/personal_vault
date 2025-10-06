@@ -5,7 +5,7 @@ tags:
   - note
 about:
   - Praktische aantekeningen en vragen
-gearchiveerd:
+gearchiveerd: true
 ---
 ---
 ## Inbox
