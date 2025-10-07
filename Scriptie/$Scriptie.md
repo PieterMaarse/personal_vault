@@ -47,7 +47,9 @@ TABLE about
 WHERE contains(MOC, this.file.link) AND contains(tags, "note") AND !gearchiveerd AND contains(tags, "background")
 ```
 
+
 ---
+
 ## Meetings
 ```dataview
 TABLE dateformat(date, "yyyy-LL-dd") AS date, discussed
@@ -58,8 +60,11 @@ SORT date DESC
 ---
 ## Bronnen
 
-- [[Scriptie Bronnen Overzicht.base]]
+#### Base: [[Scriptie Bronnen Overzicht.base]]
 
+![[Scriptie Bronnen Overzicht.base]]
+
+#### Dataview
 ```dataview
 TABLE WITHOUT ID rows.file.link[0] AS link, rows.type[0] AS type, rows.about[0] as about
 FROM !"_Obsidian"
@@ -68,8 +73,10 @@ GROUP BY file.link
 SORT rows.type ASC
 ```
 
+
 ---
 ## Archief
+
 ```dataview
 TABLE tags, about
 WHERE contains(MOC, this.file.link) AND gearchiveerd

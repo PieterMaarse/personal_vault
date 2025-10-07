@@ -1,11 +1,8 @@
 ---
 MOC:
+  - "[[$Personal Notes]]"
 tags:
-  - note
-date: 2025-10-06
-about:
-gearchiveerd:
-inhoudelijk:
+  - MOC
 ---
 ---
 ## Inbox

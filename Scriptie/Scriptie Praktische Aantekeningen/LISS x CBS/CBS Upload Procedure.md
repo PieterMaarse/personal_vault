@@ -5,8 +5,9 @@ tags:
   - note
 date: 2025-10-03
 about:
+  - Aantekeningen over de uploadprocedure van data naar het CBS
 gearchiveerd:
-inhoudelijk: true
+inhoudelijk: false
 ---
 ---
 ## Inbox

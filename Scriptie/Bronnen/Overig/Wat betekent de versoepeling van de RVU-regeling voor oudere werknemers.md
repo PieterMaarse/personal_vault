@@ -16,7 +16,7 @@ gearchiveerd:
 type: internet
 by: Rijksoverheid.nl
 relevant_for:
-  - RVU regels
+  - "[[RVU Aantekeningen]]"
 ---
 Als oudere werknemer kunt u mogelijk makkelijker eerder stoppen met werken. Uw werkgever betaalt tot eind 2025 minder belasting over de uitkering die uw werkgever u betaalt tot uw AOW. U kunt eerder stoppen met werken als u afspraken heeft met uw werkgever hierover.
 

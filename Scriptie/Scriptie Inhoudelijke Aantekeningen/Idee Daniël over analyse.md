@@ -1,5 +1,6 @@
 ---
 MOC:
+  - "[[$Scriptie]]"
 tags:
   - note
 date: 2025-10-06

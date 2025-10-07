@@ -13,7 +13,7 @@ about:
 type: internet
 by: Arbeidsrechter.nl
 relevant_for:
-  - RVU regels
+  - "[[RVU Aantekeningen]]"
 ---
 ## 4.4. Vervroegd uittreden
 

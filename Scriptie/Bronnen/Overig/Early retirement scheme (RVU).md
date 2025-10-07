@@ -14,7 +14,7 @@ about:
 type: internet
 by: Business.gov.nl
 relevant_for:
-  - RVU regels
+  - "[[RVU Aantekeningen]]"
 ---
 
 If you employ staff, you can arrange for your employees to retire before state pension age. Such arrangements can also be made in some sectors for specific groups of workers. For instance because they perform heavy work. This is an Early Retirement Scheme (Regeling voor Vervroegde Uittreding, RVU).

@@ -26,10 +26,10 @@ FROM [[]] and !outgoing([[]])
 	- [x] Related ML predictions? SEO studie
 - [x] Motivation & Background verder uitwerken
 - [x] 
-- [ ] Data eerste vragen doorlezen
-	- [ ] Wat zijn potentiële vragen om te gebruiken?
+- [x] Data eerste vragen doorlezen
+	- [x] Wat zijn potentiële vragen om te gebruiken?
 	- [ ] 
-- [ ] Opzet analyse uitwerken
+- [x] Opzet analyse uitwerken
 
 #### Vragen
 - [ ] Wat is de juiste term? Demanding work or heavy work?

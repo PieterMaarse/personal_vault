@@ -5,6 +5,7 @@ tags:
   - note
   - TODO
 about:
+gearchiveerd: true
 ---
 ---
 ## Inbox

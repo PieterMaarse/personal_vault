@@ -15,7 +15,7 @@ about:
 type: internet
 by: Business.gov.nl
 relevant_for:
-  - RVU regels
+  - "[[RVU Aantekeningen]]"
 ---
 ## What changes?
 

@@ -13,14 +13,12 @@ views:
       - about
       - relevant_for
     sort:
-      - property: type
-        direction: DESC
       - property: file.name
         direction: ASC
       - property: about
         direction: DESC
     columnSize:
-      file.name: 152
+      file.name: 255
       note.type: 93
       note.about: 606
       note.relevant_for: 294

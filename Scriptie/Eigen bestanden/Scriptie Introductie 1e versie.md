@@ -10,7 +10,8 @@ link:
 titel:
 about:
   - De 1e versie van mijn introductie
-gearchiveerd:
+  - PDF
+gearchiveerd: true
 ---
 ---
 ## Inbox

@@ -26,9 +26,9 @@ FROM [[]] and !outgoing([[]])
 
 Stappenplan onderzoek
 
-- [ ] LISS data: classificeren hard werk
-	- [ ] Bepalen welk jaar ik ga gebruiken
-		- [ ] Meerdere jaren
+- [x] LISS data: classificeren hard werk
+	- [x] Bepalen welk jaar ik ga gebruiken
+		- [x] Meerdere jaren
 	- [ ] Welke vragen zijn relevant
 		- [ ] Hoe wil ik deze gaan opschrijven?
 		- [ ] Hoe houdt ik dit overzichtelijk?
@@ -51,19 +51,22 @@ Stappenplan onderzoek
 
 
 
+## Uitzoeken
 
-
-
-
-
-
-
+- [ ] Interaction terms
+- [ ] Attenuation Bias
+- [ ] Hazard rate modellen
+- [x] R practices
+- [ ] Linear probability -> 1st order Taylor (non parametric?)
+- [ ] Fixed effects model
+	- [ ] fixed effects logit
+- [ ] Cox model?
 
 
 
 
 **Inlezen**
-- [x] [[RVU]] en vervroegde uitreding
+- [x] [[RVU Aantekeningen]] en vervroegde uitreding
 	- [x] [[ChatGPT - Introductie Uittreding]]
 	- [x] [[SBI]] indeling?
 	- [x] Overzicht relevante wet- en regelgeving
@@ -80,7 +83,7 @@ Stappenplan onderzoek
 	- [x] LISS survey
 
 **Inhoudelijk**
-- [x] [[Research Proposal]] schrijven
+- [x] [[Research Proposal 1e versie]] schrijven
 
 **Praktisch**
 - [x] PDF annotation uitzoeken

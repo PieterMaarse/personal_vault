@@ -13,6 +13,7 @@
     "gearchiveerd": "checkbox",
     "inhoudelijk": "checkbox",
     "cite": "checkbox",
-    "relevant_for": "multitext"
+    "relevant_for": "multitext",
+    "bronnen": "multitext"
   }
 }

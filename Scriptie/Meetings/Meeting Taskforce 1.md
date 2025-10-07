@@ -24,7 +24,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 - [ ] Kennismaken
 - [ ] Algemene idee
-- [ ] Plan van aanpak ([[Research Proposal]])
+- [ ] Plan van aanpak ([[Research Proposal 1e versie]])
 - [ ] Data
 	- [ ] CBS Microdata
 	- [ ] LISS survey
@@ -36,7 +36,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- Bedoelt voor zware beroepen
 	- Wordt het gebruikt door zware beroepen?
 
-- Plan van aanpak ([[Research Proposal]])
+- Plan van aanpak ([[Research Proposal 1e versie]])
 	- LISS dataset met vragen over werk, gebruik voor classificatie van zwaar werk
 	- Koppel aan CBS microdata om voorspellingen te maken voor de gehele samenleving voor RVU-regeling gebruik
 	- Kijk wie er gebruik maakt van RVU, zwaar werk of niet?
