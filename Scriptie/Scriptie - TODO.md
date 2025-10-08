@@ -53,14 +53,15 @@ Stappenplan onderzoek
 
 ## Uitzoeken
 
-- [ ] Interaction terms
-- [ ] Attenuation Bias
-- [ ] Hazard rate modellen
+- [x] Interaction terms
+- [x] Attenuation Bias
+- [x] Hazard rate modellen
+	- [x] Cox model?
+	- [x] semi-parametric?
 - [x] R practices
-- [ ] Linear probability -> 1st order Taylor (non parametric?)
-- [ ] Fixed effects model
-	- [ ] fixed effects logit
-- [ ] Cox model?
+- [x] Linear probability -> 1st order Taylor (non parametric?)
+- [x] Fixed effects model
+	- [x] fixed effects logit
 
 
 

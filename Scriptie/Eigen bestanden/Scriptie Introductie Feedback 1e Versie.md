@@ -2,8 +2,8 @@
 MOC:
   - "[[$Scriptie]]"
 tags:
-  - bron
   - algemeen
+  - note
 type:
 PDF: "[[Introductie_Scriptie_Pieter_feedback.pdf]]"
 link:

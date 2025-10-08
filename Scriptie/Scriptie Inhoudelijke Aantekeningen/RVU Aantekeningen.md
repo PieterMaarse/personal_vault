@@ -39,6 +39,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 Zie [[TK Brief gezond naar het pensioen]] voor info over de verlenging
 - caos hebben sindsdien de mogelijkheid mensen met lager inkomen te targeten om de doeltreffendheid te vergroten
+- 300 euro extra (armste mensen zouden het zonder pensioen nogsteeds niet redden)
 - Singaalwaarde van 15.000 gebruikers (~16%)
 
 
