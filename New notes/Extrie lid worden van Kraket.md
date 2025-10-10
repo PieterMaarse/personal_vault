@@ -23,4 +23,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- Andere verenigingen
 	- Char-lee
 
-- Toegang krijgen tot mail en Linedin
+
+
+- Toegang krijgen tot mail en Linkedin
+- 
