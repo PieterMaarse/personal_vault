@@ -45,8 +45,8 @@ Voordat je toegang kunt krijgen tot de CBS-microdataomgeving, moet je eerst een 
 
 2\. Indien je in het bezit bent van een RSA hardware token, vul het volgende in:
 
-- Username: jouw 4-letterige gebruikersnaam (zonder @remoteaccess.cbs.nl)
-- Password: jouw PIN code + RSA tokencode (zonder het plusteken).
+- Username: pmse  (jouw 4-letterige gebruikersnaam (zonder @remoteaccess.cbs.nl))
+- Password: (1611 in Authenticator app)   jouw PIN code + RSA tokencode (zonder het plusteken).
 
 3\. Indien je in het bezit bent van een RSA software token:
 
@@ -85,6 +85,8 @@ De initiële configuratie van de Omnissa-client is een essentiële stap bij het 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding06.png)
 
 4\. Voer jouw CBS-microdata account en Project PIN code inIn het volgende scherm wordt gevraagd om jouw CBS-microdata account en de 4-cijferige Project PIN code. Bijvoorbeeld, als jouw CBS-microdata account gst1234test is, dan is de Project PIN code 1234. Klik daarna op Login.
+
+==Zie wachtwoordenkluis==
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding07.png)
 

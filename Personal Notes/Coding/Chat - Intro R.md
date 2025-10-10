@@ -17,7 +17,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
-
+Tidyverse styleguide: https://style.tidyverse.org/
 # A Comprehensive Guide to Analyzing Survey Data on Early Retirement in R
 
 ## Introduction and Scope

@@ -22,6 +22,8 @@ FROM [[]] and !outgoing([[]])
 	- Uit microdata exporteren kost een week
 - 1-2 maanden schrijven
 
+- 10 nov exploratory + dataset
+- 15 dec eerste resultaten
 ## TODO
 
 Stappenplan onderzoek
