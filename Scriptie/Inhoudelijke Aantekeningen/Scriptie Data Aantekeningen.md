@@ -24,20 +24,25 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 #### Vragen
 
-- [ ] Welke vragen in welk jaar?
-	- [ ] Hoe is dit goed weer te geven?
-		- [ ] scatterplot met jaar op x-as, vraag op y-as en bolletje voor tenminste één niet NA
+- [x] Welke vragen in welk jaar?
+	- [x] Hoe is dit goed weer te geven?
+		- [x] scatterplot met jaar op x-as, vraag op y-as en bolletje voor tenminste één niet NA
 
 #### Individuele variabelen
 
-- [ ] Hoelang blijven mensen in de panel?
-	- [ ] Histogram van aantal keer dat iemand voorkomt
-- [ ] Welke groepen zijn er?
-	- [ ] Hoeveel mensen in welke sector?
-	- [ ] Hoeveel mensen met pensioen?
-	- [ ] Hoeveel mensen disabled
-	- [ ] Hoeveel mensen 
-- [ ] Percentage disabled per jaar
+- [x] Hoelang blijven mensen in de panel?
+	- [x] Histogram van aantal keer dat iemand voorkomt
+
+Pick one year:
+- [ ] What percentage NA of each column
+- [ ] Histogram of distribution table for relevant columns
+	- [ ] Distribution of age
+	- [ ] Distribution of groups?
+		- [ ] Hoeveel mensen doen zwaar werk
+		- [ ] Hoeveel mensen (percentage) in welke sector?
+		- [ ] Hoeveel mensen met pensioen?
+		- [ ] Hoeveel mensen disabled
+		- [ ] Percentage disabled per jaar
 
 #### Meerdere variabelen
 
