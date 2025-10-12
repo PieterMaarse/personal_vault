@@ -22,37 +22,8 @@
               "icon": "lucide-file",
               "title": "$Scriptie"
             }
-          },
-          {
-            "id": "7f5f940b0851de09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook Robotization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LISS Codebook Robotization"
-            }
-          },
-          {
-            "id": "32d6d61c5bf76fd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Scriptie Data Aantekeningen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scriptie Data Aantekeningen"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Scriptie Data Aantekeningen.md",
+                "file": "Scriptie/$Scriptie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scriptie Data Aantekeningen"
+              "title": "Outline of $Scriptie"
             }
           },
           {
@@ -251,11 +222,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "32d6d61c5bf76fd7",
+  "active": "e675ca31a8153f94",
   "lastOpenFiles": [
-    "Personal Notes/Coding/Chat - Intro R.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Data Aantekeningen.md",
+    "SA/SA Algemeen/Dismissal Tim/Paper Tim.md",
+    "Scriptie/$Scriptie.md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook Robotization.md",
+    "SA/SA Algemeen/Dismissal Tim/Job_Insecurity_Feb2022.pdf",
+    "SA/SA Algemeen/Dismissal Tim/Data Dismissal Rates Tim.md",
+    "SA/SA Algemeen/Dismissal Tim/Labour market transitions - LFS longitudinal data (lfsi_long).md",
+    "SA/SA Algemeen/Dismissal Tim/LMT Statistics Explained.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Data Aantekeningen.md",
+    "Personal Notes/Coding/Chat - Intro R.md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook WorkSchooling 2021.md",
     "Scriptie/Inhoudelijke Aantekeningen/RVU Aantekeningen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
@@ -263,7 +240,6 @@
     "Scriptie/Praktische Aantekeningen/LISS x CBS/CBS Upload Procedure.md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/Microdata bestanden met toegang.md",
-    "Scriptie/$Scriptie.md",
     "$TODO.md",
     "Scriptie/Scriptie - TODO.md",
     "New notes/Extrie lid worden van Kraket.md",
@@ -275,12 +251,7 @@
     "Scriptie/Bronnen/Overig/ChatGPT - Introductie Uittreding.md",
     "Scriptie/Bronnen/Overig/Exemption threshold Early Retirement Scheme (RVU) remains in place.md",
     "Scriptie/Bronnen/Overig/Early retirement scheme (RVU).md",
-    "Scriptie/Bronnen/Overig/RVU-regeling - Arbeidsrechter.nl.md",
-    "Scriptie/Bronnen/Overig/Wat betekent de versoepeling van de RVU-regeling voor oudere werknemers.md",
-    "Scriptie/Bronnen/Overig/Vervroegd pensioen is kwestie van noodzaak of fortuin.md",
-    "SA/SA Algemeen/SA - Waarschijnlijke Taken.md",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
-    "SA/SA Investeringen/SA Investeringen - TODO.md",
     "Personal Notes/Extrie",
     "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter_feedback.pdf",
     "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter.pdf",
@@ -289,7 +260,6 @@
     "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/PDF CBS procedure lisspanel.pdf",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs",
     "Scriptie/Bronnen/Scriptie Bronnen Overzicht.base",
-    "Personal Notes/Coding",
     "Pasted image 20250921151212.png",
     "SA/SA Investeringen/EC Modellen Canvas.png",
     "UniClass/Afbeeldingen/Programme Finance 1 2024P2.png",
