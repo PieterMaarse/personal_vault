@@ -18,12 +18,11 @@ FROM [[]] and !outgoing([[]])
 	- over week of twee data en methoden uitgewerkt (Maandag 22 eind van de dag)
 	- Egbert de jongen (kijk citaties), internationaal wat er vergelijkbaar bekend is
 - 3-4 maanden onderzoek doen
-	- Hopelijk eind sep in de CBS data
+	- 10 nov dataset + exploratory analysis af
+	- 15 dec eerste resultaten
 	- Uit microdata exporteren kost een week
 - 1-2 maanden schrijven
 
-- 10 nov exploratory + dataset
-- 15 dec eerste resultaten
 ## TODO
 
 Stappenplan onderzoek
@@ -39,21 +38,29 @@ Stappenplan onderzoek
 	- [ ] Welke combinatie leidt tot hard werk
 		- [ ] Hoe wil ik die implementeren?
 		- [ ] Wat is een handige manier om regels op te stellen
-- [ ] CBS data
-	- [ ] Omgeving verkennen
-	- [ ] Koppelen aan LISS classificatie
+
+- [x] CBS data
+	- [x] Omgeving verkennen
+	- [x] Koppelen aan LISS classificatie
 	- [ ] Data verkennen
 		- [ ] Hoeveel procent van de populatie heeft wat
 		- [ ] Zijn er al logische verbanden?
 	- [ ] Eventueel relevante variabelen eruit halen
 	- [ ] Relevant features verzinnen
+
 - [ ] Modellen
 	- [ ] Mogelijke classificatie modellen 
 	- [ ] Eerste test voorspelling
 
 
-
 ## Uitzoeken
+
+- [ ] 
+
+
+## Archief
+
+### Uitzoeken
 
 - [x] Interaction terms
 - [x] Attenuation Bias
@@ -64,8 +71,6 @@ Stappenplan onderzoek
 - [x] Linear probability -> 1st order Taylor (non parametric?)
 - [x] Fixed effects model
 	- [x] fixed effects logit
-
-
 
 
 **Inlezen**
@@ -85,8 +90,10 @@ Stappenplan onderzoek
 	- [x] Microdata CBS
 	- [x] LISS survey
 
+
 **Inhoudelijk**
 - [x] [[Research Proposal 1e versie]] schrijven
+
 
 **Praktisch**
 - [x] PDF annotation uitzoeken

@@ -21,6 +21,9 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ### LISS
 
+- ER_age heeft twee dingen
+- Age heeft 2009 los
+
 
 #### Vragen
 
@@ -34,15 +37,15 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- [x] Histogram van aantal keer dat iemand voorkomt
 
 Pick one year:
-- [ ] What percentage NA of each column
-- [ ] Histogram of distribution table for relevant columns
-	- [ ] Distribution of age
-	- [ ] Distribution of groups?
-		- [ ] Hoeveel mensen doen zwaar werk
-		- [ ] Hoeveel mensen (percentage) in welke sector?
-		- [ ] Hoeveel mensen met pensioen?
-		- [ ] Hoeveel mensen disabled
-		- [ ] Percentage disabled per jaar
+- [x] What percentage NA of each column
+- [x] Histogram of distribution table for relevant columns
+	- [x] Distribution of age
+	- [x] Distribution of groups?
+		- [x] Hoeveel mensen doen zwaar werk
+		- [x] Hoeveel mensen (percentage) in welke sector?
+		- [x] Hoeveel mensen met pensioen?
+		- [x] Hoeveel mensen disabled
+		- [x] Percentage disabled per jaar
 
 #### Meerdere variabelen
 

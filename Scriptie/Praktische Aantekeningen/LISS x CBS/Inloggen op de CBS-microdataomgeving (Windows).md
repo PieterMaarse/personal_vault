@@ -45,7 +45,7 @@ Voordat je toegang kunt krijgen tot de CBS-microdataomgeving, moet je eerst een 
 
 2\. Indien je in het bezit bent van een RSA hardware token, vul het volgende in:
 
-- Username: pmse  (jouw 4-letterige gebruikersnaam (zonder @remoteaccess.cbs.nl))
+- Username: (pmse)  jouw 4-letterige gebruikersnaam (zonder @remoteaccess.cbs.nl)
 - Password: (1611 in Authenticator app)   jouw PIN code + RSA tokencode (zonder het plusteken).
 
 3\. Indien je in het bezit bent van een RSA software token:
@@ -74,7 +74,7 @@ Alleen de CBS-microdataomgevingen zijn toegankelijk. Alle andere internet- en ne
 
 De initiële configuratie van de Omnissa-client is een essentiële stap bij het voor de eerste keer gebruiken ervan. Volg onderstaande stappen om dit te voltooien:  
   
-1\. Zet de VPN-verbinding opZorg ervoor dat de VPN-verbinding met de FortiVPN-client is opgezet voordat je verder gaat.
+1\. Zet de VPN-verbinding op. Zorg ervoor dat de VPN-verbinding met de FortiVPN-client is opgezet voordat je verder gaat.
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-mac-os/afbeelding05.png)
 
@@ -84,25 +84,25 @@ De initiële configuratie van de Omnissa-client is een essentiële stap bij het 
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding06.png)
 
-4\. Voer jouw CBS-microdata account en Project PIN code inIn het volgende scherm wordt gevraagd om jouw CBS-microdata account en de 4-cijferige Project PIN code. Bijvoorbeeld, als jouw CBS-microdata account gst1234test is, dan is de Project PIN code 1234. Klik daarna op Login.
+4\. Voer jouw CBS-microdata account en Project PIN code in. In het volgende scherm wordt gevraagd om jouw CBS-microdata account en de 4-cijferige Project PIN code. Bijvoorbeeld, als jouw CBS-microdata account gst1234test is, dan is de Project PIN code 1234. Klik daarna op Login.
 
 ==Zie wachtwoordenkluis==
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding07.png)
 
-5\. SMS-verificatieJe ontvangt een SMS met een 8-cijferige verificatiecode. Voer deze code in het volgende scherm in en klik op Login.
+5\. SMS-verificatie. Je ontvangt een SMS met een 8-cijferige verificatiecode. Voer deze code in het volgende scherm in en klik op Login.
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding08.png)
 
-6\. Voer jouw wachtwoord inIn het volgende scherm wordt gevraagd om het wachtwoord van jouw CBS-microdata account. Vul het wachtwoord in en klik op Login.
+6\. Voer jouw wachtwoord in. In het volgende scherm wordt gevraagd om het wachtwoord van jouw CBS-microdata account. Vul het wachtwoord in en klik op Login.
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding09.png)
 
-7\. Start een desktopsessieJe bent nu ingelogd in de CBS-microdataomgeving. Om een desktopsessie te starten, dubbelklik op de gewenste omgeving. Voor applicaties zoals MATLAB en SAS moet een aparte applicatiesessie worden gestart.
+7\. Start een desktopsessie. Je bent nu ingelogd in de CBS-microdataomgeving. Om een desktopsessie te starten, dubbelklik op de gewenste omgeving. Voor applicaties zoals MATLAB en SAS moet een aparte applicatiesessie worden gestart.
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-windows/afbeelding10.jpg?h=207&w=341&hash=CEDE7A27099BE421A49A0A7D19F264DF)
 
-8\. Applicaties gereed voor gebruikNa het inloggen verschijnt er een venster dat aftelt. Zodra dit venster verdwijnt, zijn de applicaties klaar voor gebruik.
+8\. Applicaties gereed voor gebruik. Na het inloggen verschijnt er een venster dat aftelt. Zodra dit venster verdwijnt, zijn de applicaties klaar voor gebruik.
 
 ![](https://www.cbs.nl/-/media/cbs/onze-diensten/maatwerk/zelf-onderzoek-doen/inloggen-ra-omgeving-mac-os/afbeelding11.png?h=207&w=510&hash=A962A263FC5A3EB6D150EC951F750CD5)
 

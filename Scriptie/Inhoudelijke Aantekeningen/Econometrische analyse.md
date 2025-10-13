@@ -19,7 +19,10 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## Econometrische Analyse
 
 - [[Idee Daniël over analyse]]
-- Attenuation bias
+- 
 
 
 Zie [[Scriptie Introductie 1e versie]] voor een eerste idee
+
+
+Classificatie zoals Jellien het voor zich zag of regressie zoals daniël het voor zich zag

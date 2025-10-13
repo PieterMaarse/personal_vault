@@ -41,7 +41,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ### Data
 
-[[Scriptie Data Aantekeningen]]
+[[Data Aantekeningen]]
 
 - EBB bevat zelfgerapporteerde gezondheidsscore
 - Hoe zit RVU in microdata?
