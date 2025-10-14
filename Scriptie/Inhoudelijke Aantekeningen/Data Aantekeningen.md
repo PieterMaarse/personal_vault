@@ -21,7 +21,11 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ### LISS
 
+Samenvoegen
 - ER_age heeft twee dingen
+	- 5 mensen geven aan op 67+ jaar early te retiren
+	- Ook iemand die zegt op 8-jarige leeftijd te retiren
+	- Die knikker ik er uit
 - Age heeft 2009 los
 
 
@@ -35,6 +39,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 - [x] Hoelang blijven mensen in de panel?
 	- [x] Histogram van aantal keer dat iemand voorkomt
+	- [ ] Verschilt dit per leeftijd? Scatterplot? Eerste of laatste leeftijd?
 
 Pick one year:
 - [x] What percentage NA of each column
@@ -49,8 +54,25 @@ Pick one year:
 
 #### Meerdere variabelen
 
+##### verbanden tussen early retirement en zwaar werk
+
+**Relevant variabelen**
+- Early retirement:
+	- ER_bool (99 yes)
+	- ER_age
+	- ER_poor_health
+- Zwaar werk:
+	- job_phys_demand_agree
+	- disabled_bool
+	- job_lift_heavy
+	- job_phys_demand_often
+- Alleen voor pension_bool = yes, or prim_occup = pensioner?
+
+**Vragen**
+
+- Zijn mensen die aangeven ER te pakken ook allemaal occupation retired?
+
 - [ ] Welke groepen zijn verbonden aan zwaar werk?
-	- [ ] 
 	- [ ] Hoe definieer je zwaar werk?
 - [ ] Zijn mensen die aangeven zwaar werk te hebben gehad eerder/meer met pensioen gegaan?
 	- [ ] Bijvoorbeeld physically demanding (q416) vs disabled (...)
