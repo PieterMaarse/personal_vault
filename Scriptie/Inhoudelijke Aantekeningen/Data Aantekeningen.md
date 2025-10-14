@@ -27,6 +27,7 @@ Samenvoegen
 	- Ook iemand die zegt op 8-jarige leeftijd te retiren
 	- Die knikker ik er uit
 - Age heeft 2009 los
+- Percentage disabled was tot 20.. een eigen ingevuld getal, daarna was het 4 groepen voor (e.g. 15-30%), die eerste vertaald naar de tweede
 
 
 #### Vragen
