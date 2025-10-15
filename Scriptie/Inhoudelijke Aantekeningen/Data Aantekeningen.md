@@ -69,6 +69,9 @@ Pick one year:
 	- job_phys_demand_often
 - Alleen voor pension_bool = yes, or prim_occup = pensioner?
 
+
+Leeftijd van mensen met ER_bool = True is reletief jong, duidelijke piek bij 67
+
 **Vragen**
 
 - Zijn mensen die aangeven ER te pakken ook allemaal occupation retired?
