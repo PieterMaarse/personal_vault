@@ -10,14 +10,51 @@
           {
             "id": "27f0fc3567beac30",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/$Scriptie.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "$Scriptie"
+            }
+          },
+          {
+            "id": "cdc5eed19c75f55e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Praktische Aantekeningen/LISS x CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inloggen op de CBS-microdataomgeving (Windows)"
+            }
+          },
+          {
+            "id": "9afec9dd99685e21",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/PDF CBS procedure lisspanel.pdf",
+                "page": 4,
+                "left": -148,
+                "top": 406,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF CBS procedure lisspanel"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/PDF CBS procedure lisspanel.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of PDF CBS procedure lisspanel"
             }
           },
           {
@@ -215,18 +253,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27f0fc3567beac30",
+  "active": "9afec9dd99685e21",
   "lastOpenFiles": [
+    "Scriptie/Bronnen/Overig/PDFs Overig/20170519-111211_Q2016_paper_flows_-_final.docx.pdf",
+    "Scriptie/Inhoudelijke Aantekeningen/Data Aantekeningen.md",
     "Scriptie/$Scriptie.md",
+    "Scriptie/Praktische Aantekeningen/LISS x CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "New notes/Untitled.md",
     "Scriptie/Scriptie - TODO.md",
     "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Data Aantekeningen.md",
     "Personal Notes/Coding/Chat - Intro R.md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/Microdata bestanden met toegang.md",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook WorkSchooling 2021.md",
     "ChatGPT.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "Scriptie/Inhoudelijke Aantekeningen/Idee Daniël over analyse.md",
     "Personal Notes/Extrie Vergadering 01-10-2025.md",
     "SA/SA Algemeen/Dismissal Tim/Paper Tim.md",
@@ -244,7 +283,6 @@
     "Scriptie/Bronnen/Overig/PDFs Overig/TK Kamerbrief Onderhandelaarsakkoord gezond naar het pensioen.pdf",
     "Scriptie/Eigen bestanden/Scriptie Introductie Feedback 1e Versie.md",
     "Scriptie/Eigen bestanden/Scriptie Introductie 1e versie.md",
-    "Scriptie/Bronnen/Overig/TK Brief gezond naar het pensioen.md",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
     "Personal Notes/Extrie",
     "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter_feedback.pdf",
