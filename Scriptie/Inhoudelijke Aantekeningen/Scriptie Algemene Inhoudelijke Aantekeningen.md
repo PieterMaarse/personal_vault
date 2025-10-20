@@ -17,6 +17,23 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ---
 ## Aantekeningen
 
+Twijfel welke kant ik op ga. LISS survey heeft niet de hele directe maatstaf voor zwaar werk die ik wel verwachtte. Twee ideeën
+1) Voorspelling maken voor iedereen van de microdata of ze zwaar werk doen wat ik dan op basis van de LISS moet classificeren.
+2) Directe regressie van RVU gebruik op LISS dataset. Zijn echter weinig overlappen denk ik (uitzoeken!)
+
+
+### LISS data conclusie
+
+LISS data is niet heel nice. Self-reported dus niet heel betrouwbaar. Bijvoorbeeld, als je kijkt naar de leeftijdsdistributie van mensen die aangeven eerder met pensioen te zijn gegaan zie je dat dit een harde dip heeft na 67, maar niet naar nul gaat. Dit impliceert naar mijn mening dat verschillende mensen de vraag op een andere manier hebben geïnterpreteerd.
+
+Daarnaast zie je dat bij verschillende leeftijden een verschillend percentage van de mensen toestemming heeft gegeven om te koppelen aan CBS. Dit is dus geen random selectie, wat tot een bias kan leiden.
+
+Ook zit er niet een harde maatstaf in voor zwaar werk. Hoe doen ze dit in de literatuur?
+
+
+
+
+
 ### Vragen Jellien 
 
 - Waarom perse LISS panel?

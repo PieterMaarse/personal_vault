@@ -19,6 +19,10 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ## Vragen
 
+- [ ] Zijn mensen die vaker meedoen ouder?
+- [ ] Verband tussen mean_age over de jaren en variabelen
+- [ ] Duidelijk meer RVU usage bij supervisory dingen, wat gebeurt als je de niet RVU selecteert naar leeftijd? Het kan zijn dat oudere mensen gewoon meer supervisory dingen hebben en meer van RVU gebruik maken?
+
 ### LISS
 
 Samenvoegen
@@ -28,6 +32,11 @@ Samenvoegen
 	- Die knikker ik er uit
 - Age heeft 2009 los
 - Percentage disabled was tot 20.. een eigen ingevuld getal, daarna was het 4 groepen voor (e.g. 15-30%), die eerste vertaald naar de tweede
+- 2019 early retirement (ER_bool) andere vraag? Veel mensen hebben dan nee ingevuld waar andere jaren wel? Ook 24 veel mensen opeens niet
+- Highest edu mist vaak voor 2019? Klopt
+-
+
+
 
 
 #### Vragen
@@ -74,8 +83,7 @@ Leeftijd van mensen met ER_bool = True is reletief jong, duidelijke piek bij 67
 
 **Vragen**
 
-- Zijn mensen die aangeven ER te pakken ook allemaal occupation retired?
-
+- [ ] Zijn mensen die aangeven ER te pakken ook allemaal occupation retired?
 - [ ] Welke groepen zijn verbonden aan zwaar werk?
 	- [ ] Hoe definieer je zwaar werk?
 - [ ] Zijn mensen die aangeven zwaar werk te hebben gehad eerder/meer met pensioen gegaan?

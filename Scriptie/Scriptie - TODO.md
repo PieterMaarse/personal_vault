@@ -27,30 +27,21 @@ FROM [[]] and !outgoing([[]])
 
 Stappenplan onderzoek
 
-- [x] LISS data: classificeren hard werk
-	- [x] Bepalen welk jaar ik ga gebruiken
-		- [x] Meerdere jaren
-	- [ ] Welke vragen zijn relevant
-		- [ ] Hoe wil ik deze gaan opschrijven?
-		- [ ] Hoe houdt ik dit overzichtelijk?
-	- [ ] Welke verbanden kan ik uit de dataset halen?
-		- [ ] Hoe kan ik dit goed weergeven?
-	- [ ] Welke combinatie leidt tot hard werk
-		- [ ] Hoe wil ik die implementeren?
-		- [ ] Wat is een handige manier om regels op te stellen
-
-- [x] CBS data
-	- [x] Omgeving verkennen
-	- [x] Koppelen aan LISS classificatie
-	- [ ] Data verkennen
-		- [ ] Hoeveel procent van de populatie heeft wat
-		- [ ] Zijn er al logische verbanden?
-	- [ ] Eventueel relevante variabelen eruit halen
-	- [ ] Relevant features verzinnen
-
-- [ ] Modellen
-	- [ ] Mogelijke classificatie modellen 
-	- [ ] Eerste test voorspelling
+- [ ] Is het mogelijk om direct uit overlap LISS x RVU conclusies te trekken?
+	- [ ] Hoeveel mensen zitten in LISS én RVU?
+		- [ ] 27, maar komen 
+	- [ ] Wie maken gebruik van RVU?
+		- [ ] Welke leeftijd?
+		- [ ] Welk jaar?
+		- [ ] Welke sector?
+		- [ ] Welke...
+- [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
+	- [ ] Zorgen dat eerder plots weer labels hebben
+- [ ] Willen we LISS data gebruiken of microdata?
+- [ ] Hoe classificeert de literatuur zwaar werk?
+	- [ ] Hoe doet die Duitse studie dat?
+	- [ ] Heb ik papers gemist?
+- [ ] Hamvraag: hoe classificeren we wie zwaar werk doet?
 
 
 ## Uitzoeken
@@ -58,7 +49,11 @@ Stappenplan onderzoek
 - [ ] 
 
 
+
+
+---
 ## Archief
+
 
 ### Uitzoeken
 
@@ -101,3 +96,27 @@ Stappenplan onderzoek
 	- [x] Boukje (info@... .nl?) mailen met onderzoeks idee, welke data ik wil koppelen en SEO code.
 
 
+- [x] LISS data: classificeren hard werk
+	- [x] Bepalen welk jaar ik ga gebruiken
+		- [x] Meerdere jaren
+	- [x] Welke vragen zijn relevant
+		- [x] Hoe wil ik deze gaan opschrijven?
+		- [x] Hoe houdt ik dit overzichtelijk?
+	- [x] Welke verbanden kan ik uit de dataset halen?
+		- [x] Hoe kan ik dit goed weergeven?
+	- [ ] Welke combinatie leidt tot hard werk
+		- [ ] Hoe wil ik die implementeren?
+		- [ ] Wat is een handige manier om regels op te stellen
+
+- [x] CBS data
+	- [x] Omgeving verkennen
+	- [x] Koppelen aan LISS classificatie
+	- [x] Data verkennen
+		- [ ] Hoeveel procent van de populatie heeft wat
+		- [ ] Zijn er al logische verbanden?
+	- [ ] Eventueel relevante variabelen eruit halen
+	- [ ] Relevante features verzinnen
+
+- [ ] Modellen
+	- [ ] Mogelijke classificatie modellen 
+	- [ ] Eerste test voorspelling
