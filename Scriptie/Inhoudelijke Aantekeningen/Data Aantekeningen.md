@@ -22,6 +22,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] Zijn mensen die vaker meedoen ouder?
 - [ ] Verband tussen mean_age over de jaren en variabelen
 - [ ] Duidelijk meer RVU usage bij supervisory dingen, wat gebeurt als je de niet RVU selecteert naar leeftijd? Het kan zijn dat oudere mensen gewoon meer supervisory dingen hebben en meer van RVU gebruik maken?
+- [ ] Wat zat er nou in LISS over werk categoriën
 
 ### LISS
 
@@ -34,9 +35,14 @@ Samenvoegen
 - Percentage disabled was tot 20.. een eigen ingevuld getal, daarna was het 4 groepen voor (e.g. 15-30%), die eerste vertaald naar de tweede
 - 2019 early retirement (ER_bool) andere vraag? Veel mensen hebben dan nee ingevuld waar andere jaren wel? Ook 24 veel mensen opeens niet
 - Highest edu mist vaak voor 2019? Klopt
--
+
+- ISCO 08: afgeleid van vraag 085. 
 
 
+## Microdata
+
+- Hoogsteopleidingstab: hoogste opleidingsniveau
+- SPOLIS: variable BEID (bedrijfsindicatie), koppelen aan ander bestand. SBI op 5 digits
 
 
 #### Vragen

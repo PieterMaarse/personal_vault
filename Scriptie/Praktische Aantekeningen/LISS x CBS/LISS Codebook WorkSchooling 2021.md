@@ -83,6 +83,8 @@ Welke dingen komen vaak samen voor. Physically demanding en willen stoppen? Kijk
 
 > [[PDF_LISS_codebook_WorkSchooling_21.pdf#page=43&selection=141,0,147,1|p.43:  cw21n611 ISCO 08 coding given at ws085a.]]
 > Nog toevoegen!
+
+
 ### Belangrijke vragen
 
 > [[PDF_LISS_codebook_WorkSchooling_21.pdf#page=17&selection=113,0,124,28|p.17:  cw21n105 - cw21n110 On account of what diagnosis were you pronounced disabled for work]]
