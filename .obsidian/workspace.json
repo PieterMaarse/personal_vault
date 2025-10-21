@@ -36,9 +36,45 @@
               "icon": "lucide-file",
               "title": "Scriptie - TODO"
             }
+          },
+          {
+            "id": "c9cc04f77a268cd3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
+                "page": 2,
+                "left": -3,
+                "top": 131,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "spolisbus"
+            }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "b2f5a4c50a3b13fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0be6190871168db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/RVU.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "RVU"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scriptie/Scriptie - TODO.md",
+                "file": "New notes/RVU.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scriptie - TODO"
+              "title": "Outline of RVU"
             }
           },
           {
@@ -237,44 +273,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "435ec844dd3407b7",
+  "active": "0be6190871168db7",
   "lastOpenFiles": [
-    "Scriptie/Inhoudelijke Aantekeningen/Data Aantekeningen.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook WorkSchooling 2021.md",
-    "Scriptie/Bronnen/Overig/PDFs Overig/PDF_LISS_codebook_WorkSchooling_21.pdf",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/CBS omgeving tips.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/CBS Upload Procedure.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/LISS Codebook Robotization.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/Microdata bestanden met toegang.md",
-    "New notes/Untitled.md",
     "Scriptie/Scriptie - TODO.md",
+    "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
+    "New notes/RVU.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen",
+    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/RVU Aantekeningen.md",
+    "Scriptie/Meetings/Meeting Jellien.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Idee Daniël over analyse.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/SBI.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/Overzicht van Regelingen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/AOW Monitor.md",
+    "Scriptie/Praktische Aantekeningen/CBS/population-register-data.pdf",
+    "Scriptie/Praktische Aantekeningen/CBS/CBS omgeving tips.md",
+    "Scriptie/Praktische Aantekeningen/CBS/Microdata bestanden met toegang.md",
+    "Scriptie/Praktische Aantekeningen/CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
+    "Scriptie/Inhoudelijke Aantekeningen/CBS data",
+    "Scriptie/Praktische Aantekeningen/LISS/LISS Codebook WorkSchooling 2021.md",
+    "Scriptie/Praktische Aantekeningen/LISS/codebook_cw24q_EN_1.0.pdf",
+    "Scriptie/Praktische Aantekeningen/LISS/LISS Codebook Robotization.md",
+    "Scriptie/Praktische Aantekeningen/LISS x CBS/PDF CBS procedure lisspanel.pdf",
+    "Scriptie/Praktische Aantekeningen/LISS x CBS/PDF CBS Voorschrift bestandsformaat en uploadprocedure.pdf",
+    "Scriptie/Praktische Aantekeningen/LISS x CBS/CBS Upload Procedure.md",
+    "Scriptie/Praktische Aantekeningen/Aantekeningen Mailtje Bevestiging.md",
+    "Scriptie/Praktische Aantekeningen/Scriptie Algemene Praktische Aantekeningen.md",
+    "Scriptie/Praktische Aantekeningen/Untitled",
+    "Scriptie/Praktische Aantekeningen/CBS",
+    "Scriptie/Praktische Aantekeningen/LISS",
+    "New notes/Extrie lid worden van Kraket.md",
+    "New notes/Clippings/Intro to the CBS data.md",
     "Personal Notes/Coding/Chat - Intro R.md",
     "Scriptie/$Scriptie.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
     "Scriptie/Bronnen/Overig/Vervroegd pensioen is kwestie van noodzaak of fortuin.md",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/PDF CBS procedure lisspanel.pdf",
-    "Scriptie/Bronnen/Overig/PDFs Overig/20170519-111211_Q2016_paper_flows_-_final.docx.pdf",
-    "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
     "ChatGPT.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Idee Daniël over analyse.md",
-    "Personal Notes/Extrie Vergadering 01-10-2025.md",
-    "SA/SA Algemeen/Dismissal Tim/Paper Tim.md",
-    "SA/SA Algemeen/Dismissal Tim/Job_Insecurity_Feb2022.pdf",
-    "SA/SA Algemeen/Dismissal Tim/Data Dismissal Rates Tim.md",
-    "SA/SA Algemeen/Dismissal Tim/Labour market transitions - LFS longitudinal data (lfsi_long).md",
-    "SA/SA Algemeen/Dismissal Tim/LMT Statistics Explained.md",
-    "Scriptie/Inhoudelijke Aantekeningen/RVU Aantekeningen.md",
-    "$TODO.md",
-    "New notes/Extrie lid worden van Kraket.md",
-    "Scriptie/Bronnen/Overig/PDFs Overig/TK Kamerbrief Onderhandelaarsakkoord gezond naar het pensioen.pdf",
-    "Scriptie/Eigen bestanden/Scriptie Introductie Feedback 1e Versie.md",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
-    "Personal Notes/Extrie",
-    "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter_feedback.pdf",
-    "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter.pdf",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/PDF CBS Voorschrift bestandsformaat en uploadprocedure.pdf",
-    "Scriptie/Praktische Aantekeningen/LISS x CBS/PDFs/codebook_cw24q_EN_1.0.pdf",
     "Pasted image 20250921151212.png",
     "SA/SA Investeringen/EC Modellen Canvas.png",
     "UniClass/Afbeeldingen/Programme Finance 1 2024P2.png",

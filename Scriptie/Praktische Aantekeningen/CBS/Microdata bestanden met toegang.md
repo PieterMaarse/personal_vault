@@ -27,6 +27,6 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 | SPOLISBUS          | Ja    | Alle (2006-2010 mapje Polisbus) |                  | Salaris en polis administratie                    |
 | EBBnw              | Ja    | Alle                            | EBB              | Enquete Beroepsbevolking                          |
 | INPATAB            | Ja    | Alle                            | INKOMENSPERSONEN | Inkomenspanelonderzoek tabelbestanden             |
-| GBAPersoonktab     | Ja    | Alle                            | GBAPERSOON       | Gemeentelijke basisadministratie persoonsgegevens |
+| GBAPersoonstab     | Ja    | Alle                            | GBAPERSOON       | Gemeentelijke basisadministratie persoonsgegevens |
 | Hoogsteopltab      | Ja    | Alle                            | HOOGSTEOPL       |                                                   |
 | 9765_GLV13815...   |       |                                 | RVU data         |                                                   |

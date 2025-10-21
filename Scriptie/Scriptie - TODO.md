@@ -27,14 +27,26 @@ FROM [[]] and !outgoing([[]])
 
 Stappenplan onderzoek
 
-- [ ] Is het mogelijk om direct uit overlap LISS x RVU conclusies te trekken?
-	- [ ] Hoeveel mensen zitten in LISS én RVU?
-		- [ ] 27, maar komen 
-	- [ ] Wie maken gebruik van RVU?
-		- [ ] Welke leeftijd?
-		- [ ] Welk jaar?
-		- [ ] Welke sector?
-		- [ ] Welke...
+- [x] Is het mogelijk om direct uit overlap LISS x RVU conclusies te trekken?
+	- [x] Hoeveel mensen zitten in LISS én RVU?
+		- [x] 27, maar komen 
+	- [x] Wie maken gebruik van RVU?
+		- [x] Welke leeftijd?
+		- [x] Welk jaar?
+		- [x] Welke sector?
+		- [x] Welke...
+- [ ] Microdata verkennen
+	- [ ] SPOLISBUS
+		- [ ] Welke variabelen importeren?
+	- [ ] HOOGSTEOPLTAB
+- [ ] Microdata x RVU data
+	- [ ] Relevante variabelen kopellen
+		- [ ] Sector, type functie, opleidingsniveau?
+	- [ ] Verbanden onderzoeken
+		- [ ] Wie maken gebruik van de RVU?
+		- [ ] Zijn variabelen van LISS dataset nodig?
+			- [ ] Voorspellingen?
+
 - [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
 	- [ ] Zorgen dat eerder plots weer labels hebben
 - [ ] Willen we LISS data gebruiken of microdata?

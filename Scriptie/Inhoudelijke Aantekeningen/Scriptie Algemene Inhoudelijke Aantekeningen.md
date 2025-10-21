@@ -58,7 +58,7 @@ Ook zit er niet een harde maatstaf in voor zwaar werk. Hoe doen ze dit in de lit
 
 ### Data
 
-[[Data Aantekeningen]]
+[[$Data Aantekeningen]]
 
 - EBB bevat zelfgerapporteerde gezondheidsscore
 - Hoe zit RVU in microdata?
