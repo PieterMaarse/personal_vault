@@ -11,7 +11,6 @@ LIST
 FROM [[]] and !outgoing([[]])
 ```
 ---
-
 ## Planning
 
 - 1 maand literatuur onderzoek (grotendeels) en research proposal

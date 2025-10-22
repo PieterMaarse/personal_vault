@@ -6,10 +6,12 @@ tags:
   - note
   - data
 about:
-inhoudelijk:
+  - RVU gebruik
 data_source: SEO
 nrows:
 ncols:
+documentation:
+inhoudelijk:
 gearchiveerd:
 ---
 ---
@@ -21,6 +23,19 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ---
 ## Vragen
 
+- [ ] ==Gaat het om RVU treffen of om gebruik van drempelvrijstelling RVU-heffing?==
+	- Hier komt Jellien op terug
+- [ ] Er zijn instances met jaar in (22,23), maar ook "eerder waarschijnlijk al RVU". Wat betekent dit?
 
 
 ## Aantekeningen
+
+- In de RVU data staat CAO nummer, er bestaat een conversie naar meer informatieve naam
+	- Jellien gaat kijken
+	- Uitsplitsen mag niet vanuit microdata omdat er vaak 1 bedrijf achter cao zit
+		- Modelleren mag wel, figuren exporteren niet
+- JAAR kolom geeft aan welk jaar, met minimum 2021
+	- Voor JAAR = 2021 geeft RVU kolom weer of het hiervoor was of niet
+		- Als dit zo is, dan is het niet zeker of t een RVU is
+		- Ook lastig te baseren op polis data omdat mensen ook ander/meer/minder inkomen kunnen hebben
+		- ==Alleen er zijn ook instances met >21 en Eerder waarschijnlijk al==
