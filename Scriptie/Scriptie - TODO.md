@@ -45,7 +45,6 @@ Stappenplan onderzoek
 		- [ ] Wie maken gebruik van de RVU?
 		- [ ] Zijn variabelen van LISS dataset nodig?
 			- [ ] Voorspellingen?
-
 - [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
 	- [ ] Zorgen dat eerder plots weer labels hebben
 - [ ] Willen we LISS data gebruiken of microdata?

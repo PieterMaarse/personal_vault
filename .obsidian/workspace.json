@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "465a4a13b39c7d2e",
+        "id": "222e58a683d15769",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb0cecfb6fad000",
+            "id": "8dac493be61a86d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Scriptie - TODO.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Scriptie - TODO"
+            }
+          },
+          {
+            "id": "b80a085e7cbd6e7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/TODO 24-10-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO 24-10-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,18 +234,112 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fb0cecfb6fad000",
+  "floating": {
+    "id": "f91ea1c391a69ee0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "101a70c41f290db9",
+        "type": "window",
+        "children": [
+          {
+            "id": "1ec82bf024057ab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aefeaa7dcf0247b1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
+                    "page": 56,
+                    "left": -93,
+                    "top": 755,
+                    "zoom": 1
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "spolisbus"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d504ddf1ebf1f577",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9509d25648d3f706",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New notes/SPOLISBUS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SPOLISBUS"
+                }
+              },
+              {
+                "id": "8912a3e70cda9d62",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New notes/Gesprek Jellien 24-10-2025.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Gesprek Jellien 24-10-2025"
+                }
+              },
+              {
+                "id": "6552fa8995fa81a9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "New notes/SPOLISBUS.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "SPOLISBUS"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 51,
+        "y": -896,
+        "width": 1114,
+        "height": 818,
+        "maximize": true,
+        "zoom": -0.5
+      }
+    ]
+  },
+  "active": "aefeaa7dcf0247b1",
   "lastOpenFiles": [
-    "Scriptie/$Scriptie.md",
-    "Scriptie/Scriptie - TODO.md",
+    "New notes/Gesprek Jellien 24-10-2025.md",
+    "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
     "New notes/SPOLISBUS.md",
+    "New notes/TODO 24-10-2025.md",
+    "Scriptie/Scriptie - TODO.md",
+    "Scriptie/$Scriptie.md",
+    "New notes/Clippings/Intro to the CBS data.md",
+    "Scriptie/Praktische Aantekeningen/CBS/CBS omgeving tips.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
     "Scriptie/Praktische Aantekeningen/CBS/Microdata bestanden met toegang.md",
     "New notes/LISS.md",
     "New notes/BETAB.md",
     "New notes/HOOGSTEOPLTAB.md",
     "New notes/RVU.md",
-    "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen",
     "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/RVU Aantekeningen.md",
     "Scriptie/Meetings/Meeting Jellien.md",
@@ -237,7 +350,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/Overzicht van Regelingen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/AOW Monitor.md",
     "Scriptie/Praktische Aantekeningen/CBS/population-register-data.pdf",
-    "Scriptie/Praktische Aantekeningen/CBS/CBS omgeving tips.md",
     "Scriptie/Praktische Aantekeningen/CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "Scriptie/Inhoudelijke Aantekeningen/CBS data",
     "Scriptie/Praktische Aantekeningen/LISS/LISS Codebook WorkSchooling 2021.md",
@@ -246,13 +358,9 @@
     "Scriptie/Praktische Aantekeningen/LISS x CBS/PDF CBS procedure lisspanel.pdf",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/PDF CBS Voorschrift bestandsformaat en uploadprocedure.pdf",
     "Scriptie/Praktische Aantekeningen/LISS x CBS/CBS Upload Procedure.md",
-    "Scriptie/Praktische Aantekeningen/Aantekeningen Mailtje Bevestiging.md",
-    "Scriptie/Praktische Aantekeningen/Scriptie Algemene Praktische Aantekeningen.md",
     "Scriptie/Praktische Aantekeningen/Untitled",
     "Scriptie/Praktische Aantekeningen/CBS",
     "Scriptie/Praktische Aantekeningen/LISS",
-    "New notes/Extrie lid worden van Kraket.md",
-    "New notes/Clippings/Intro to the CBS data.md",
     "SA/SA Investeringen/EC Modellen Canvas.canvas",
     "Pasted image 20250921151212.png",
     "SA/SA Investeringen/EC Modellen Canvas.png",

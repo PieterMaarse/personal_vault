@@ -3,6 +3,7 @@ MOC:
   - "[[$Scriptie]]"
 tags:
   - clippings
+  - note
 source: https://stulp.gmw.rug.nl/prefer/posts/posts/2024-07-16-intro-csb-datasets.html
 published:
 created: 2025-10-21
