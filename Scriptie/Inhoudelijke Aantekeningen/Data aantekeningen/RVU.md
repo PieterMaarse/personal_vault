@@ -26,6 +26,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] ==Gaat het om RVU treffen of om gebruik van drempelvrijstelling RVU-heffing?==
 	- Hier komt Jellien op terug
 - [ ] Er zijn instances met jaar in (22,23), maar ook "eerder waarschijnlijk al RVU". Wat betekent dit?
+- [ ] Wat betekent RVU pas in 2021 voor mensen met RVU in 2022 / 2023
 
 
 ## Aantekeningen

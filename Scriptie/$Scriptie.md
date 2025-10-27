@@ -35,10 +35,16 @@ TABLE about
 WHERE contains(MOC, this.file.link) AND contains(tags, "note") AND !gearchiveerd AND !contains(tags, "algemeen") AND inhoudelijk AND !contains(tags, "background")
 ```
 
+#### Data
+```dataview
+TABLE about
+WHERE contains(MOC, this.file.link) AND contains(tags, "note") AND !gearchiveerd AND !contains(tags, "algemeen") AND contains(tags, "data")
+```
+
 #### Praktisch
 ```dataview
 TABLE about
-WHERE contains(MOC, this.file.link) AND contains(tags, "note") AND !gearchiveerd AND !contains(tags, "algemeen") and !inhoudelijk
+WHERE contains(MOC, this.file.link) AND contains(tags, "note") AND !gearchiveerd AND !contains(tags, "algemeen") and !inhoudelijk and !contains(tags, "data")
 ```
 
 #### Achtergrond

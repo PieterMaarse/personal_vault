@@ -54,6 +54,9 @@ Vlm staat het geordend op rinpersoons... niet random.
 
 2025:
 - De eerste 5001 variabalen hebben RINPERSOONS = A. 
+- n_distinct: 
+- Percentages:
+	- 7M: 52.44966%
 
 
 2023: 
@@ -61,12 +64,16 @@ Vlm staat het geordend op rinpersoons... niet random.
 - 10,783 RINPERSOONS A, 126,408,260 R, 1115 S
 - SSRTIV: 11: 6,363,629, 13: 63,806, 15:116,210,855, 17: 3,781,868
 - n_distinct(RINPERSOON) - 9,740,476 (13pp)
+	- Percentages: 
+		- 7M: 49.85716%
 
 polis_23_7M heeft random sample met helft van de mensen
+
 
 2021:
 - rijen 119,168,165
 - n_distinct(RINPERSOON) - 9,328,255
+- perc 7M: 51.42622%
 
 ### Laad tijden
 

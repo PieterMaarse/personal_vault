@@ -11,7 +11,7 @@ data_source: Microdata
 nrows:
 ncols:
 documentation:
-inhoudelijk:
+inhoudelijk: false
 gearchiveerd:
 ---
 ---
