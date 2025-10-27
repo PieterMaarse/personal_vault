@@ -48,27 +48,34 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Zowel lonen als uitkeringen en pensioenen
 - Het bestand wordt gecontroleerd op SBI-sectie-niveau. Bij gedetailleerder niveau dient de gebruiker zelf de plausibiliteit per sbi-niveau te controleren.
 
+### Datasets properties
+
+Vlm staat het geordend op rinpersoons... niet random.
+
 2025:
-- De eerste 5001 variabalen hebben RINPERSOONS = A. Vlm staat het geordend op rinpersoons... niet random.
+- De eerste 5001 variabalen hebben RINPERSOONS = A. 
 
 
 2023: 
-- 126420158 rijen
-- 10783 RINPERSOONS A, 126408260 R, 1115 S
-- SSRTIV: 11: 6363629, 13: 63806, 15:116210855, 17: 3781868
+- 126,420,158 rijen
+- 10,783 RINPERSOONS A, 126,408,260 R, 1115 S
+- SSRTIV: 11: 6,363,629, 13: 63,806, 15:116,210,855, 17: 3,781,868
+- n_distinct(RINPERSOON) - 9,740,476 (13pp)
+
+polis_23_7M heeft random sample met helft van de mensen
 
 2021:
--  rijen
+- rijen 119,168,165
+- n_distinct(RINPERSOON) - 9,328,255
 
 ### Laad tijden
 
-Bij 2025 (63372046 rijen)
+Bij 2025 (63,372,046 rijen, tot (en met?) juni)
 - 8 variabelen en alle rijen: 734 seconden
 - 4 variabelen en alle rijen: 500 seconden
 - 1 variabele en alle rijen: 350 seconden
 Dus, bij benadering lineair / net toenemend stijgend naar variabelen?
 
-2023 heeft 126420158 rijen
 
 ### Relevante variabelen
 
