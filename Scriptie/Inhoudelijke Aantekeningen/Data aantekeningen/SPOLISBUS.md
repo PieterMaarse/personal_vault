@@ -48,6 +48,25 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Zowel lonen als uitkeringen en pensioenen
 - Het bestand wordt gecontroleerd op SBI-sectie-niveau. Bij gedetailleerder niveau dient de gebruiker zelf de plausibiliteit per sbi-niveau te controleren.
 
+
+### Koppeling met RVU
+
+- Percentage mensen dat in 2021 RVU had neemt toe naarmate SPOLIS later genomen is
+	- Gek want je zou verwachten dat mensen die eerder met RVU gaan hier ook eerder uit verdwijnen
+- Mensen die in 2023 RVU troffen komen naar verhouding veel minder voor in latere SPOLIS, vergeleken met 2021 RVU.
+	- SPOLIS 2021 -> 2025 :
+		- RVU 21 -> /2
+		- RVU 23 -> /12
+- Voor 2021 is Eerder waarschijnlijk al RVU zwaar oververtegenwoordigd in 2025
+	- Mensen die waarschijnlijk eerder RVU hebben getroffen blijven langer in SPOLIS data
+- RVU in 2022: SPOLIS 2023 -> 2025: Aantal mensen neem toe?
+- SPOLIS 2021: Eerder waarschijnlijk RVU ondervertegenwoordigd?
+
+
+Eerder RVU eruit gooien
+
+Ik denk dat er een fout zit in de Eerder waarschijnlijk al RVU?
+
 ### Datasets properties
 
 Vlm staat het geordend op rinpersoons... niet random.
