@@ -11,13 +11,48 @@
             "id": "5d37e948e4609813",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TODO 27-10-2025.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TODO 27-10-2025"
+            }
+          },
+          {
+            "id": "e8218ffd8b730cc2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
+                "page": 12,
+                "left": -272,
+                "top": 791,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "spolisbus"
+            }
+          },
+          {
+            "id": "0d743efc6e38c5f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SPOLISBUS"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -215,15 +250,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d37e948e4609813",
+  "active": "0d743efc6e38c5f1",
   "lastOpenFiles": [
+    "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
     "TODO 27-10-2025.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
+    "Scriptie/Praktische Aantekeningen/CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "New notes/Prompt SEO tool.md",
     "Scriptie/$Scriptie.md",
     "Scriptie/Meetings/Meeting Jellien 30-10-2025.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/RVU.md",
-    "Scriptie/Inhoudelijke Aantekeningen/CBS data/spolisbus.pdf",
     "Scriptie/Meetings/Meeting Jellien 24-10-2025.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/BETAB.md",
     "Scriptie/Praktische Aantekeningen/Scriptie Algemene Praktische Aantekeningen.md",
@@ -243,8 +279,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Idee Daniël over analyse.md",
     "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/SBI.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Achtergrond Informatie/Overzicht van Regelingen.md",
     "Scriptie/Praktische Aantekeningen/CBS/population-register-data.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/CBS data",
     "Scriptie/Praktische Aantekeningen/LISS/codebook_cw24q_EN_1.0.pdf",

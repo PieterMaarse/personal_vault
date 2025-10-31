@@ -26,6 +26,9 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] Geconverteerde bestanden map die jullie gebruiken bestaat niet?
 - [ ] Mensen hebben negatief basisloon?
 - [ ] Zijn RVUs te herkennen aan dat ze geen heffing hoeven te betalen? Zo onderscheid maken?
+- [ ] Er zijn mensen voor wie van de ene op de andere maand wel de SBEID verandert, maar niet de IKVID
+- [ ] 2020-11 en 2021-01, mensen met meerdere contracten dan eentje minder, daarna eentje meer?
+- [ ] Er zijn mensen met basisuren 400?
 
 ## Aantekeningen
 
@@ -44,6 +47,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Kijken wat relevant is om e.g. management functie te voorspellen
 	- Auto van de zaak
 	- Bonus
+
 
 - Zowel lonen als uitkeringen en pensioenen
 - Het bestand wordt gecontroleerd op SBI-sectie-niveau. Bij gedetailleerder niveau dient de gebruiker zelf de plausibiliteit per sbi-niveau te controleren.
