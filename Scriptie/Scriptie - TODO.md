@@ -34,19 +34,19 @@ Stappenplan onderzoek
 		- [x] Welk jaar?
 		- [x] Welke sector?
 		- [x] Welke...
-- [ ] Microdata verkennen
-	- [ ] SPOLISBUS
-		- [ ] Welke variabelen importeren?
-	- [ ] HOOGSTEOPLTAB
-- [ ] Microdata x RVU data
-	- [ ] Relevante variabelen kopellen
-		- [ ] Sector, type functie, opleidingsniveau?
-	- [ ] Verbanden onderzoeken
+- [x] Microdata verkennen
+	- [x] SPOLISBUS
+		- [x] Welke variabelen importeren?
+	- [x] HOOGSTEOPLTAB
+- [x] Microdata x RVU data
+	- [x] Relevante variabelen kopellen
+		- [x] Sector, type functie, opleidingsniveau?
+	- [x] Verbanden onderzoeken
 		- [ ] Wie maken gebruik van de RVU?
 		- [ ] Zijn variabelen van LISS dataset nodig?
 			- [ ] Voorspellingen?
 - [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
-	- [ ] Zorgen dat eerder plots weer labels hebben
+	- [x] Zorgen dat eerder plots weer labels hebben
 - [ ] Willen we LISS data gebruiken of microdata?
 - [ ] Hoe classificeert de literatuur zwaar werk?
 	- [ ] Hoe doet die Duitse studie dat?
