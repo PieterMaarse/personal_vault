@@ -48,6 +48,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- Auto van de zaak
 	- Bonus
 
+- Mensen in de sector 03 (bouw?) hebben vaker dubbele contracten! Eventuele voorspellende feature
 
 - Zowel lonen als uitkeringen en pensioenen
 - Het bestand wordt gecontroleerd op SBI-sectie-niveau. Bij gedetailleerder niveau dient de gebruiker zelf de plausibiliteit per sbi-niveau te controleren.

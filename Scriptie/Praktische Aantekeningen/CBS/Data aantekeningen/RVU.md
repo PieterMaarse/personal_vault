@@ -43,3 +43,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 		- Alleen er zijn ook instances met >21 en Eerder waarschijnlijk al
 - ==We filteren RVU == "Eerder waarschijnlijk al" eruit!==
 - ==We denken dat voorkomen in de data **niet** betekent dat ze ook gebruik maken van de drempelvrijstelling== 
+
+
+Approx Leeftijdsverdeling RVU
+- 
