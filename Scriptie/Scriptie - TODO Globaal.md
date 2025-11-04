@@ -123,8 +123,8 @@ Stappenplan onderzoek
 	- [x] Omgeving verkennen
 	- [x] Koppelen aan LISS classificatie
 	- [x] Data verkennen
-		- [ ] Hoeveel procent van de populatie heeft wat
-		- [ ] Zijn er al logische verbanden?
+		- [x] Hoeveel procent van de populatie heeft wat
+		- [x] Zijn er al logische verbanden?
 	- [ ] Eventueel relevante variabelen eruit halen
 	- [ ] Relevante features verzinnen
 
