@@ -2,9 +2,9 @@
 	"nodes":[
 		{"id":"7e0d2246fd555dfb","type":"text","text":"SCGE","x":171,"y":-180,"width":407,"height":60},
 		{"id":"35d1d0d3404f3bfb","type":"text","text":"Macro-econometric","x":618,"y":-180,"width":407,"height":60},
-		{"id":"aa1da0186fe15a0b","type":"file","file":"SA/SA Investeringen/Aantekeningen/NEMESIS.md","x":618,"y":-280,"width":407,"height":60},
-		{"id":"47ac2fe92fb46c23","type":"file","file":"SA/SA Investeringen/Aantekeningen/RHOMOLO.md","x":171,"y":-280,"width":407,"height":60},
-		{"id":"b9818b7a35e2ea02","type":"file","file":"SA/SA Investeringen/Aantekeningen/QUEST III.md","x":-280,"y":-280,"width":411,"height":60},
+		{"id":"aa1da0186fe15a0b","type":"file","file":"SEO/SA Investeringen/Aantekeningen/NEMESIS.md","x":618,"y":-280,"width":407,"height":60},
+		{"id":"47ac2fe92fb46c23","type":"file","file":"SEO/SA Investeringen/Aantekeningen/RHOMOLO.md","x":171,"y":-280,"width":407,"height":60},
+		{"id":"b9818b7a35e2ea02","type":"file","file":"SEO/SA Investeringen/Aantekeningen/QUEST III.md","x":-280,"y":-280,"width":411,"height":60},
 		{"id":"a75b5a457b7866c1","type":"text","text":"# Allemaal","x":1065,"y":-280,"width":399,"height":60},
 		{"id":"a47e4b1126b33aeb","type":"text","text":"New- Keynesian DSGE","x":-280,"y":-180,"width":411,"height":60},
 		{"id":"5c343b6c866e83a8","type":"text","text":"- Modelleert EU landen + \"rest van de wereld\"\n- Creatie van kennis verlegd de kennis-grens\n- Adoptie van kennis verhoogt productiviteit\n- Creatie en adoptie van kennis wordt los gemodelleerd, semi-endogene groei\n- Als skilled labour gebruikt wordt in de ene sector, dan niet in de andere","x":-280,"y":160,"width":411,"height":220},
