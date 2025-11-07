@@ -1,3 +1,23 @@
+---
+MOC:
+  - "[[$Cursor voor SEO]]"
+tags:
+  - note
+date: 2025-11-04
+about:
+  - De mensen in het AI team van SEO
+gearchiveerd:
+inhoudelijk:
+---
+---
+## Inbox
+```dataview
+LIST
+FROM [[]] and !outgoing([[]]) and !"_Obsidian"
+```
+---
+
+
 Hoofden: Nienke, robbert
 
 Leden: Claudio, Pedro, Daan, Andrei
