@@ -28,7 +28,7 @@ WHERE contains(MOC, this.file.link)
 	- [x] Daan
 	- [x] Andrei
 	- [ ] Robbert
-- [ ] Uitzoeken hoe cursor werkt
+- [x] Uitzoeken hoe cursor werkt
 - [ ] Antwoorden op vragen Salmaan terugkoppelen
 - [ ] Kijken wat vervolgstappen zijn
 - [ ] Pilot?

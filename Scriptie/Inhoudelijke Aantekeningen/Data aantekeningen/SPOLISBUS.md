@@ -52,6 +52,8 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 - Zowel lonen als uitkeringen en pensioenen
 - Het bestand wordt gecontroleerd op SBI-sectie-niveau. Bij gedetailleerder niveau dient de gebruiker zelf de plausibiliteit per sbi-niveau te controleren.
+- ==Bij het maken van de grote dataset van SPOLIS voor mensen in RVU, LISS, RVU_like en 100k random gaf hij een runtime error, maar het lijkt het wel gewoon goed te hebben gedaan. De dataset was opgeslagen aan het einde en lijkt compleet. Het aantal distinct RINPERSOON klopt==
+	- Ongeveer 2000 mensen zitten er dubbel in
 
 
 ### Koppeling met RVU

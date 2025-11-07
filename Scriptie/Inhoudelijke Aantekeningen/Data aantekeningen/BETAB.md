@@ -35,4 +35,5 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- Koppelbestand nodig voor achterliggende betekenis van SBI
 	- utilities -> code_listings -> bedrijfsindeling -> even kijken
 		-  -> gebruik die van 2008?
+		- Welk koppelbestand voor 2008? Zijn er veel.
 		- Koppel sector code naar sector naam
