@@ -24,5 +24,12 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Lieke
 - Milan
 - Lucas
-- Mattijs?
-- 
+- Jasper
+- Mattijs
+
+
+Hoi allen,
+
+Het leek me een leuk idee om binnenkort een keer met alle nieuwe mensen te gaan poolen ofzo (zit een poollokaal op zo'n 30 seconden lopen). Een aantal van jullie waren ook enthousiast, dus als het je leuk lijkt vul dan de datumprikker in! Een tegenvoorstel voor een andere activiteit is ook zeker welkom. Als ik nog iemand ben vergeten toe te voegen laat het dan even weten en wat mij betreft mensen die er al langer werken ook welkom als ze willen.
+
+link: https://datumprikker.nl/pzxwatikua5dhtyz

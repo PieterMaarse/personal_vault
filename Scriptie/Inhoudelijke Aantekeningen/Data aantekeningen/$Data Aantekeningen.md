@@ -3,11 +3,12 @@ MOC:
   - "[[$Scriptie]]"
 tags:
   - note
+  - data
 date: 2025-10-07
 about:
   - Overzicht en vragen omtrent de gebruikte LISS en microdata data
 gearchiveerd:
-inhoudelijk: true
+inhoudelijk: false
 ---
 ---
 ## Inbox

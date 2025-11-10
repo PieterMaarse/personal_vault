@@ -24,20 +24,19 @@ WHERE contains(MOC, this.file.link)
 
 ## TODO
 
-- [ ] Met mensen overleggen wat zij denken van Cursor
+- [x] Met mensen overleggen wat zij denken van Cursor
 	- [x] Daan
 	- [x] Andrei
-	- [ ] Robbert
+	- [x] Robbert
 - [x] Uitzoeken hoe cursor werkt
-- [ ] Antwoorden op vragen Salmaan terugkoppelen
+- [x] Antwoorden op vragen Salmaan terugkoppelen
 - [ ] Kijken wat vervolgstappen zijn
 - [ ] Pilot?
 
-Refactoring?
 
 ## Uitzoeken
 
-- [ ] Hoe werkt het?
+- [x] Hoe werkt het?
 - [ ] Wat zijn privacy risico's
 	- [ ] SOC 2 Type II (wat het ook betekent)
 	- [ ] Restriction mogelijk

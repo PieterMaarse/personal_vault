@@ -22,12 +22,8 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ---
 ## Vragen
 
-- Waarom heb ik ookalweer die van 2021 gekozen? Iets met RVU?
-- Wat is een handige manier om de antwoorden weer te geven? Is er iets van een excel?
+- [ ] 
 
-==VERKEERDE DATA!!!!! of codebook, hangt ervan af welke je geruikt. Nog een keer er doorheen gaan en checken wat relevant is==
-
-==ZORG DAT JE JUISTE COMBINATIE VAN DATA EN CODEBOOK GEBRUIKT==
 
 ## Notes
 
@@ -59,6 +55,8 @@ Welke dingen komen vaak samen voor. Physically demanding en willen stoppen? Kijk
 
 > [[PDF_LISS_codebook_WorkSchooling_21.pdf#page=46&selection=37,0,60,4|p.46:  cw21n412 - cw21n425 Now follows a list of aspects that can characterize a job. Please indicate below whether the following aspects [if cw21n088=1 or cw21n102=1: are / were] often, sometimes or never characteristic for the job.]]
 > ==SUPER BELANGRIJK: veel opties die met zwaar werk worden gerelateerd==. Niet iedereen zit er in... :(
+
+427, wanneer komt die voor?
 
 > [[PDF_LISS_codebook_WorkSchooling_21.pdf#page=34&selection=96,0,110,22|p.34:  cw21n291 - cw21n306 If you were to stop working before the old age pension age, for what reason or reasons would that be?]]
 > BELANGRIJK: bijvoorbeeld, "mijn werk is te zwaar" als antwoord. Alleen bij 65 en jonger
