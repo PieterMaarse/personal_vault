@@ -24,6 +24,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## Notes
 
 - Doen ze feature engineering?
+- [[Voorspelmodel EBB]]
 
 ## Summary
 

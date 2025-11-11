@@ -22,4 +22,6 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 		- [ ] Gewoon alles erin gooien?
 		- [ ] Features zelf gemaakt?
 	- [ ] Gemaakt in R?
+		- [ ] Ja
 	- [ ] Algemene tips?
+		- [ ] Tradeoff tussen precision en recall
