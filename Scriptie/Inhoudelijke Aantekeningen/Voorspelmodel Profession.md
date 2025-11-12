@@ -35,14 +35,14 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## Design
 
 - Target variable:
-	- Profession
+	- Profession (2020)
 	- 3 levels:
 		- Supervisory
 		- Manual
 		- Mental
 	- For people who appear mutliple times, last value
 - Features:
-	- SPOLIS variables
+	- SPOLIS variables (jan 2020)
 		- Last time they appear 
 			- ==Should later be in the year of the corresponding LISS!!==
 		- Multiple contracts: take one with highest basisloon
@@ -100,6 +100,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 		- Of het jaar ervoor
 		- Also, if someone changes profession, this can be relevant!
 		- Eerst simpel houden: gewoon de laatste pakken, wordt wss onzin.
+		- Start easy? Alleen met, e.g., 2020?
 	
 
 ## Vragen

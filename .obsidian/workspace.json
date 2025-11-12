@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "3492e386cd7652f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "654fabffdac3d7fb",
             "type": "leaf",
             "state": {
@@ -281,10 +293,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "654fabffdac3d7fb",
+  "active": "3492e386cd7652f4",
   "lastOpenFiles": [
-    "New notes/TODO 2025-11-11.md",
     "Scriptie/Inhoudelijke Aantekeningen/Voorspelmodel Profession.md",
+    "New notes/TODO 2025-11-11.md",
     "Scriptie/$Scriptie.md",
     "Scriptie/TODO 2025-11-10.md",
     "New notes/Voorspelmodel EBB.md",
