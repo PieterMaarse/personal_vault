@@ -24,49 +24,21 @@
             }
           },
           {
-            "id": "4d93869e683bff1c",
+            "id": "54a7f850363e61c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scriptie/TODO Archive/TODO 2025-11-10.md",
+                "file": "Scriptie/TODO 2025-11-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO 2025-11-10"
-            }
-          },
-          {
-            "id": "8ccc72c347a726bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scriptie Algemene Inhoudelijke Aantekeningen"
-            }
-          },
-          {
-            "id": "919c30c122731e2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Datasets overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Datasets overview"
+              "title": "TODO 2025-11-13"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +237,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ccc72c347a726bf",
+  "active": "54a7f850363e61c9",
   "lastOpenFiles": [
-    "Scriptie/Inhoudelijke Aantekeningen/Test Management functie publieke sector meer in RVU.md",
+    "Scriptie/$Scriptie.md",
+    "Scriptie/TODO Archive/TODO 2025-11-10.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/1e Versie Voorspelmodel Profession.md",
+    "New notes/Meeting Taskforce 2.md",
+    "Scriptie/Scriptie - TODO Globaal.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Datasets overview.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Test Management functie publieke sector meer in RVU.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Idee Daniël over analyse.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/BETAB.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/HOOGSTEOPLTAB.md",
@@ -276,12 +256,8 @@
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/Intro to the CBS data.md",
     "Scriptie/TODO 2025-11-13.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Dataset merge check.md",
-    "Scriptie/TODO Archive/TODO 2025-11-10.md",
-    "Scriptie/$Scriptie.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Voorspelmodel EBB.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Voorspelmodel EBB.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
-    "Scriptie/Inhoudelijke Aantekeningen/Voorspelmodel Profession.md",
-    "Scriptie/Scriptie - TODO Globaal.md",
     "Scriptie/Bronnen/Overig/PDFs Overig/PDF_PowerPoint_EBB.pdf",
     "Scriptie/Bronnen/Overig/PowerPoint EBB Voorspellingen SEO.md",
     "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
@@ -292,9 +268,6 @@
     "SEO/Mensen sinds 1 sep.md",
     "New notes/Untitled 1.md",
     "SEO/Cursor voor SEO/$Cursor voor SEO.md",
-    "New notes/Untitled 2.md",
-    "SEO/Cursor voor SEO/Cursor SEO - Vragen Salmaan.md",
-    "SEO/Meta analyse Kim/Meta analyse Kim.md",
     "Scriptie/Bronnen/Overig/PDFs Overig/PDF_LISS_codebook_WorkSchooling_21.pdf",
     "SEO/Meta analyse Kim",
     "SEO/Cursor voor SEO",
@@ -302,7 +275,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/2012-Statistische-eenheden-in-de institutionele-statistieken-art.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/population-register-data.pdf",
     "Personal Notes/Filosofie",
-    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen",
     "SEO/SA Investeringen/EC Modellen Canvas.canvas",
     "Pasted image 20250921151212.png",
     "SA/SA Investeringen/EC Modellen Canvas.png",

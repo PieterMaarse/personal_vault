@@ -21,15 +21,15 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 1. [x] LISS mensen selecteren uit SPOLIS
 2. [x] Target variable construeren
 	1. [x] Profession opgedeeld in 3 groepen
-3. [ ] Features constructen
-4. [ ] Train/validation/test sample splitsen
+3. [x] Features constructen
+4. [x] Train/validation/test sample splitsen
 	1. [ ] Als aparte datasets opslaan (test sample pas aan einde weer aanraken)?
-5. [ ] Filter voor NAs in target
-6. [ ] Eerste test voorspelmodel
-	1. [ ] Paar simpele SPOLIS dingen (sector, salaris? laatste entry in SPOLIS)
-	2. [ ] Simpel model (multinomial logit)
-7. [ ] Eerste Evaluatie
-	1. [ ] accuracy, precision, recall
+5. [x] Filter voor NAs in target
+6. [x] Eerste test voorspelmodel
+	1. [x] Paar simpele SPOLIS dingen (sector, salaris? laatste entry in SPOLIS)
+	2. [x] Simpel model (multinomial logit)
+7. [x] Eerste Evaluatie
+	1. [x] accuracy, precision, recall
 
 
 ## Design
@@ -61,7 +61,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## Checken
 
 - [ ] Of ik de laatste selecteer chronologisch of de eerste
-- [ ] Heeft SARBEIDSRELATIE ooit we waardes?
+- [ ] Heeft SARBEIDSRELATIE ooit wel waardes?
 - [ ] Do profession changes correspond to contract changes? Or BASISLOON changes?
 	- [ ] Hoe consistent zijn mensen met dit doorgeven? Maak tile plot van target variable
 - [ ] We kunnen er een panel van maken? Alleen wel veel mensen die maar één keer voorkomen
