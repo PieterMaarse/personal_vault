@@ -42,12 +42,13 @@ Stappenplan onderzoek
 	- [x] Relevante variabelen kopellen
 		- [x] Sector, type functie, opleidingsniveau?
 	- [x] Verbanden onderzoeken
-		- [ ] Wie maken gebruik van de RVU?
-		- [ ] Zijn variabelen van LISS dataset nodig?
-			- [ ] Voorspellingen?
+		- [x] Wie maken gebruik van de RVU?
+	- [ ] Predictions maken voor
+		- [ ] Profession
+			- [x] 1e versie voorspellingen
+			- [ ] Predictions verbeteren
 - [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
-	- [x] Zorgen dat eerder plots weer labels hebben
-- [ ] Willen we LISS data gebruiken of microdata?
+	- [ ] Zorgen dat eerder plots weer labels hebben
 - [ ] Hoe classificeert de literatuur zwaar werk?
 	- [ ] Hoe doet die Duitse studie dat?
 	- [ ] Heb ik papers gemist?

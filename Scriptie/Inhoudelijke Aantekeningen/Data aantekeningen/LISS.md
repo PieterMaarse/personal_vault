@@ -102,4 +102,14 @@ Pick one year:
 
 Leeftijd van mensen met ER_bool = True is reletief jong, duidelijke piek bij 67
 
+Mensen geven aan geen baan de hebben maar hebben dat wel volgens de household data en andersom
 
+Dat is best lastig mee werken
+
+## Profession
+
+- Profession:
+	- Kan ook zijn wat je vroeger had! Laatste functie
+	- Relatie tussen profession en primary occupation is wel raar
+		- Er zijn mensen die aangeven voor het huis te zorgen, maar toch een management functie te hebben?
+		- Zijn dat mensen die niet meer werken?

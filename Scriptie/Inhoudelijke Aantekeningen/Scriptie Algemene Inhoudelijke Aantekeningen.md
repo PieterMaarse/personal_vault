@@ -15,6 +15,7 @@ LIST
 FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
+
 ## Aantekeningen
 
 Twijfel welke kant ik op ga. LISS survey heeft niet de hele directe maatstaf voor zwaar werk die ik wel verwachtte. Twee ideeën

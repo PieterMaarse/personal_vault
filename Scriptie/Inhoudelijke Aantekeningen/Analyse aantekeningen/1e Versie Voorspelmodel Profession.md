@@ -65,6 +65,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] Do profession changes correspond to contract changes? Or BASISLOON changes?
 	- [ ] Hoe consistent zijn mensen met dit doorgeven? Maak tile plot van target variable
 - [ ] We kunnen er een panel van maken? Alleen wel veel mensen die maar één keer voorkomen
+- [ ] Hoeveel mensen zitten uberhaupt in de SPOLIS van de profession target?
 
 ## Ideeën
 
@@ -102,6 +103,10 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 		- Eerst simpel houden: gewoon de laatste pakken, wordt wss onzin.
 		- Start easy? Alleen met, e.g., 2020?
 	
+
+- Data is best onbetrouwbaar. Mensen die zeggen geen werk te hebben terwijl household box zegt van wel. Wat betekent dat voor model?
+- Profession kan ook van vroeger zijn. Dan zitten ze niet in de SPOLIS
+
 
 ## Vragen
 
