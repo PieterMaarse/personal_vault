@@ -102,6 +102,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 		- Also, if someone changes profession, this can be relevant!
 		- Eerst simpel houden: gewoon de laatste pakken, wordt wss onzin.
 		- Start easy? Alleen met, e.g., 2020?
+		- Probleem, profession kan ook laatste profession zijn voordat mensen zijn gestopt met werken. Dan komen ze nogsteeds niet voor in SPOLIS
 	
 
 - Data is best onbetrouwbaar. Mensen die zeggen geen werk te hebben terwijl household box zegt van wel. Wat betekent dat voor model?
