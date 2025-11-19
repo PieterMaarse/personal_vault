@@ -22,19 +22,8 @@
               "icon": "lucide-file",
               "title": "$Scriptie"
             }
-          },
-          {
-            "id": "6446b1cdd7fdb758",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +222,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6446b1cdd7fdb758",
+  "active": "240e22661869777f",
   "lastOpenFiles": [
     "Scriptie/TODO 2025-11-17.md",
     "Scriptie/$Scriptie.md",
