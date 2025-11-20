@@ -117,14 +117,12 @@ Detailed datasets:
 
  - [Gross value added and income by detailed industry (NACE Rev.2 )](https://ec.europa.eu/eurostat/databrowser/view/nama_10_a64/default/table?lang=en&category=na10.nama10.nama_10_ma)
 	 - Value added, gross
-	 - All NACE activities
-	 - Percentage of total (handig voor naar per capita?)
+	 - Economic Activities: All NACE activities
+	 - Unit of measure: Percentage of total (handig voor naar per capita?)
 	 - Alleen Ukraine weggehaald
 
  - [Gross domestic product (GDP) and main components per capita](https://ec.europa.eu/eurostat/databrowser/view/nama_10_pc__custom_18969809/default/table)
 	 - Zonder Ukraine
-	 - Value added gross
-	 - percentage of total
 
 
 ==Special value en : weghalen!==
