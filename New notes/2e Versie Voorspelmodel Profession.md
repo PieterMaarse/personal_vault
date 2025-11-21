@@ -32,6 +32,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- Add variable for number of contracts
 	- All changed to categorical variables
 
+- Eerst verbinden aan profession antwoord, dan jaren verschil maken, dan vertalen naar wider
 
 
 ## Ideeën
