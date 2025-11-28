@@ -32,3 +32,27 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 Notes:
 - Stichting IFE heeft geen eigen nummer?
 - Sommige hebben 0 als getal
+- Wat zijn de terugboekingen?
+- VPCO 17 voor HV?
+	- 20 VSBO
+- Onderwijssoort Vso? Skol marieta alberto
+- BAVO  - VSBO?
+- Onderwijssoorten BBA / HV?
+- OPLE bij DOS salarissen?
+
+
+## Checken
+
+- [ ] Conversie dos salarissen
+	- [ ] Wat is OPLE?
+	- [ ] Wat is HVWO
+	- [ ] VSO?
+- [ ] Conversie afdelingen:
+	- [ ] Bavo -> HV
+	- [ ] Vso ZMLJ -> FSO
+
+
+- [x] Schoolnummer toevoegen aan afdeling overzicht
+- [x] Schoolbesturen uitsplitsen naar schoolsoort
+- [x] Salarissen fixen
+
