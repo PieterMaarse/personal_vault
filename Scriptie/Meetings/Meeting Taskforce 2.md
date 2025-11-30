@@ -28,4 +28,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ## Aantekeningen
 
-- 
+- Voor econometrische analyse, houdt rekening met attenuation bias door fout in variabele
+- Gaat goede kant op: Daniel denkt dat die eerste regressie p(RVU) wel relevant kan zijn
+	- P(RVU) uitsplitsen per jaar
+- Tweede regressie kan lastig worden

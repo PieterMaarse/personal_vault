@@ -50,9 +50,37 @@
               "icon": "lucide-file",
               "title": "Inloggen op de CBS-microdataomgeving (Windows)"
             }
+          },
+          {
+            "id": "912863ab8defbff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Meetings/Meeting Taskforce 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting Taskforce 2"
+            }
+          },
+          {
+            "id": "546ed4d71baf9d3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Clippings/Advanced S&OP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advanced S&OP"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -250,19 +278,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2abc34f54e219b82",
+  "active": "546ed4d71baf9d3c",
   "lastOpenFiles": [
+    "New notes/TODO 2025-11-25.md",
+    "New notes/Clippings/Advanced S&OP.md",
+    "Scriptie/TODO 2025-11-19.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/2e Versie Voorspelmodel Profession.md",
+    "Scriptie/Meetings/Meeting Taskforce 2.md",
+    "SEO/SA Bekostiging/TODO Bekostiging.md",
     "Scriptie/Praktische Aantekeningen/CBS/Inloggen op de CBS-microdataomgeving (Windows).md",
     "SEO/SA Bekostiging/Staat_van_onderwijs_2014-2015.pdf",
-    "SEO/SA Bekostiging/TODO Bekostiging.md",
     "SEO/SA Bekostiging/$SA Bekostiging.md",
     "New notes/Aantekeningen Bekostiging.md",
     "New notes/Meeting Bekostiging 1.md",
     "Personal Notes/Coding/Chat - Intro R.md",
-    "New notes/TODO 2025-11-25.md",
     "SEO/SA Bekostiging/Introductie bekostiging - Chat.md",
     "Scriptie/$Scriptie.md",
-    "Scriptie/TODO 2025-11-19.md",
     "SEO/SA Bekostiging",
     "Scriptie/Bronnen/Academic Papers/ML/Hu_Szymczak_2023.pdf",
     "Scriptie/Bronnen/Academic Papers/ML/A review on longitudinal data analysis with random forest.md",
@@ -271,7 +302,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Idee Daniël over analyse.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Data engineering procedure.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/BETAB.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/2e Versie Voorspelmodel Profession.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Longitudinal random forest.md",
     "Personal Notes/VP register idee.md",
     "Scriptie/Meetings/Meeting Magnus 1.md",
@@ -279,8 +309,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Econometrische analyse.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/RVU.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/LISS.md",
     "Scriptie/Bronnen/Academic Papers/ML",
     "Scriptie/Bronnen/Academic Papers/Early retirement",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
