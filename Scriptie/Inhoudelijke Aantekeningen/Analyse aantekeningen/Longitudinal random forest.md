@@ -7,7 +7,7 @@ date: 2025-11-19
 about:
   - Een RF model dat rekening houdt met de longitudinale structuur van survey data
 gearchiveerd:
-inhoudelijk:
+inhoudelijk: true
 ---
 ---
 ## Inbox

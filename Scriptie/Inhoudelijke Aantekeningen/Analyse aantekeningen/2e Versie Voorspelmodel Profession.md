@@ -7,7 +7,7 @@ date: 2025-11-19
 about:
   - 2e versie model om profession te voorspellen. Neemt meerdere jaren mee.
 gearchiveerd:
-inhoudelijk:
+inhoudelijk: true
 ---
 ---
 ## Inbox

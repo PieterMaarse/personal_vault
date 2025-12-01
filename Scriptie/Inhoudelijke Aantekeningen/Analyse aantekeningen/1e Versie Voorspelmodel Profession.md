@@ -7,7 +7,7 @@ date: 2025-11-10
 about:
   - Ideeën over model om profession te voorspellen voor LISS mensen
 gearchiveerd:
-inhoudelijk:
+inhoudelijk: true
 ---
 ---
 ## Inbox
