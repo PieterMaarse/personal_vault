@@ -64,6 +64,22 @@
               "icon": "lucide-file",
               "title": "SPOLISBUS"
             }
+          },
+          {
+            "id": "5321cf90e34e2299",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
+                "page": 13,
+                "left": -313,
+                "top": 344,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "spolisbus"
+            }
           }
         ],
         "currentTab": 1
@@ -123,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5110321044922
+    "width": 217.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "349ae95106766c6e",
@@ -244,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,6 +284,7 @@
   },
   "active": "d1df7397230c8766",
   "lastOpenFiles": [
+    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
     "New notes/TODO 2025-12-1.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/HOOGSTEOPLTAB.md",
@@ -295,10 +314,8 @@
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Data engineering procedure.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/BETAB.md",
     "Personal Notes/VP register idee.md",
-    "Scriptie/Meetings/Meeting Magnus 1.md",
     "Scriptie/Bronnen/Academic Papers/ML",
     "Scriptie/Bronnen/Academic Papers/Early retirement",
-    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
     "Scriptie/Bronnen/Overig/PDFs Overig/PDF_LISS_codebook_WorkSchooling_21.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen",
     "Scriptie/Bronnen/Overig/PDFs Overig/PDF_PowerPoint_EBB.pdf",
