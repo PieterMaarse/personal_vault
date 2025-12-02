@@ -35,6 +35,11 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Eerst verbinden aan profession antwoord, dan jaren verschil maken, dan vertalen naar wider
 
 
+## Aantekeningen
+
+- CdRdnArbov niet meenemen!
+
+
 ## Ideeën
 
 

@@ -29,56 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/TODO 2025-12-1.md",
+                "file": "Scriptie/TODO 2025-12-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO 2025-12-1"
-            }
-          },
-          {
-            "id": "fcd8dab0dfa6cf75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/HOOGSTEOPLTAB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HOOGSTEOPLTAB"
-            }
-          },
-          {
-            "id": "24c3a18426e754ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SPOLISBUS"
-            }
-          },
-          {
-            "id": "5321cf90e34e2299",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
-                "page": 13,
-                "left": -313,
-                "top": 344,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "spolisbus"
+              "title": "TODO 2025-12-02"
             }
           }
         ],
@@ -139,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5110321044922,
-    "collapsed": true
+    "width": 217.5110321044922
   },
   "right": {
     "id": "349ae95106766c6e",
@@ -261,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,13 +240,14 @@
   "lastOpenFiles": [
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/CBS data toelichting/spolisbus.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/SPOLISBUS.md",
-    "New notes/TODO 2025-12-1.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/HOOGSTEOPLTAB.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Longitudinal random forest.md",
+    "Scriptie/TODO 2025-12-02.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/2e Versie Voorspelmodel Profession.md",
+    "Scriptie/TODO Archive/TODO 2025-12-01.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Longitudinal random forest.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/1e Versie Voorspelmodel Profession.md",
-    "Scriptie/TODO 2025-11-25.md",
-    "Scriptie/TODO 2025-11-19.md",
+    "Scriptie/TODO Archive/TODO 2025-11-25.md",
+    "Scriptie/TODO Archive/TODO 2025-11-19.md",
     "Scriptie/$Scriptie.md",
     "Scriptie/Bronnen/Scriptie Bronnen Overzicht.base",
     "SEO/SA Bekostiging/$SA Bekostiging.md",
@@ -313,7 +268,6 @@
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Idee Daniël over analyse.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/Data engineering procedure.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/BETAB.md",
-    "Personal Notes/VP register idee.md",
     "Scriptie/Bronnen/Academic Papers/ML",
     "Scriptie/Bronnen/Academic Papers/Early retirement",
     "Scriptie/Bronnen/Overig/PDFs Overig/PDF_LISS_codebook_WorkSchooling_21.pdf",
