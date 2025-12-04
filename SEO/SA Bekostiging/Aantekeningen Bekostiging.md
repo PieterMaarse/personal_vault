@@ -16,6 +16,9 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+Vraag: gaan we echt alleen y veranderen? Niet ook of bepaalde scholen voor bepaalde dingen geld krijgen?
+
+
 - Lumpsum eist wel meer discipline van scholen, is dat reëel?
 	- Jaarverslagen
 	- Eigen financiële planning

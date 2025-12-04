@@ -80,3 +80,7 @@ Problems:
 
 - [ ] Welke features kunnen gerelateerd zijn met profession?
 	- [ ] Nog niet helemaal duidelijk
+
+
+- Niet meegenomen:
+	- variabelen die niet in alle jaren voorkomen
