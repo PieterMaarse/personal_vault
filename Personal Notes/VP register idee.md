@@ -27,3 +27,21 @@ Stappenplan melding:
 De database heeft dan geen gegevens over wie wat heeft gedaan. De persoon die de database beheert stel geen vragen maar laat alleen weten als de code er al in voor komt.
 
 Database klinkt fancy, maar zal gewoon een excel/spreadsheet zijn. Precieze beleid is eventueel af te stemmen. Wel belangrijk is dat dezelfde naam naar dezelfde code moet leiden. Hiervoor moeten we een vaste manier van namen invoeren afspreken. Aantal keer nadat je te horen krijgt of iemand er al in voor komt kunnen we afstemmen. Eventueel kun je ook nog zeggen of het een "minor" ding of een erger ding is en dan bijvoorbeeld zeggen bij 3 minor dingen of bij 2 major dingen.
+
+
+
+- Korte termijn over dezelfde persoon: checken of het niet dezelfde is
+- Getallen geheim houden?
+	- Deelt de beheerder niet
+- Alleen VP en bestuur
+- Voorbeeld met foto's in document zetten
+- Hash functies checken
+
+Stappenplan:
+1. Ik maak draft
+2. Tesse kijkt ernaar en vult aan
+3. Tesse komt bij me terug met aanpassingen/toevoegingen
+4. Tesse overlegt met bestuur/RvC
+5. Documenten finalizen
+6. Implementeren
+7. Belangrijkste meldingen afgelopen tijd erin zetten
