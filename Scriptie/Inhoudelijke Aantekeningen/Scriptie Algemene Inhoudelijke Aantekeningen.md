@@ -16,6 +16,16 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+## Bespreken meeting
+
+- Heeft vergelijkbare mensen selecteren voor RVU/zwaar werk regressie zin?
+- Verschillende soorten bias misclassified binary regressor
+- Welke metric is handig om model op te trainen?
+	- Nu zelfde TPR en TNR
+
+
+
+
 ## Aantekeningen
 
 Twijfel welke kant ik op ga. LISS survey heeft niet de hele directe maatstaf voor zwaar werk die ik wel verwachtte. Twee ideeën

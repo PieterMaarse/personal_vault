@@ -27,22 +27,22 @@ Vraag: gaan we echt alleen y veranderen? Niet ook of bepaalde scholen voor bepaa
 
 ## Vragen
 
-- Hoe flexibel is het macrobudget? In aangepast model zijn totale kosten hoger?
-- Hebben we de huidige bedragen die voor verschillende dingen vergoed worden?
+- [ ] Hoe flexibel is het macrobudget? In aangepast model zijn totale kosten hoger?
+- [ ] Hebben we de huidige bedragen die voor verschillende dingen vergoed worden?
 
 
-- Voor de semi-korte termijn zullen ze het beste over kunnen stappen naar de beste benadering? Of is in een keer beleidsveranderingen ook gewenst?
+- [ ] Voor de semi-korte termijn zullen ze het beste over kunnen stappen naar de beste benadering? Of is in een keer beleidsveranderingen ook gewenst?
 
 
-- LASSO gebruiken voor schattingen bij veel parameters?
-- Minimale kwadraten niet perse nodig?
-- Lineair model zal hierin geen correcte benadering zijn, toch?
-- OLS imposed budget neutraal, toch?
+- [ ] LASSO gebruiken voor schattingen bij veel parameters?
+- [ ] Minimale kwadraten niet perse nodig?
+- [ ] Lineair model zal hierin geen correcte benadering zijn, toch?
+- [ ] OLS imposed budget neutraal, toch?
 
-- Voorschotten vanuit het huidige stelsel?
+- [ ] Voorschotten vanuit het huidige stelsel?
 
-- Feitelijke kosten? Normeren feitelijke kosten?
-- Efficiencyslagen? Toereikend?
+- [ ] Feitelijke kosten? Normeren feitelijke kosten?
+- [ ] Efficiencyslagen? Toereikend?
 
 
 **Voor Tim**

@@ -6,8 +6,9 @@ tags:
 meeting_with:
   - Jellien Knol
   - Daniël van Vuuren
-date:
+date: 2025-11-28
 discussed:
+  - Update voor Daniël
 ---
 ---
 ## Inbox

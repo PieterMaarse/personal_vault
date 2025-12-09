@@ -24,6 +24,21 @@ FROM [[]] and !outgoing([[]])
 
 ## TODO
 
+- [ ] Profession voorspellingen verbeteren
+	- [ ] Verschillende feature sets
+	- [ ] CV
+- [ ] Eerste versie regressie implementeren
+- [ ] Voorspellen profession voor nieuwe dataset
+- [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
+	- [ ] Zorgen dat eerder plots weer labels hebben
+- [ ] Hoe classificeert de literatuur zwaar werk?
+	- [ ] Hoe doet die Duitse studie dat?
+	- [ ] Heb ik papers gemist?
+- [ ] Hamvraag: hoe classificeren we wie zwaar werk doet?
+
+
+
+
 Stappenplan onderzoek
 
 - [x] Is het mogelijk om direct uit overlap LISS x RVU conclusies te trekken?
@@ -43,16 +58,10 @@ Stappenplan onderzoek
 		- [x] Sector, type functie, opleidingsniveau?
 	- [x] Verbanden onderzoeken
 		- [x] Wie maken gebruik van de RVU?
-	- [ ] Predictions maken voor
-		- [ ] Profession
+	- [x] Predictions maken voor
+		- [x] Profession
 			- [x] 1e versie voorspellingen
-			- [ ] Predictions verbeteren
-- [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
-	- [ ] Zorgen dat eerder plots weer labels hebben
-- [ ] Hoe classificeert de literatuur zwaar werk?
-	- [ ] Hoe doet die Duitse studie dat?
-	- [ ] Heb ik papers gemist?
-- [ ] Hamvraag: hoe classificeren we wie zwaar werk doet?
+			- [x] Predictions verbeteren
 
 
 

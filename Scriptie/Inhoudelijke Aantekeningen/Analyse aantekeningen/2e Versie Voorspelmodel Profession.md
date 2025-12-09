@@ -81,6 +81,10 @@ Problems:
 - [ ] Welke features kunnen gerelateerd zijn met profession?
 	- [ ] Nog niet helemaal duidelijk
 
+- [x] Bij het omzetten naar één functie die alleen de SPOLIS features naar wide omzet zijn een aantal (ong. 2.5k) observations verdwenen. Check of alles wat er kan zijn er in zit!
+	- [x] Hangt ervan af welke jaren je meeneemt! Dus wss zijn er mensen die niet (in januari) voorkomen in bepaalde SPOLIS jaren
+	- [x] Klopt ook, zijn 5k mensen
+
 
 - Niet meegenomen:
 	- variabelen die niet in alle jaren voorkomen
@@ -89,21 +93,27 @@ Problems:
 
 
 - [ ] Split functies naar dataset maken en model trainen
+- [x] Omgooien structuur: Eerste polis features naar wide, dan koppelen aan andere features
+	- [x] Hiervoor target_year meegeven per RIN
 - [ ] Maak makkelijker om verschillende featuresets te testen
 
 - [ ] Toevoegen
 	- [ ] CV
 	- [ ] Opslaan resultaten
 	- [ ] Kijken welke niet / minder relevant zijn
+	- [ ] Tabel maken met hoe goed het model voorspelt voor verschillende groepen
+	- [ ] Voorspellingen groupen by persoon om te kijken of hij afwisselt goed/fout voorspeld of per individu goed
 
 
 - [ ] Checken
 	- [ ] Zijn polis / LISS combinaties logisch?
 		- [ ] Als mensen zeggen voor het laatst in een bepaald jaar te hebben gewerkt, verdwijnen ze daarna ook uit POLIS?
-			- [ ] Filter voor mensen die year_stopped hebben in 2010-2024
-			- [ ] Maak variabele voor jaar/maand verschil met year_stopped
-				- [ ] Is er een maand_stopped?
-			- [ ] Selecteer jaar voor, jaar van, jaar na
+			- [x] Filter voor mensen die year_stopped hebben in 2010-2024
+				- [x] Gebeurt indirect als je bepaalde jaren selecteert
+			- [ ] Maak variabele voor verschil met year_stopped
+				- [x] Verschil met jaar
+				- [ ] Verschil met maand, is er een maand_stopped?
+		- [ ] Selecteer jaar voor, jaar van, jaar na
 			- [ ] Kijk of er een verandering in zit in die periode
 	- [ ] Of het aantal observations in train/val/test klopt?
 		- [ ] Zijn er bij het omzetten naar functional een aantal verdwenen?
