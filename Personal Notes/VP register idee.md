@@ -16,6 +16,8 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+## Idee
+
 Idee: een register wat anoniem bijhoudt of er al een keer een melding is gemaakt over iemand.
 
 Stappenplan melding:
@@ -45,3 +47,18 @@ Stappenplan:
 5. Documenten finalizen
 6. Implementeren
 7. Belangrijkste meldingen afgelopen tijd erin zetten
+
+
+## Draft document
+
+
+### Inleiding
+
+Als iemand ongewenst gedrag vertoont, dan willen niet dat iedereen van alles op de hoogte wordt gesteld. We willen zowel de "dader" als het "slachtoffer" privacy gunnen. Als gevolg hiervan, omdat erg geen compleet overizzcht==. Hier gebleven...............==. hebben we binnen Kraket al een tijd het probleem dat het niet duidelijk is of er leden zijn die herhaaldelijk ongewenst verdrag vertonen.
+
+Het lastige hieraan is dat je mensen privacy moet geven en dat je niet wil dat iedereen van alles wat gebeurt op de hoogte is.
+
+Doel: Zorgen dat kennis over herhaalde meldingen niet verloren gaat
+
+Hoe: Anoniem register
+
