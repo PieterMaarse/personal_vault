@@ -36,6 +36,8 @@ FROM [[]] and !outgoing([[]])
 	- [ ] Heb ik papers gemist?
 - [ ] Hamvraag: hoe classificeren we wie zwaar werk doet?
 
+- [ ] Hoe vertalen we RVU in dataset naar RVU-vrijstelling?
+	- [ ] De dataset is afgeleid van een bepaalde code in de polis. Dit gaat dus om geld betaald als RVU, maar niet of de vrijstelling is gebruikt. Is dit te checken met betaalde belasting?
 
 
 
