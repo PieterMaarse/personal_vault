@@ -27,8 +27,8 @@ FROM [[]] and !outgoing([[]])
 - [ ] Profession voorspellingen verbeteren
 	- [ ] Verschillende feature sets
 	- [ ] CV
-- [ ] Eerste versie regressie implementeren
-- [ ] Voorspellen profession voor nieuwe dataset
+- [x] Eerste versie regressie implementeren
+- [x] Voorspellen profession voor nieuwe dataset
 - [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
 	- [ ] Zorgen dat eerder plots weer labels hebben
 - [ ] Hoe classificeert de literatuur zwaar werk?
@@ -39,6 +39,7 @@ FROM [[]] and !outgoing([[]])
 - [ ] Hoe vertalen we RVU in dataset naar RVU-vrijstelling?
 	- [ ] De dataset is afgeleid van een bepaalde code in de polis. Dit gaat dus om geld betaald als RVU, maar niet of de vrijstelling is gebruikt. Is dit te checken met betaalde belasting?
 
+- [ ] Prediction set veranderen naar geen overlap met LISS en RVU
 
 
 Stappenplan onderzoek
