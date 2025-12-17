@@ -24,8 +24,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## Vragen
 
 - [ ] Gaat het om RVU treffen of om gebruik van drempelvrijstelling RVU-heffing?
-	- Hier komt Jellien op terug
-	- Wss niet want anders zouden ze weten of t RVU is in de waarschijnlijk eerder
+	- Waarschijnlijk het tweede, anders zouden werkgevers het niet op deze manier doorgeven aan de belastingdienst
 - [ ] Er zijn instances met jaar in (22,23), maar ook "eerder waarschijnlijk al RVU". Wat betekent dit?
 - [ ] Wat betekent RVU pas in 2021 voor mensen met RVU in 2022 / 2023
 
