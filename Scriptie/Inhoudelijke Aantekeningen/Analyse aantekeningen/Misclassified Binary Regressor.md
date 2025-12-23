@@ -40,6 +40,13 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- [ ] Welke aannames zijn daarvoor nodig?
 	- [ ] Hoe reëel zijn die?
 
+
+Misreported schooling, multiple measures and returns to educational qualifications
+Misclassification in Binary Variables
+Disability and Employment: Reevaluating the Evidence in Light of Reporting Errors
+Bayesian moment-based inference in a regression model with misclassification error
+Misperceiving and misreporting input quality: Implications for input use and productivity
+
 ## Setting
 
 Doel regressie:
