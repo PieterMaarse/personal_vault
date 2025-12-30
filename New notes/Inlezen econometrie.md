@@ -1,0 +1,4 @@
+- 2SLS
+- Logistic regression
+- GLS
+- Quantile regression
