@@ -19,6 +19,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] LinkedIn groep (mail Hande)
 - [ ] Extrie@kraket.nl gebruiken?
 - [ ] Accounts inloggen (Ivo vragen)
+- [ ] Website tekstjes aanpassen?
 
 ## Aantekeningen
 
