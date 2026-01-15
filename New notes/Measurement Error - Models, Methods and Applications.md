@@ -81,6 +81,19 @@ Snap ik niet:
 > [[Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf#page=185&selection=226,0,235,39|p.162:  Nondifferential measurement error in W , with respect to Y , does not imply the misclassification is nondifferential]]
 > Nondifferentiality is dus sws niet echt reëel?
 
+> [[Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf#page=185&selection=423,55,427,16|p.162:  This was first observed in a particular context by Flegal et al. (1991) and in the case of two categories has been referred to as DDD (differential due to dichotomization) misclassification by Gustafson and Le (2002). See also the discussion in Gustafson (2004)]]
+> Is dit het probleem dat ik heb?
+
+> [[Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf#page=194&selection=82,0,84,8|p.171:  See Zhao and Lipsitz (1992), Tosteson and Ware (1990), Reilly (1996), Schill et. al. (1993) and references therein for discussion of designed two-phase studies.]]
+> Is dat van mij een two-phase/stage sampling design?
+
+
+> [[Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf#page=195&selection=13,0,15,15|p.172:  For a given measurement error model, the Berkson model will be different in the main study than in the validation sample if the distribution of true values changes.]]
+> Belangrijk!
+
+> [[Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf#page=201&selection=220,0,221,48|p.178:  The approximation in (6.27) is of immediate help in assessing bias in generalized linear models, with linear Berkson error.]]
+> Is dit relevant? Gebruik ik een logit?
+
 
 ## PDF
 
