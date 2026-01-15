@@ -268,10 +268,10 @@
                   "type": "pdf",
                   "state": {
                     "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                    "page": 185,
-                    "left": 106,
-                    "top": 500,
-                    "zoom": 1.2
+                    "page": 186,
+                    "left": -13,
+                    "top": 692,
+                    "zoom": 1
                   },
                   "icon": "lucide-file-text",
                   "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
@@ -295,10 +295,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 0,
-        "width": 768,
-        "height": 816,
+        "x": 576,
+        "y": -1080,
+        "width": 960,
+        "height": 1080,
         "maximize": false,
         "zoom": -0.5
       }
