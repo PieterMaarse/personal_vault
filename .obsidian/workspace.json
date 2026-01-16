@@ -268,9 +268,9 @@
                   "type": "pdf",
                   "state": {
                     "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                    "page": 201,
-                    "left": 35,
-                    "top": 171,
+                    "page": 214,
+                    "left": 91,
+                    "top": 137,
                     "zoom": 1.5
                   },
                   "icon": "lucide-file-text",
@@ -291,8 +291,8 @@
                   "state": {
                     "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
                     "page": 146,
-                    "left": 78,
-                    "top": 702,
+                    "left": 98,
+                    "top": 565,
                     "zoom": 1.3
                   },
                   "icon": "lucide-file-text",
@@ -312,10 +312,10 @@
       }
     ]
   },
-  "active": "e1410431f3887e9b",
+  "active": "46fc96e96306aeaf",
   "lastOpenFiles": [
-    "New notes/Measurement Error - Models, Methods and Applications.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+    "New notes/Measurement Error - Models, Methods and Applications.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/LISS.md",
     "New notes/Predictor improvements - Chat.md",
     "Scriptie/Microdata TODO.md",
