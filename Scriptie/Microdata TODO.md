@@ -14,16 +14,15 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ---
 ## TODO
 
-Prio
-- [ ] Andere target variables toevoegen
-	- [ ] Zware dingen tillen
-	- [ ] Snachts werken
-- [ ] CV toevoegen
 
 
-Overi
+Overig
 
 
+
+- [x] Andere target variables toevoegen
+	- [x] Zware dingen tillen
+	- [x] Snachts werken
 
 - [ ] Split functies naar dataset maken en model trainen
 - [ ] Maak makkelijker om verschillende featuresets te testen
