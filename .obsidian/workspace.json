@@ -234,101 +234,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "floating": {
-    "id": "4cefcea3da368dab",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b389dc2104bd61aa",
-        "type": "window",
-        "children": [
-          {
-            "id": "67f8abe30618d171",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0b7091dcaece0cdd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "New notes/Measurement Error - Models, Methods and Applications.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Measurement Error - Models, Methods and Applications"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 587,
-        "y": -1080,
-        "width": 949,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -0.5
-      },
-      {
-        "id": "daa5d9e60b84100c",
-        "type": "window",
-        "children": [
-          {
-            "id": "87c33b449988f813",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "91fe21e6998220fc",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                    "page": 9,
-                    "left": -8,
-                    "top": 675,
-                    "zoom": 1.3
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
-                }
-              },
-              {
-                "id": "4d93d1d57f339dff",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                    "page": 61,
-                    "left": -8,
-                    "top": 683,
-                    "zoom": 1.3
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": -384,
-        "y": -1080,
-        "width": 971,
-        "height": 1080,
-        "maximize": false,
-        "zoom": -0.5
-      }
-    ]
-  },
-  "active": "0b7091dcaece0cdd",
+  "active": "37e9c56c4e7f860d",
   "lastOpenFiles": [
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
     "New notes/Measurement Error - Models, Methods and Applications.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/RVU.md",

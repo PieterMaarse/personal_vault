@@ -15,24 +15,24 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 Prio
-- [ ] Bepalen welke maatstaf ik wil gebruiken
-	- [ ] Beginnen met simpele kans
-		- [ ] $\alpha_1 = P(X=1 | Y=1)$
-- [ ] Naïeve berekening doen
-	- [ ] Hoe die direct wordt waargenomen, gewoon ratio's
-- [ ] Onder nondifferentiality assumption formule uitrekenen
-	- [ ] $\hat{\alpha}_y ​= \frac{ \alpha_y −P(W=1∣X=0) }{ P(W=1∣X=1) ​− P(W=1∣X=0)​ } = \frac{\alpha_y​−(1−Sp)​}{Se+Sp−1}$.
-	- [ ] Zowel met direct waargenomen als met voorspellingen op test set?
+- [x] Bepalen welke maatstaf ik wil gebruiken
+	- [x] Beginnen met simpele kans
+		- [x] $\alpha_1 = P(X=1 | Y=1)$
+- [x] Naïeve berekening doen
+	- [x] Hoe die direct wordt waargenomen, gewoon ratio's
+- [x] Onder nondifferentiality assumption formule uitrekenen
+	- [x] $\hat{\alpha}_y ​= \frac{ \alpha_y −P(W=1∣X=0) }{ P(W=1∣X=1) ​− P(W=1∣X=0)​ } = \frac{\alpha_y​−(1−Sp)​}{Se+Sp−1}$.
+	- [x] Zowel met direct waargenomen als met voorspellingen op test set?
 	- [ ] Of op random sample?
-- [ ] Robustness berekeningen doen voor andere Se/Sp
-	- [ ] Alleen voor Y=1 veranderen
-- [ ] Plotje maken
-	- [ ] Se/Sp op de x/y as en de maatstaf (alpha / odds ratio) als waarde
-	- [ ] nondifferential waarde als punt erin
+- [x] Robustness berekeningen doen voor andere Se/Sp
+	- [x] Alleen voor Y=1 veranderen
+- [x] Plotje maken
+	- [x] Se/Sp op de x/y as en de maatstaf (alpha / odds ratio) als waarde
+	- [x] nondifferential waarde als punt erin
 - [ ] Betere inschatting proberen te maken van Se/Sp op basis van vergelijkbare sample in train set
 	- [ ] Punt toevoegen aan de plot
-- [ ] Daarna odds ratio
-	- [ ] P(X = 1 | Y = 1) vs P(X = 1 | Y = 0)
+- [x] Daarna odds ratio
+	- [x] P(X = 1 | Y = 1) vs P(X = 1 | Y = 0)
 		- [ ] Waarbij tweede op basis van training sample the schatten is (of op basis van random sample)
 	- [ ] Of een van:
 		- [ ] P(Y=1 | X=1) vs P(Y=0 | X=1) 
@@ -53,12 +53,12 @@ Prio
 
 Aanpassen eerdere code:
 - [ ] Voorspellingen maken voor RVU gebruikers en random sample
-	- [ ] Checken of ik juiste variabelen in model kneiter voor pred_set
-	- [ ] target = -1??
+	- [x] Checken of ik juiste variabelen in model kneiter voor pred_set
+	- [x] target = -1??
 	- [ ] Voorspellingen ook maken voor random sample?
-- [ ] Sensitivity & specificity berekenen en opslaan
 - [ ] Andere objective in training
-
+- [ ] Sensitivity & specificity berekenen en opslaan
+  
 
 
 
