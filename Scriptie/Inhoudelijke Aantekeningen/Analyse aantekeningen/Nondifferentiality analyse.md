@@ -14,7 +14,35 @@ LIST
 FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
+
 Prio
+- [ ] Andere objective:
+	- [ ] ROC AUC
+		- [ ] Voor trainen
+	- [x] PR AUC: nee, meer focus op precision
+	- [x] logloss: nee, meer focus op calibration
+- [x] Youden's J voor threshold
+	- [x] TPR + TNR -1 = TPR - FPR
+	- [ ] In welke stap bepalen? Model selecteren op basis van auc of J?
+- [x] TNR / TPR berekenen en opslaan
+- [ ] Opslaan feature set als .rds
+- [ ] Betere schatting voor fouten
+	- [x] Eerst voor alleen leeftijd/gender
+	- [ ] Daarna voor alle features
+		- [ ] met gewicht = importance voor elke variabele?
+		- [ ] Schatting op basis van de "closest" features, waar afstand over feature as is ( verschil / sd(feature) ) / importance(feature)?
+- [ ] Figuur met fout rate per probability schattingen
+- [ ] CV toevoegen
+- [ ] Code aanpassen om test set echt te gebruiken
+
+ER GAAT IETS FOUT MET RINS, sommige RINS komen vaker voor in ind_features
+code herstructureren:
+1. RIN file maken met RVU, LISS, random RVU_like, random random
+	1. Denk na over wat ik met duplicates doe (zorg dat individuen maar in 1 groep voorkomen)
+2. Haal voor die RINs de POLIS data en GBA data op, sla die op in nieuw bestand
+	
+
+
 - [x] Bepalen welke maatstaf ik wil gebruiken
 	- [x] Beginnen met simpele kans
 		- [x] $\alpha_1 = P(X=1 | Y=1)$
@@ -37,6 +65,7 @@ Prio
 	- [ ] Of een van:
 		- [ ] P(Y=1 | X=1) vs P(Y=0 | X=1) 
 		- [ ] P(X=1 | Y=1) vs P(X=0 | Y=1)
+- [x] Ipv punt voor nondifferentiality, een lijn gebasseerd op verschillende waarden voor threshold? Lastig want dan moet ik ook voorspellingen veranderen, wat de plot weer beinlvoedt
 
 
 1. P(X=1 | Y=1)
