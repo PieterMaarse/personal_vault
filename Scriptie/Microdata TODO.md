@@ -14,22 +14,40 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ---
 ## TODO
 
+### Prio
+
+Code toevoegen
+- [ ] train/val/test split goed doen
+- [ ] Hoeveel RVU en RVU like zitten in polis 2020
+- [ ] Kijken hoeveel mensen mergen voor LISS/RVU
+- [ ] Nieuwe target (1 van allemaal, OR)
+- [ ] Overlap tussen RVU en LISS nemen als train set. Toevoegen in elk script waar relevant!!
+	- [ ] Ook plotje maken voor hoeveel het zijn e.d.
+
+Plots maken
+- [ ] HOOGSTEOPL koppel rate
+- [ ] Plots voor RVU en RVU_like, distributies zelfde voor
+	- [ ] sector
+	- [ ] opl
+	- [ ] basisloon
+- [ ] LISS vs random, random sample?
+	- [ ] sector
+	- [ ] opl
+	- [ ] random van werkenden? filter random voor %in% polis
 
 
 Overig
-
-
 
 - [x] Andere target variables toevoegen
 	- [x] Zware dingen tillen
 	- [x] Snachts werken
 
-- [ ] Split functies naar dataset maken en model trainen
-- [ ] Maak makkelijker om verschillende featuresets te testen
+- [x] Split functies naar dataset maken en model trainen
+- [x] Maak makkelijker om verschillende featuresets te testen
 
 - [ ] Toevoegen
 	- [ ] CV
-	- [ ] Opslaan resultaten
+	- [x] Opslaan resultaten
 	- [ ] Kijken welke niet / minder relevant zijn
 
 

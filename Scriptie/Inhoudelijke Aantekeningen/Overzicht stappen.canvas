@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"92d3992ece1e0c70","type":"text","text":"Doelen","x":-189,"y":-172,"width":250,"height":60},
+		{"id":"be9b16c2cdfe3076","x":-189,"y":-60,"width":291,"height":75,"type":"text","text":"$$P(X = 1 | Y = 1)$$"},
+		{"id":"b19dbb48a901fe82","x":-86,"y":138,"width":250,"height":60,"type":"text","text":"$$P(X = 1 | Y = 1) \\ vs \\ P(X = 1 | Y = 0)$$"}
+	],
+	"edges":[]
+}
