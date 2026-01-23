@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Aantekeningen tijden schrijven"
             }
-          },
-          {
-            "id": "a5e54775f7802a32",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +220,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5e54775f7802a32",
+  "active": "ef62b6afd9bab8ce",
   "lastOpenFiles": [
     "New notes/Untitled.md",
     "Scriptie/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
