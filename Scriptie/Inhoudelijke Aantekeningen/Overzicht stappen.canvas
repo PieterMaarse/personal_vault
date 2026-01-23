@@ -1,8 +1,26 @@
 {
 	"nodes":[
-		{"id":"92d3992ece1e0c70","type":"text","text":"Doelen","x":-189,"y":-172,"width":250,"height":60},
-		{"id":"be9b16c2cdfe3076","x":-189,"y":-60,"width":291,"height":75,"type":"text","text":"$$P(X = 1 | Y = 1)$$"},
-		{"id":"b19dbb48a901fe82","x":-86,"y":138,"width":250,"height":60,"type":"text","text":"$$P(X = 1 | Y = 1) \\ vs \\ P(X = 1 | Y = 0)$$"}
+		{"id":"be9b16c2cdfe3076","type":"text","text":"$$P(X = 1 | Y = 1)$$","x":-189,"y":-60,"width":346,"height":80},
+		{"id":"b19dbb48a901fe82","type":"text","text":"$$P(X = 1 | Y = 1) \\ vs \\ P(X = 1 | Y = 0)$$","x":-189,"y":40,"width":346,"height":82},
+		{"id":"92d3992ece1e0c70","type":"text","text":"# Doelen:","x":-189,"y":-220,"width":250,"height":60},
+		{"id":"8a24b360275367dc","type":"text","text":"# Evaluatie door","x":480,"y":-220,"width":250,"height":60},
+		{"id":"7f24c10f16319170","type":"text","text":"$$ \\hat{\\alpha}_y ​= \\frac{ \\alpha_y −P(W=1∣X=0) }{ P(W=1∣X=1) ​− P(W=1∣X=0)​ } $$ $$ = \\frac{\\alpha_y​−(1−Sp)​}{Se+Sp−1} $$","x":480,"y":-60,"width":380,"height":182},
+		{"id":"121bf50bb86447dc","type":"text","text":"LISS repondents","x":1320,"y":51,"width":250,"height":60},
+		{"id":"8e6a20fa92a50eef","type":"text","text":"RVU_like","x":1320,"y":160,"width":250,"height":60},
+		{"id":"94314af0167f07c8","type":"text","text":"Random","x":1320,"y":260,"width":250,"height":60},
+		{"id":"f9f53730a2a19fe4","type":"text","text":"....","x":1660,"y":51,"width":160,"height":60},
+		{"id":"970915246d16f51d","type":"text","text":"...","x":1660,"y":160,"width":160,"height":60},
+		{"id":"02af759057ee2a3a","type":"text","text":"100k","x":1660,"y":260,"width":160,"height":60},
+		{"id":"83fefbc797141b3a","type":"text","text":"# Datasets","x":1320,"y":-220,"width":250,"height":60},
+		{"id":"36aca4e8665dc54f","type":"text","text":"RVU gebruikers","x":1320,"y":-60,"width":250,"height":60},
+		{"id":"f140d874de14ac9b","type":"text","text":"n","x":1660,"y":-160,"width":160,"height":60},
+		{"id":"da1f7e34f0152098","type":"text","text":"27016?","x":1660,"y":-60,"width":160,"height":60},
+		{"id":"8013550297c91dd1","type":"text","text":"","x":1880,"y":-160,"width":180,"height":60},
+		{"id":"bbf0fee1293ddadc","type":"text","text":"# Aannames","x":32,"y":400,"width":250,"height":60},
+		{"id":"7ded4b4b13b2cf70","type":"text","text":"$$ P(Z | \\text{RVU}) = P(Z | \\text{RVU\\_like}) $$","x":380,"y":400,"width":380,"height":80},
+		{"id":"d2682ee0237204cc","type":"text","text":"$$ P(Z | \\text{RVU\\_like}, C) = P(Z | \\text{random}, C) $$","x":380,"y":600,"width":380,"height":80},
+		{"id":"6c21f9340b898983","x":380,"y":500,"width":380,"height":80,"type":"text","text":"$$ P(Z | \\text{LISS}) = P(Z | \\text{random}) $$"},
+		{"id":"8702b811c3e665fa","x":1140,"y":610,"width":250,"height":60,"type":"text","text":"Werkend vs random?"}
 	],
 	"edges":[]
 }
