@@ -24,22 +24,31 @@ FROM [[]] and !outgoing([[]])
 
 ## TODO
 
-- [ ] Profession voorspellingen verbeteren
-	- [ ] Verschillende feature sets
+ABSOLUTE PRIO
+
+- [ ] Code afkrijgen, export aanbieden
+	- [ ] Methode kloppend krijgen
+	- [ ] Goed overzicht van stappen
+
+
+Minder prio
+
+- [x] Profession voorspellingen verbeteren
+	- [x] Verschillende feature sets
 	- [ ] CV
 - [x] Eerste versie regressie implementeren
 - [x] Voorspellen profession voor nieuwe dataset
-- [ ] Code opschonen volgens tidyverse. Consistent in plot manier.
-	- [ ] Zorgen dat eerder plots weer labels hebben
-- [ ] Hoe classificeert de literatuur zwaar werk?
+- [x] Code opschonen volgens tidyverse. Consistent in plot manier.
+	- [x] Zorgen dat eerder plots weer labels hebben
+- [x] Hoe classificeert de literatuur zwaar werk?
 	- [ ] Hoe doet die Duitse studie dat?
 	- [ ] Heb ik papers gemist?
-- [ ] Hamvraag: hoe classificeren we wie zwaar werk doet?
+- [x] Hamvraag: hoe classificeren we wie zwaar werk doet?
 
-- [ ] Hoe vertalen we RVU in dataset naar RVU-vrijstelling?
-	- [ ] De dataset is afgeleid van een bepaalde code in de polis. Dit gaat dus om geld betaald als RVU, maar niet of de vrijstelling is gebruikt. Is dit te checken met betaalde belasting?
+- [x] Hoe vertalen we RVU in dataset naar RVU-vrijstelling?
+	- [x] De dataset is afgeleid van een bepaalde code in de polis. Dit gaat dus om geld betaald als RVU, maar niet of de vrijstelling is gebruikt. Is dit te checken met betaalde belasting?
 
-- [ ] Prediction set veranderen naar geen overlap met LISS en RVU
+- [x] Prediction set veranderen naar geen overlap met LISS en RVU
 
 
 Stappenplan onderzoek
