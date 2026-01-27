@@ -25,20 +25,6 @@
             }
           },
           {
-            "id": "15a54a047847d08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overzicht doel, stappen en overwegingen"
-            }
-          },
-          {
             "id": "64044414a2428b9d",
             "type": "leaf",
             "state": {
@@ -50,6 +36,20 @@
               },
               "icon": "lucide-file",
               "title": "TODO 2026-01-26"
+            }
+          },
+          {
+            "id": "7c2c35e3595ee905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overzicht doel, stappen en overwegingen"
             }
           },
           {
@@ -65,9 +65,53 @@
               "icon": "lucide-file",
               "title": "Nondifferentiality analyse"
             }
+          },
+          {
+            "id": "7161ff29c191946a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Benodigde plots"
+            }
+          },
+          {
+            "id": "fec177331bda22e0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+                "page": 59,
+                "left": -202,
+                "top": 219,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
+            }
+          },
+          {
+            "id": "b26aafabf3f4e135",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New notes/Export aanvragen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Export aanvragen"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -99,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"type\"]",
+                "query": "odds ratio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -266,17 +310,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64044414a2428b9d",
+  "active": "b26aafabf3f4e135",
   "lastOpenFiles": [
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+    "New notes/Export aanvragen.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
     "Scriptie/TODO 2026-01-26.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
+    "Scriptie/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
     "Scriptie/Scriptie - TODO Globaal.md",
     "Scriptie/Microdata TODO.md",
     "Scriptie/TODO Archive/Prioriteiten 2026 W3.md",
     "New notes/Voortgangsgesprek.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
-    "Scriptie/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
     "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
     "$TODO.md",
     "Scriptie/Inhoudelijke Aantekeningen/Codebase overzicht.md",
@@ -294,12 +341,8 @@
     "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
     "New notes/Measurement Error - Models, Methods and Applications.md",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/RVU.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf",
-    "Scriptie/TODO Archive/TODO 2025-12-02.md",
-    "New notes/Inlezen econometrie.md",
-    "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Nguimkeu (2020) - Regression with a Misclassified Binary Regressor; Correcting for the Hidden Bias.pdf",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Aigner (1973) - REGRESSION WITH A BINARY INDEPENDENT VARIABLE SUBJECT TO ERRORS OF OBSERVATION.pdf",

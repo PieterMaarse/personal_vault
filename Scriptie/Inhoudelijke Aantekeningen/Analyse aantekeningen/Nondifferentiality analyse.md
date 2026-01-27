@@ -25,7 +25,7 @@ Prio
 	- [x] TPR + TNR -1 = TPR - FPR
 	- [ ] In welke stap bepalen? Model selecteren op basis van auc of J?
 - [x] TNR / TPR berekenen en opslaan
-- [ ] Opslaan feature set als .rds
+- [x] Opslaan feature set als .rds
 - [ ] Betere schatting voor fouten
 	- [x] Eerst voor alleen leeftijd/gender
 	- [ ] Daarna voor alle features
@@ -35,11 +35,11 @@ Prio
 - [ ] CV toevoegen
 - [ ] Code aanpassen om test set echt te gebruiken
 
-ER GAAT IETS FOUT MET RINS, sommige RINS komen vaker voor in ind_features
+- [ ] ER GAAT IETS FOUT MET RINS, sommige RINS komen vaker voor in ind_features
 code herstructureren:
-1. RIN file maken met RVU, LISS, random RVU_like, random random
-	1. Denk na over wat ik met duplicates doe (zorg dat individuen maar in 1 groep voorkomen)
-2. Haal voor die RINs de POLIS data en GBA data op, sla die op in nieuw bestand
+	1. RIN file maken met RVU, LISS, random RVU_like, random random
+		1. Denk na over wat ik met duplicates doe (zorg dat individuen maar in 1 groep voorkomen)
+	2. Haal voor die RINs de POLIS data en GBA data op, sla die op in nieuw bestand
 	
 
 
