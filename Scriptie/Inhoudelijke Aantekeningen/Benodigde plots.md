@@ -35,6 +35,10 @@ geen
 #### RVU
 
 - Population plots
+- Wie maken gebruik van RVU? Data over zwaar werk ontbreekt hierin
+	- Leeftijd
+	- Opleiding
+	- Sector
 
 #### LISS
 
