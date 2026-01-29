@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef62b6afd9bab8ce",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
-                "viewState": {
-                  "x": 1019.9042558847938,
-                  "y": 288.7079752350029,
-                  "zoom": -0.730296731843407
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overzicht stappen"
-            }
-          },
-          {
             "id": "64044414a2428b9d",
             "type": "leaf",
             "state": {
@@ -36,50 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "TODO 2026-01-26"
-            }
-          },
-          {
-            "id": "7c2c35e3595ee905",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Overzicht doel, stappen en overwegingen"
-            }
-          },
-          {
-            "id": "523450ee298b22b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nondifferentiality analyse"
-            }
-          },
-          {
-            "id": "fec177331bda22e0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                "page": 73,
-                "left": -202,
-                "top": 610,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           },
           {
@@ -95,7 +34,13 @@
               "icon": "lucide-file",
               "title": "Export aanvragen"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "3d89080c3b18456e",
+        "type": "tabs",
+        "children": [
           {
             "id": "6d05895acf7292f4",
             "type": "leaf",
@@ -110,8 +55,7 @@
               "title": "Benodigde plots"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5041847229004
+    "width": 302.5041847229004,
+    "collapsed": true
   },
   "right": {
     "id": "349ae95106766c6e",
@@ -310,17 +255,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "64044414a2428b9d",
+  "active": "6d05895acf7292f4",
   "lastOpenFiles": [
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
-    "New notes/Export aanvragen.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/TODO 2026-01-26.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
+    "New notes/Export aanvragen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Implications of nondifferentiality.md",
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+    "Personal Notes/Extrie/Alumni Activiteit/Aantekeningen Alumni Activiteit.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
+    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
+    "Personal Notes/Extrie/Alumni Activiteit/Untitled.md",
     "New notes/PK data comments.md",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
     "Scriptie/Scriptie - TODO Globaal.md",
     "Scriptie/Microdata TODO.md",
@@ -338,10 +286,7 @@
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Test Management functie publieke sector meer in RVU.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor.md",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Longitudinal random forest.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Idee Daniël over analyse.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Econometrische analyse.md",
     "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter.pdf",
-    "Scriptie/Inhoudelijke Aantekeningen/Data aantekeningen/$Data Aantekeningen.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Nguimkeu (2020) - Regression with a Misclassified Binary Regressor; Correcting for the Hidden Bias.pdf",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",

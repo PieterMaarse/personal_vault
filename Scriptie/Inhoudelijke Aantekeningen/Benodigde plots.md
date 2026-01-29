@@ -23,7 +23,15 @@ Geen
 geen
 
 
+## Theory
+
+
+
 ## Data
+
+#### SPOLIS
+
+#### RVU
 
 - Welke stappen zijn belangrijk?
 	- Koppelen
@@ -45,9 +53,24 @@ geen
 - Specifiek LISS kan extern maar met microdata moet nu
 
 
+- Stukje over "RVU_like" en "random" samples?
+
+
 ## Prediction model
 
+#### Modellen
+
+Geen
+
+#### Features
+
 - Overzicht features
+
+#### Training & Tuning
+
+
+#### Test set performance
+
 
 - Performance tables
 	- TP/FP/TN/FN (niet voor allemaal)
