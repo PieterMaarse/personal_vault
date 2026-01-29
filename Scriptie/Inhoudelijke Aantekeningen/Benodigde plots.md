@@ -54,6 +54,7 @@ geen
 	- Sensitivity, specificity
 	- Best model
 
+- Performance van model over verschillende leeftijden (/ en andere features)
 
 - Test set predictions?
 
