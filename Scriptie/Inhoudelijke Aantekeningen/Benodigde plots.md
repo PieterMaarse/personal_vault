@@ -29,6 +29,11 @@ geen
 
 ## Data
 
+Allen:
+- Hoe goed koppelt de data
+- Zijn het random samples
+- Per sample: hoeveel komen er voor in LISS?
+
 #### SPOLIS
 
 #### RVU
@@ -50,6 +55,10 @@ geen
 
 #### LISS
 
+- Wie hebben de survey ingevuld
+	- Leeftijd / ?
+- Wat zijn de antwoorden op de vragen
+
 - Specifiek LISS kan extern maar met microdata moet nu
 
 
@@ -65,28 +74,86 @@ Geen
 #### Features
 
 - Overzicht features
+- Relatie features met age?
 
 #### Training & Tuning
 
+Geen
 
 #### Test set performance
 
-
+- Test set predictions?
 - Performance tables
 	- TP/FP/TN/FN (niet voor allemaal)
 	- Sensitivity, specificity
 	- Best model
 
-- Performance van model over verschillende leeftijden (/ en andere features)
+#### Estimating Se/Sp
 
-- Test set predictions?
+- Se/Sp van model over verschillende leeftijden (/ en andere features)
 
 
 
 ## Evaluation
 
 - Plots / tables
-	- alphas
-	- odds ratio
-	- sensitivity / specificity
+	- Se/Sp
+		- Meerdere schattingen
+		- Oftewel, contingency tables voor meerdere subsets?
+	- Fractions \hat{Y}
+	- (de rest kunnen we daarmee berekenen? check dit!)
 
+
+
+# Plots
+
+- [ ] RVU
+	- [ ] How many people link?
+		- [ ] Is this a random sample?
+	- [x] Plot that almost everyone was in SPOLIS in 2020?
+	- [x] What groups are overrepresented?
+		- [x] Age
+		- [x] SSECT
+		- [x] OPL
+		- [x] Compared to:
+			- [x] Random sample from 2020
+			- [x] Random sample from GBA? Nee zinloos
+			- [x] Random sample with same age distribution
+
+- [x] LISS
+	- [x] How many individuals merge
+	- [x] When were questions answered?
+	- [x] How many times do people appear?
+	- [x] Is it a random sample of the working population?
+		- [x] Look at one year (2020), or each year separately, not together
+			- [x] Age
+			- [x] Sector
+			- [x] Opleiding
+		- [ ] Or for every LISS year, filter for equal number of individuals who appear in that SPOLIS
+
+- [ ] Preliminary analysis
+	- [ ] Welke mensen zijn oververtegenwoordigd in RVU? (mag niet als export)
+	- [ ] Welke relaties zien we tussen antwoorden op vragen en features?
+	- [ ] Welke mensen zijn oververtegenwoordigd in overlap?
+	- [x] Hoeveel mensen komen voor in OPL, evt naar leeftijd
+
+- [ ] Feature gegevens?
+
+- [ ] Prediction performance
+	- [ ] Per vraag
+	- [ ] Contingency tables test set
+		- [ ] Totaal
+		- [ ] Per LISS jaar
+		- [ ] Subgroep leeftijd
+			- [ ] Meerdere subgroepen om later mooie plotjes te maken
+			- [ ] Of zoiets als Menno
+	- [ ] Predictie totalen
+		- [ ] Hoeveel in welke groep voor elke vraag
+	- [ ] Probability:
+		- [ ] Aantal mensen fout/goed in elke 0.10 window
+	- [ ] Eventueel
+		- [ ] Betere inschatting voor RVU_like Se/Sp door gewogen gemiddeldes van afstand? Kan dat op basis van de procenten?
+		- [ ] Vergelijken met 2010?
+
+- [ ] Evaluatie
+	- [ ] Output van vorige?
