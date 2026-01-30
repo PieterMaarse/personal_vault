@@ -138,22 +138,28 @@ Geen
 	- [x] Hoeveel mensen komen voor in OPL, evt naar leeftijd
 
 - [ ] Feature gegevens?
+	- [x] Zeros and NA?
+	- [x] Correlations between features
+	- [ ] Number of individuals in each set (train/val/test/pred)
 
-- [ ] Prediction performance
-	- [ ] Per vraag
-	- [ ] Contingency tables test set
-		- [ ] Totaal
-		- [ ] Per LISS jaar
-		- [ ] Subgroep leeftijd
-			- [ ] Meerdere subgroepen om later mooie plotjes te maken
+- [x] Prediction performance
+	- [x] Per vraag
+	- [x] Confusion matrices test set
+		- [x] Totaal
+		- [x] Subgroep leeftijd
+			- [x] Meerdere subgroepen om later mooie plotjes te maken
 			- [ ] Of zoiets als Menno
-	- [ ] Predictie totalen
-		- [ ] Hoeveel in welke groep voor elke vraag
-	- [ ] Probability:
-		- [ ] Aantal mensen fout/goed in elke 0.10 window
-	- [ ] Eventueel
-		- [ ] Betere inschatting voor RVU_like Se/Sp door gewogen gemiddeldes van afstand? Kan dat op basis van de procenten?
-		- [ ] Vergelijken met 2010?
+	- [x] Predictie totalen
+		- [x] Hoeveel in welke groep voor elke vraag
+	- [x] Probability:
+		- [x] Aantal mensen fout/goed in elke 0.10 window
+	- [x] Eventueel
+		- [x] Voor RVU_like zou vergelijkbare age genoeg moeten zijn
 
-- [ ] Evaluatie
-	- [ ] Output van vorige?
+
+
+- [ ] Niet meer doen
+	- [ ] Betere inschatting voor RVU Se/Sp door gewogen gemiddeldes van afstand / importance? Kan dat op basis van de procenten?
+	- [ ] Prediction performance op test zet uitzetten naar LISS jaar
+	- [ ] Beter kijken welke groepen goed/slect voorspellen op test set
+	- [ ] Correlations with target variables?
