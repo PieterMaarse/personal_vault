@@ -107,9 +107,7 @@ Geen
 
 # Plots
 
-- [ ] RVU
-	- [ ] How many people link?
-		- [ ] Is this a random sample?
+- [x] RVU
 	- [x] Plot that almost everyone was in SPOLIS in 2020?
 	- [x] What groups are overrepresented?
 		- [x] Age
@@ -129,18 +127,13 @@ Geen
 			- [x] Age
 			- [x] Sector
 			- [x] Opleiding
-		- [ ] Or for every LISS year, filter for equal number of individuals who appear in that SPOLIS
 
-- [ ] Preliminary analysis
-	- [ ] Welke mensen zijn oververtegenwoordigd in RVU? (mag niet als export)
-	- [ ] Welke relaties zien we tussen antwoorden op vragen en features?
-	- [ ] Welke mensen zijn oververtegenwoordigd in overlap?
+- [x] Preliminary analysis
 	- [x] Hoeveel mensen komen voor in OPL, evt naar leeftijd
 
-- [ ] Feature gegevens?
+- [x] Feature gegevens?
 	- [x] Zeros and NA?
 	- [x] Correlations between features
-	- [ ] Number of individuals in each set (train/val/test/pred)
 
 - [x] Prediction performance
 	- [x] Per vraag
@@ -148,7 +141,6 @@ Geen
 		- [x] Totaal
 		- [x] Subgroep leeftijd
 			- [x] Meerdere subgroepen om later mooie plotjes te maken
-			- [ ] Of zoiets als Menno
 	- [x] Predictie totalen
 		- [x] Hoeveel in welke groep voor elke vraag
 	- [x] Probability:
@@ -161,5 +153,8 @@ Geen
 - [ ] Niet meer doen
 	- [ ] Betere inschatting voor RVU Se/Sp door gewogen gemiddeldes van afstand / importance? Kan dat op basis van de procenten?
 	- [ ] Prediction performance op test zet uitzetten naar LISS jaar
-	- [ ] Beter kijken welke groepen goed/slect voorspellen op test set
+	- [ ] Beter kijken welke groepen goed/slecht voorspellen op test set
+		- [ ] Zoals Menno
 	- [ ] Correlations with target variables?
+	- [ ] Preliminary analysis met relaties tussen vragen en features (op train/val set)
+	- [ ] Inschatting random sample van LISS verbeteren door voor elk jaar een gelijk aantal randoms uit de SPOLIS te filteren
