@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75b91ee7a122ed0d",
+        "id": "de9058586808fd4a",
         "type": "tabs",
         "children": [
           {
-            "id": "ce4b854651ed5c4e",
+            "id": "c0ab5ec1feaa750b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Notes/Extrie/Alumni Activiteit/Aantekeningen Alumni Activiteit.md",
+                "file": "New notes/Voortgangsgesprek.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aantekeningen Alumni Activiteit"
+              "title": "Voortgangsgesprek"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5041847229004
+    "width": 240.5041847229004
   },
   "right": {
     "id": "349ae95106766c6e",
@@ -220,10 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ce4b854651ed5c4e",
+  "active": "c0ab5ec1feaa750b",
   "lastOpenFiles": [
-    "Personal Notes/Extrie/Alumni Activiteit/Meeting Char-Lee 2025-12-04.md",
     "Personal Notes/Extrie/Alumni Activiteit/Aantekeningen Alumni Activiteit.md",
+    "Personal Notes/Extrie/Alumni Activiteit/Meeting Char-Lee 2025-12-04.md",
     "Scriptie/TODO 2026-01-26.md",
     "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
     "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
