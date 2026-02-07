@@ -1,0 +1,2 @@
+- Qua communicatie: denk na voor ik naar binnen loop en vragen stel. Schrijf eerst voor mezelf op. Ga beter om met anderen hun tijd.
+- Doe niet te veel, meer pragmatisch. Denk na wat belangrijk is en doe wat ze van me vragen.
