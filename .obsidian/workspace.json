@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Feedback Tim"
             }
+          },
+          {
+            "id": "82b0e0844c0cb74c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +233,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0ab5ec1feaa750b",
+  "active": "82b0e0844c0cb74c",
   "lastOpenFiles": [
     "New notes/Voortgangsgesprek.md",
     "SEO/Feedback Tim.md",
