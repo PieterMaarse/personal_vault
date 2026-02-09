@@ -4,24 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "04a56a0e882fe4fc",
+        "id": "b8cc81252d278ec6",
         "type": "tabs",
         "children": [
           {
-            "id": "c0969ad18aca291d",
+            "id": "0bdf92809138f1a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "$TODO.md",
+                "file": "Scriptie/Bronnen/SEO documenten/AOW Monitor Concept.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "$TODO"
+              "title": "AOW Monitor Concept"
+            }
+          },
+          {
+            "id": "06a6109dfb193f83",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Bronnen/RVU/PDFs RVU/Handreiking uitvoering RVU.pdf",
+                "page": 1,
+                "left": -106,
+                "top": 106,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Handreiking uitvoering RVU"
+            }
+          },
+          {
+            "id": "d7f5c1e976cbe559",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+                "page": 1,
+                "left": -206,
+                "top": 250,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +137,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PDF_rabaté-et-al-2024"
+              "title": "Backlinks for Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           },
           {
@@ -113,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/PDFs Papers/PDF_rabaté-et-al-2024.pdf",
+                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PDF_rabaté-et-al-2024"
+              "title": "Outgoing links from Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           },
           {
@@ -194,13 +227,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,46 +251,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0969ad18aca291d",
+  "active": "d7f5c1e976cbe559",
   "lastOpenFiles": [
-    "_Home.md",
-    "Scriptie/Chat - Intro Misclassified Binary Regressor.md",
-    "Scriptie/Measurement Error - Models, Methods and Applications.md",
-    "SEO/SA Algemeen/Voortgangsgesprek.md",
-    "Scriptie/Predictor improvements - Chat.md",
-    "Personal Notes/Inlezen econometrie.md",
-    "SEO/Feedback van Tim.md",
-    "New notes/Aanpassing notitie.md",
-    "New notes/Untitled.md",
-    "Personal Notes/Extrie/Alumni Activiteit/Aantekeningen Alumni Activiteit.md",
-    "Personal Notes/Extrie/Alumni Activiteit/Meeting Char-Lee 2025-12-04.md",
-    "Scriptie/TODO 2026-01-26.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Benodigde plots.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
-    "Scriptie/Export aanvragen.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Implications of nondifferentiality.md",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-    "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Nondifferentiality analyse.md",
-    "Personal Notes/Extrie/Alumni Activiteit/Untitled.md",
-    "New notes/PK data comments.md",
-    "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
-    "Scriptie/Scriptie - TODO Globaal.md",
-    "Scriptie/Microdata TODO.md",
-    "Scriptie/TODO Archive/Prioriteiten 2026 W3.md",
-    "Scriptie/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
-    "$TODO.md",
-    "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter_feedback.pdf",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Battaglia (2025) - Inference for Regression with Variables Generated by AI or Machine Learning.pdf",
-    "Scriptie/Eigen bestanden/Introductie_Scriptie_Pieter.pdf",
+    "Scriptie/Bronnen/RVU/PDFs RVU/Handreiking uitvoering RVU.pdf",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor.md",
+    "New notes/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Nguimkeu (2020) - Regression with a Misclassified Binary Regressor; Correcting for the Hidden Bias.pdf",
+    "Scriptie/Bronnen/RVU/PDFs RVU/Wijziging pensioenwet.pdf",
+    "Scriptie/Bronnen/RVU/PDFs RVU/TK Kamerbrief Onderhandelaarsakkoord gezond naar het pensioen.pdf",
+    "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/PDF_LISS_codebook_robotization.pdf",
+    "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/PDF_LISS_codebook_WorkSchooling_21.pdf",
+    "Scriptie/Bronnen/SEO documenten/PDF_PowerPoint_EBB.pdf",
+    "Scriptie/Bronnen/SEO documenten/PowerPoint EBB Voorspellingen SEO.md",
+    "Scriptie/Bronnen/SEO documenten/AOW Monitor Concept.md",
+    "Scriptie/Bronnen/SEO documenten",
+    "$TODO.md",
+    "Scriptie/Bronnen/RVU/Wat betekent de versoepeling van de RVU-regeling voor oudere werknemers.md",
+    "Scriptie/Bronnen/RVU/Vervroegd pensioen is kwestie van noodzaak of fortuin.md",
+    "Scriptie/Bronnen/RVU/TK Brief gezond naar het pensioen.md",
+    "Scriptie/Bronnen/RVU/RVU-regeling - Arbeidsrechter.nl.md",
+    "Scriptie/Bronnen/RVU/RVU threshold exemption redesigned starting 2026.md",
+    "Scriptie/Bronnen/RVU/Handreiking voor de interpretatie van het begrip “Regeling voor vervroegde uittreding”.md",
+    "Scriptie/Bronnen/RVU/Gemiddelde pensioenleeftijd voor het eerst boven de 66 jaar.md",
+    "Scriptie/Bronnen/RVU/Exemption threshold Early Retirement Scheme (RVU) remains in place.md",
+    "Scriptie/Bronnen/RVU/Early retirement scheme (RVU).md",
+    "Scriptie/Bronnen/Scriptie Bronnen Overzicht.base",
+    "Scriptie/Bronnen/Academic Papers/ML/Inference for Regression with Variables Generated by AI or Machine Learning.md",
+    "Scriptie/Aantekeningen",
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Regression with a Misclassified Binary Regressor Correcting for the Hidden Bias.md",
+    "Scriptie/Aantekeningen/Chat/ChatGPT - Introductie Uittreding.md",
+    "Scriptie/Praktische Aantekeningen/Scriptie Algemene Praktische Aantekeningen.md",
+    "Scriptie/TODO Archive/TODO 2026-01-26.md",
+    "Scriptie/TODO Archive/TODO 2026-01-08.md",
+    "Scriptie/Aantekeningen/Chat/Predictor improvements - Chat.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Measurement Error - Models, Methods and Applications.md",
+    "Scriptie/Aantekeningen/Chat/Chat - Intro Misclassified Binary Regressor.md",
+    "_Home.md",
+    "SEO/SA Algemeen/Voortgangsgesprek.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Aigner (1973) - REGRESSION WITH A BINARY INDEPENDENT VARIABLE SUBJECT TO ERRORS OF OBSERVATION.pdf",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Untitled.base",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Bollinger (2017) - Bayesian moment-based inference in a regression model with misclassification error.pdf",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Beavers (2025) - Bayesian variable selection for logistic regression with a differentially misclassified binary covariate.pdf",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
     "Pasted image 20251211145940.png",
     "Pasted image 20251211144811.png",
