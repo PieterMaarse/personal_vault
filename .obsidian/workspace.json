@@ -58,17 +58,47 @@
               "type": "pdf",
               "state": {
                 "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                "page": 1,
-                "left": -154,
-                "top": 634,
-                "zoom": 1
+                "page": 73,
+                "left": -90,
+                "top": 626,
+                "zoom": 0.8559526092064101
               },
               "icon": "lucide-file-text",
               "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
+          },
+          {
+            "id": "4e348a5519ea2a01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/LISS Codebook WorkSchooling 2021.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LISS Codebook WorkSchooling 2021"
+            }
+          },
+          {
+            "id": "286000c510f7aab6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/PDF_LISS_codebook_WorkSchooling_21.pdf",
+                "page": 1,
+                "left": -106,
+                "top": 846,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "PDF_LISS_codebook_WorkSchooling_21"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+                "file": "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/PDF_LISS_codebook_WorkSchooling_21.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +181,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
+              "title": "Backlinks for PDF_LISS_codebook_WorkSchooling_21"
             }
           },
           {
@@ -160,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+                "file": "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/PDF_LISS_codebook_WorkSchooling_21.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
+              "title": "Outgoing links from PDF_LISS_codebook_WorkSchooling_21"
             }
           },
           {
@@ -265,13 +295,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e05d4938bd5059a",
+  "active": "286000c510f7aab6",
   "lastOpenFiles": [
+    "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/LISS Codebook WorkSchooling 2021.md",
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Implications of nondifferentiality.md",
     "Scriptie/Bronnen/RVU/PDFs RVU/Handreiking uitvoering RVU.pdf",
     "Scriptie/Bronnen/SEO documenten/AOW Monitor Concept.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijden schrijven.md",
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor.md",
     "New notes/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Buonaccorsi - Measurement Error; Models, Methods and Applications.pdf",
@@ -302,7 +333,6 @@
     "Scriptie/Aantekeningen/Chat/Predictor improvements - Chat.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Measurement Error - Models, Methods and Applications.md",
     "Scriptie/Aantekeningen/Chat/Chat - Intro Misclassified Binary Regressor.md",
-    "_Home.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
