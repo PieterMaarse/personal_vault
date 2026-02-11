@@ -15,3 +15,10 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+## TODO
+
+- [ ] | vervangen door \mid
+- [ ] Goed kijken naar random vs given x, y
+- [ ] Lezen handreiking RVU uitvoering
+- [ ] Feedback Jellien op intro en eerste versie verwerken
+- [ ] 
