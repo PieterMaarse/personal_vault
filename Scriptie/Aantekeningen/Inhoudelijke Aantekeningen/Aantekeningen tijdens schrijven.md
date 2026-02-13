@@ -21,4 +21,15 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [ ] Goed kijken naar random vs given x, y
 - [ ] Lezen handreiking RVU uitvoering
 - [ ] Feedback Jellien op intro en eerste versie verwerken
-- [ ] 
+
+
+
+Doorlezen
+- [x] Intro
+	- [ ] Related work
+- [x] Background
+- [ ] Theory
+- [ ] Data
+- [ ] Predictions
+- [ ] Evaluating
+- [ ] Conclusion
