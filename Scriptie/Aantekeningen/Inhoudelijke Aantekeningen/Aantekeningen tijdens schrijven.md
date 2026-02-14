@@ -17,19 +17,11 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 
 ## TODO
 
-- [ ] | vervangen door \mid
+- [x] | vervangen door \mid
 - [ ] Goed kijken naar random vs given x, y
 - [ ] Lezen handreiking RVU uitvoering
 - [ ] Feedback Jellien op intro en eerste versie verwerken
-
-
-
-Doorlezen
-- [x] Intro
-	- [ ] Related work
-- [x] Background
-- [ ] Theory
-- [ ] Data
-- [ ] Predictions
-- [ ] Evaluating
-- [ ] Conclusion
+- [ ] Aanpassen legenda's naar toevoegen namen
+- [ ] Related work schrijven
+- [ ] Goed nadenken over wat de nondifferentiality assumptie nou precies zegt. Vinden we bewijs ertegen? Dingen moeten wel gegeven X zijn
+- [ ] Acknowledgements toevoegen
