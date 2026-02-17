@@ -44,3 +44,6 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 • **"Vervroegd pensioen is kwestie van noodzaak of fortuin" (Henkens et al., ESB 2018):** Although slightly older, this remains a key academic source for your introduction. It provides the sociological context that the desire to retire early is often driven by **health and heavy work**, but the ability to do so is currently restricted to those with **significant private wealth**. [[Vervroegd pensioen is kwestie van noodzaak of fortuin]]
 
 By citing these specific documents, you will transform your thesis from an evaluation of a temporary pilot into a relevant analysis of a **structural national policy**.
+
+
+extra; [[Bijlage Gezond naar pensioen 18 oktober 2024 onderhandelaars akkoord.pdf]]
