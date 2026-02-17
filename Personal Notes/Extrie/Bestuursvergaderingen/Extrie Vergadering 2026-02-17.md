@@ -8,4 +8,6 @@
 
 - Akkoord van bestuur (en RvC) voor samen gaan met Kraket. Willen we met nog Tesse/Eveline zitten? Na vergadering bij Tesse terugkomen
 
-- Mensen uit drive kicken?
+- Mensen uit drive kicken? 
+
+- Goed om LinkedIn groep te maken, uitwerken met Hande
