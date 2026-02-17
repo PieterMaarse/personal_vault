@@ -24,13 +24,9 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [x] CBS citaties toevoegen
 	- [x] Algemeen in acknowledgement plus specifieke datasets?
 - [x] Kijken naar $\Psi_c$ notatie in introductie/evaluatie
-- [ ] tabellen 3 en 4 toelichten
-- [ ] Door Prism halen en naar consistentie spelling (US/EN) vragen
-- [ ] Literatuur aanvullen:
-	- [ ] Zie kamerbrief Gezond naar het pensioen en bijlagen
-	- [ ] Handreiking uitvoering RVU en andere documenten
-	- [ ] RVU afspraken in cao's in 2025
-	- [ ] Beter in de context plaatsen
+- [x] tabellen 3 en 4 toelichten
+- [x] Door Prism halen en naar consistentie spelling (US/EN) vragen
+- [ ] Literatuur aanvullen: [[Belangrijkste bronnen RVU]]
 - [ ] Helemaal nalezen. Kijken naar:
 	- [ ] Random vs given x, y notatie
 	- [ ] term: nondifferential misclassification

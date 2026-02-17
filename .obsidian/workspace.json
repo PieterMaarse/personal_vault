@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b8cc81252d278ec6",
+        "id": "3d3ebffefb826320",
         "type": "tabs",
         "children": [
           {
-            "id": "25a569091de9ec59",
+            "id": "eb5f374cb50a534a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,51 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Aantekeningen tijdens schrijven"
-            }
-          },
-          {
-            "id": "3df88807c0c81344",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Bronnen/RVU/Officieel/Handreiking uitvoering RVU.pdf",
-                "page": 7,
-                "left": -106,
-                "top": 683,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Handreiking uitvoering RVU"
-            }
-          },
-          {
-            "id": "0c8a7b3e71e502d4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Bronnen/RVU/Officieel/Criteria-validering-afbakeningen-okt2025.pdf",
-                "page": 1,
-                "left": -106,
-                "top": 636,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Criteria-validering-afbakeningen-okt2025"
-            }
-          },
-          {
-            "id": "6edc03b9aee33d1c",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Scriptie/Bronnen/RVU/RVU overview.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "RVU overview"
             }
           }
         ]
@@ -263,31 +218,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25a569091de9ec59",
+  "active": "eb5f374cb50a534a",
   "lastOpenFiles": [
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
+    "Scriptie/Bronnen/RVU/Officieel/Handreiking uitvoering RVU.pdf",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
+    "Scriptie/Bronnen/RVU/Officieel/Wijziging pensioenwet.pdf",
+    "Scriptie/Bronnen/RVU/Officieel/Criteria-validering-afbakeningen-okt2025.pdf",
+    "Scriptie/Bronnen/RVU/RVU overview.base",
+    "Scriptie/Bronnen/RVU/Officieel/Kamerbrief RVU maatregel Belastingplan 2026.pdf",
+    "Scriptie/Bronnen/RVU/Officieel/Wet op de loonbelasting 1964.pdf",
+    "Scriptie/Bronnen/RVU/Officieel/TNO-2025-M11089-Criteria-validering-afbakeningen_17dec25.pdf",
+    "Scriptie/Bronnen/RVU/Officieel/TK Kamerbrief Onderhandelaarsakkoord gezond naar het pensioen.pdf",
+    "Scriptie/Bronnen/RVU/Officieel/TK Brief gezond naar het pensioen.md",
+    "Scriptie/Bronnen/RVU/Officieel/mso23BA.tmp",
+    "Scriptie/Bronnen/RVU/Officieel/RVU-afspraken in caos 2025.pdf",
     "Scriptie/Bronnen/RVU/Overig/Expertisecentrum Zwaar Werk.md",
     "Scriptie/Bronnen/RVU/Overig/Gemiddelde pensioenleeftijd voor het eerst boven de 66 jaar.md",
-    "Scriptie/Bronnen/RVU/Overig/Richtlijn-afbakening-chemie-functies-RVU-versie-2025-12-19.pdf",
-    "Scriptie/Bronnen/RVU/Officieel/Kamerbrief uitwerking akkoord _Gezond naar het pensioen_.pdf",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
-    "Scriptie/Bronnen/RVU/RVU overview.base",
     "Scriptie/Bronnen/RVU/Untitled.md",
-    "Scriptie/Bronnen/RVU/Officieel/Bijlage 1 - TNO 2025 Criteria validering afbakeningen.pdf",
     "Scriptie/Bronnen/SEO documenten/PowerPoint EBB Voorspellingen SEO.md",
-    "Scriptie/Bronnen/SEO documenten/PDF_PowerPoint_EBB.pdf",
-    "Scriptie/Bronnen/SEO documenten/PDF_AOW_monitor_opzet - concept rapport met infographic en samenvatting.pdf",
     "Scriptie/Bronnen/SEO documenten/AOW Monitor Concept.md",
     "Scriptie/Bronnen/RVU/Officieel/Handreiking voor de interpretatie van het begrip “Regeling voor vervroegde uittreding”.md",
-    "Scriptie/Bronnen/RVU/Officieel/Wijziging pensioenwet.pdf",
     "Scriptie/Bronnen/RVU/Artikelen overheid/Wat betekent de versoepeling van de RVU-regeling voor oudere werknemers.md",
     "Scriptie/Bronnen/RVU/Artikelen overheid/Wat betekent de RVU-drempelvrijstelling voor werkgevers en werknemers.md",
     "Scriptie/Bronnen/RVU/Overig/Vervroegd pensioen is kwestie van noodzaak of fortuin.md",
-    "Scriptie/Bronnen/RVU/Officieel/TNO-2025-M11089-Criteria-validering-afbakeningen_17dec25.pdf",
-    "Scriptie/Bronnen/RVU/Officieel/TK Kamerbrief Onderhandelaarsakkoord gezond naar het pensioen.pdf",
     "Scriptie/Bronnen/RVU/Overig/RVU-regeling - Arbeidsrechter.nl.md",
     "Scriptie/Bronnen/RVU/Overig/RVU threshold exemption redesigned starting 2026.md",
-    "Scriptie/Bronnen/RVU/Overig/Openbaarmaking beslisnota_s Kamerbrief Uitwerking akkoord _Gezond naar het pensioen__Geredigeerd.pdf",
-    "Scriptie/Bronnen/RVU/Officieel/TK Brief gezond naar het pensioen.md",
     "Scriptie/Bronnen/RVU/Artikelen overheid/Gezond doorwerken en eerder stoppen met werken.md",
     "Scriptie/Bronnen/RVU/Artikelen overheid/Exemption threshold Early Retirement Scheme (RVU) remains in place.md",
     "Scriptie/Bronnen/RVU/Artikelen overheid/Early retirement scheme (RVU).md",
@@ -299,7 +255,6 @@
     "Personal Notes/Extrie/$Extrie.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Implications of nondifferentiality.md",
     "Scriptie/Aantekeningen/Praktische Aantekeningen/LISS/LISS Codebook WorkSchooling 2021.md",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
