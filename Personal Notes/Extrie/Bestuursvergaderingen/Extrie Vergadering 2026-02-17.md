@@ -10,4 +10,4 @@
 
 - Mensen uit drive kicken? 
 
-- Goed om LinkedIn groep te maken, uitwerken met Hande
+- Goed om LinkedIn groep te maken, uitwerken met Hande. Mag dingen aanpassen
