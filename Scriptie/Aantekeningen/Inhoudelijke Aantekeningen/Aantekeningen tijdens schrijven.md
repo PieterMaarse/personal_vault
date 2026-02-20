@@ -26,11 +26,17 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [x] Kijken naar $\Psi_c$ notatie in introductie/evaluatie
 - [x] tabellen 3 en 4 toelichten
 - [x] Door Prism halen en naar consistentie spelling (US/EN) vragen
-- [ ] Literatuur aanvullen: [[Belangrijkste bronnen RVU]]
+- [x] Literatuur aanvullen: [[Belangrijkste bronnen RVU]]
+- [ ] Overzicht maken van wat ik doe: wat is mijn onderzoeksvraag, wat is mijn hypothese, hoe beantwoord ik deze, wat zijn de resultaten, wat zegt dit
+- [ ] Meer terugkoppelen naar de echte wereld
+- [ ] Test toevoegen
+- [ ] Effectiveness: kunnen mensen er eerder door met pensioen? Daarna efficiency: worden de middelen goed gebruikt?
+	- [ ] Causaliteit mist: wanneer waren mensen anders met pensioen gegaan. Toevoegen
 - [ ] Helemaal nalezen. Kijken naar:
 	- [ ] Random vs given x, y notatie
 	- [ ] term: nondifferential misclassification
 - [ ] Goed nadenken over wat de nondifferentiality assumptie nou precies zegt. Vinden we bewijs ertegen? Dingen moeten wel gegeven X zijn
+
 
 Evt
 - [ ] Related work schrijven?

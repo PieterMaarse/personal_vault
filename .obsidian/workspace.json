@@ -4,55 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3ebffefb826320",
+        "id": "471928928f264abe",
         "type": "tabs",
         "children": [
           {
-            "id": "eb5f374cb50a534a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Bronnen/RVU/Officieel/RVU-afspraken in caos 2025.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 846,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "RVU-afspraken in caos 2025"
-            }
-          },
-          {
-            "id": "3beef83dba8df2bb",
+            "id": "1bea5c634f58bebb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New notes/Aantekeningen bellletje Magnus.md",
+                "file": "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aantekeningen bellletje Magnus"
-            }
-          },
-          {
-            "id": "01966c8e24704a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extrie Vergadering 2026-02-17"
+              "title": "Aantekeningen tijdens schrijven"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
+                "file": "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Extrie Vergadering 2026-02-17"
+              "title": "Backlinks for Aantekeningen tijdens schrijven"
             }
           },
           {
@@ -249,15 +218,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01966c8e24704a2c",
+  "active": "a88eb294c4c62841",
   "lastOpenFiles": [
+    "Scriptie/Eigen bestanden/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
+    "Scriptie/Bronnen/RVU/Officieel/RVU-afspraken in caos 2025.pdf",
+    "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
     "New notes/Untitled.md",
     "Scriptie/Bronnen/RVU/Officieel/Kamerbrief uitwerking akkoord _Gezond naar het pensioen_.pdf",
-    "Scriptie/Bronnen/RVU/Officieel/RVU-afspraken in caos 2025.pdf",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
     "Scriptie/Bronnen/RVU/Officieel/Bijlage Gezond naar pensioen 18 oktober 2024 onderhandelaars akkoord.pdf",
     "New notes/Aantekeningen bellletje Magnus.md",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
     "Scriptie/Bronnen/RVU/Officieel/Handreiking uitvoering RVU.pdf",
     "Scriptie/Bronnen/RVU/Officieel/Wijziging pensioenwet.pdf",
     "Scriptie/Bronnen/RVU/Officieel/Criteria-validering-afbakeningen-okt2025.pdf",
@@ -283,10 +254,8 @@
     "Scriptie/Eigen bestanden/Scriptie Introductie 1e versie.md",
     "Scriptie/Eigen bestanden/Scriptie Introductie Feedback 1e Versie.md",
     "Scriptie/Aantekeningen/Verbeterpunten scriptieproces.md",
-    "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2025-10-01.md",
     "Personal Notes/Extrie/$Extrie.md",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Implications of nondifferentiality.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
