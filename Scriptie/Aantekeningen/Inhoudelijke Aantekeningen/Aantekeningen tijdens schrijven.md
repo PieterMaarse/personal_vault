@@ -27,15 +27,23 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [x] tabellen 3 en 4 toelichten
 - [x] Door Prism halen en naar consistentie spelling (US/EN) vragen
 - [x] Literatuur aanvullen: [[Belangrijkste bronnen RVU]]
+- [ ] Door chat pro gooien
+	- [ ] Partial identification?
+	- [ ] Efficiency -> targeting
 - [ ] Overzicht maken van wat ik doe: wat is mijn onderzoeksvraag, wat is mijn hypothese, hoe beantwoord ik deze, wat zijn de resultaten, wat zegt dit
 - [ ] Meer terugkoppelen naar de echte wereld
 - [ ] Test toevoegen
 - [ ] Effectiveness: kunnen mensen er eerder door met pensioen? Daarna efficiency: worden de middelen goed gebruikt?
 	- [ ] Causaliteit mist: wanneer waren mensen anders met pensioen gegaan. Toevoegen
+- [ ] Bronnen checken met notebooklm
 - [ ] Helemaal nalezen. Kijken naar:
 	- [ ] Random vs given x, y notatie
 	- [ ] term: nondifferential misclassification
 - [ ] Goed nadenken over wat de nondifferentiality assumptie nou precies zegt. Vinden we bewijs ertegen? Dingen moeten wel gegeven X zijn
+
+
+
+
 
 
 Evt
