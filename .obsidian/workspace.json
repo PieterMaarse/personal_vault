@@ -129,8 +129,7 @@
               "title": "Verbeterpunten by sectie Chat 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New notes/Verbeterpunten by sectie Chat 2.md",
+                "file": "New notes/Aanpassingen Chat Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Verbeterpunten by sectie Chat 2"
+              "title": "Backlinks for Aanpassingen Chat Prompt"
             }
           },
           {
@@ -329,13 +328,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0606286087cd99fc",
+  "active": "7baed05c3ca615e7",
   "lastOpenFiles": [
+    "Scriptie/Veranderingen Scriptie als mogelijkheid.md",
+    "New notes/Verbeterpunten by sectie Chat 2.md",
+    "New notes/Aanpassingen Chat Prompt.md",
+    "New notes/Untitled 1.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
     "New notes/Verbeterpunten by sectie Chat.md",
-    "Scriptie/Veranderingen Scriptie als mogelijkheid.md",
-    "New notes/Aanpassingen Chat Prompt.md",
-    "New notes/Verbeterpunten by sectie Chat 2.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
     "New notes/Feedback Chat.md",

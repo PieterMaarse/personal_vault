@@ -15,3 +15,6 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+- Wordt profession vraag genoemd?
+- Dingen die niet duidelijk geïntroduceerd worden? Rare volgorde? 
+- Klopt het dat odds ratio goed werkt met delta method?
