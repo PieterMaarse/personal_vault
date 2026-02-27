@@ -19,12 +19,24 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ## TODO laatste loodjes
 
 - [x] Interpretatie bayesian schrijven
-- [ ] Met comments door hele paper gaan
-	- [ ] Sectie 3 aanvullen
-	- [ ] Conclusie en discussie
-- [ ] Abstract aanpassen
-- [ ] Grammarly check
+- [x] Met comments door hele paper gaan
+	- [x] Sectie 3 aanvullen
+	- [x] Conclusie en discussie
+- [x] Abstract aanpassen
+- [x] Grammarly check
 - [ ] Chat Pro check
+	- [ ] year before retirement vs pre-exemption-era
+	- [ ] Nieuwe sectie met data limitations
+- [ ] Comments checken
+	- [ ] Discussion verbeteren
+- [ ] Tweede pro check
+	- [x] Discussie aanvullen
+	- [ ] Welke claim nog een bron nodig hebben
+	- [ ] Wat een betere onderzoeksvraag is
+	- [ ] Niet:
+		- [ ] Niet titel aanpassen
+		- [ ] Minder theoretisch
+- [ ] Door comments Jellien en Daniel gaan
 
 
 
