@@ -12,6 +12,7 @@ FOUTEN:
 - LISS weights voor tweede estimate van Se/SP slaan ook nergens op. Zou op groepsniveau moeten gaan, niet op individu niveau, aangezien sommige groepen misschien al oververtegenwoordigd zijn.
 - Employed en eligible niet filteren op overlap met exempted? Zorgt ervoor dat vergelijking ten opzichte van gehele populatie is
 - Voorspelling alleen maken op basis van heden en verleden, niet toekomst
+- Plotjes characteristics alleen voor LISS 2020
 
 
 Minder belangrijk:

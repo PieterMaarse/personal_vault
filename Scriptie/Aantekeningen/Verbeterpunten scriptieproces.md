@@ -53,3 +53,6 @@ Belangrijkste: meer doelgericht (pragmatisch) te werk gaan. Simpel beginnen, daa
 - Eerst hele simpele eerste versie, daarna verbeteren
 	- Elke beslissing kies de makkelijke (model, jaar, stappen)
 
+## Literatuur
+
+Minder zelf proberen te verzinnen. Meer kijken wat anderen al hebben gedaan.

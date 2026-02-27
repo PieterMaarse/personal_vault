@@ -56,9 +56,9 @@
               "type": "pdf",
               "state": {
                 "file": "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
-                "page": 5,
-                "left": -6,
-                "top": 629,
+                "page": 1,
+                "left": -5,
+                "top": 846,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
@@ -73,7 +73,7 @@
               "state": {
                 "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
                 "page": 59,
-                "left": 44,
+                "left": -8,
                 "top": 261,
                 "zoom": 1
               },
@@ -81,7 +81,8 @@
               "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "69646b0fd2c8bb50",
@@ -329,20 +330,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bea5c634f58bebb",
+  "active": "cf6a34700fb0be23",
   "lastOpenFiles": [
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
-    "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
+    "Scriptie/Bronnen/Academic Papers/ML/0811.3619v1.pdf",
+    "Scriptie/Bronnen/Academic Papers/ML/rfp0697-chenAemb.pdf",
     "New notes/Feedback Chat.md",
-    "New notes/Verbeterpunten by sectie Chat.md",
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "New notes/Verbeterpunten by sectie Chat 2.md",
+    "Scriptie/Aantekeningen/Verbeterpunten scriptieproces.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
+    "New notes/Verbeterpunten by sectie Chat.md",
+    "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
     "Scriptie/Veranderingen Scriptie als mogelijkheid.md",
     "New notes/Aanpassingen Chat Prompt.md",
     "New notes/Untitled 1.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/RVU toevoegingen.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/Oude intro.md",
-    "Scriptie/Aantekeningen/Verbeterpunten scriptieproces.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/Untitled",
     "Scriptie/Aantekeningen/Oude LaTeX files",
     "Scriptie/Feedback/Introductie_Scriptie_Pieter_feedback.pdf",
@@ -354,7 +357,6 @@
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
     "Scriptie/Bronnen/RVU/Officieel/Bijlage Gezond naar pensioen 18 oktober 2024 onderhandelaars akkoord.pdf",
     "New notes/Aantekeningen bellletje Magnus.md",
-    "Scriptie/Bronnen/RVU/Officieel/Handreiking uitvoering RVU.pdf",
     "Scriptie/Bronnen/RVU/Officieel/TK Brief gezond naar het pensioen.md",
     "Scriptie/Bronnen/RVU/Overig/Expertisecentrum Zwaar Werk.md",
     "Scriptie/Bronnen/RVU/Overig/Gemiddelde pensioenleeftijd voor het eerst boven de 66 jaar.md",
