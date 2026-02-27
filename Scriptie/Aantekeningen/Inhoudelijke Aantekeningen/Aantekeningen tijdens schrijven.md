@@ -15,6 +15,25 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 ```
 ---
 
+
+## TODO laatste loodjes
+
+- [x] Interpretatie bayesian schrijven
+- [ ] Met comments door hele paper gaan
+	- [ ] Sectie 3 aanvullen
+	- [ ] Conclusie en discussie
+- [ ] Abstract aanpassen
+- [ ] Grammarly check
+- [ ] Chat Pro check
+
+
+
+
+
+
+
+
+
 ## TODO
 
 - [x] | vervangen door \mid

@@ -72,15 +72,16 @@
               "type": "pdf",
               "state": {
                 "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                "page": 1,
+                "page": 59,
+                "left": 44,
+                "top": 261,
                 "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "69646b0fd2c8bb50",
@@ -328,10 +329,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf6a34700fb0be23",
+  "active": "1bea5c634f58bebb",
   "lastOpenFiles": [
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
     "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
     "New notes/Feedback Chat.md",
     "New notes/Verbeterpunten by sectie Chat.md",
