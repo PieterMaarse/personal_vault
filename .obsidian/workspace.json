@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "5894239cbedd8599",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "84d39e87784002d8",
             "type": "leaf",
             "state": {
@@ -81,7 +93,8 @@
               "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "69646b0fd2c8bb50",
@@ -343,7 +356,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bea5c634f58bebb",
+  "active": "5894239cbedd8599",
   "lastOpenFiles": [
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/early-retirement-for-workers-in-physically-demanding-jobs-an-ageing-society-conundrum.pdf",
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/004_Vermeer.pdf",

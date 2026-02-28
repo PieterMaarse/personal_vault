@@ -25,14 +25,14 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - [x] Abstract aanpassen
 - [x] Grammarly check
 - [ ] Chat Pro check
-	- [ ] year before retirement vs pre-exemption-era
+	- [x] year before retirement vs pre-exemption-era
 	- [ ] Nieuwe sectie met data limitations
-- [ ] Comments checken
-	- [ ] Discussion verbeteren
+- [x] Comments checken
+	- [x] Discussion verbeteren
 - [ ] Tweede pro check
 	- [x] Discussie aanvullen
-	- [ ] Welke claim nog een bron nodig hebben
-	- [ ] Wat een betere onderzoeksvraag is
+	- [x] Welke claims nog een bron nodig hebben
+	- [x] Wat een betere onderzoeksvraag is
 	- [ ] Niet:
 		- [ ] Niet titel aanpassen
 		- [ ] Minder theoretisch
@@ -67,30 +67,30 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 TODO
 - [x] Test toevoegen
 - [ ] Lower bound weighted var maken
-- [ ] Resultaten Bayesian test toevoegen en verwerken
-	- [ ] Tabellen toevoegen
-- [ ] Theorie
-	- [ ] Bayesian stukje beter uitwerken
-	- [ ] Intro stukje dat beter de doelstelling formuleert
-		- [ ] Benoem causaliteit
-		- [ ] Identification vs partial identification?
-		- [ ] Waarom OR boven RR? Nog ff chat vragen
+- [x] Resultaten Bayesian test toevoegen en verwerken
+	- [x] Tabellen toevoegen
+- [x] Theorie
+	- [x] Bayesian stukje beter uitwerken
+	- [x] Intro stukje dat beter de doelstelling formuleert
+		- [x] Benoem causaliteit
+		- [x] Identification vs partial identification?
+		- [x] Waarom OR boven RR? Nog ff chat vragen
 	- [ ] Goed nadenken over wat de nondifferentiality assumptie nou precies zegt. Vinden we bewijs ertegen? Dingen moeten wel gegeven X zijn
-- [ ] Conclusie aanpassen
-	- [ ] Meer terugkoppelen naar de echte wereld
-		- [ ] Echte wereld -> model -> echte wereld
-	- [ ] Benoem in hoeverre dit iets zegt over effectiveness / efficiency
-		- [ ] Causaliteit mist: wanneer waren mensen anders met pensioen gegaan. Toevoegen
-- [ ] Introductie aanpassen
-	- [ ] Effectiveness: kunnen mensen er eerder door met pensioen? Daarna efficiency: worden de middelen goed gebruikt?
-- [ ] Abstract aanpassen
-- [ ] Alle comments wegwerken
+- [x] Conclusie aanpassen
+	- [x] Meer terugkoppelen naar de echte wereld
+		- [x] Echte wereld -> model -> echte wereld
+	- [x] Benoem in hoeverre dit iets zegt over effectiveness / efficiency
+		- [x] Causaliteit mist: wanneer waren mensen anders met pensioen gegaan. Toevoegen
+- [x] Introductie aanpassen
+	- [x] Effectiveness: kunnen mensen er eerder door met pensioen? Daarna efficiency: worden de middelen goed gebruikt?
+- [x] Abstract aanpassen
+- [x] Alle comments wegwerken
 - [ ] Bronnen checken met notebooklm
 - [ ] Indien tijd: Appendix bayesian resultaten onder correlaties? Andere distributie dan normal?
 - [ ] Chat pro feedback vragen
 - [ ] Chat pro feedback verwerken
 - [ ] Helemaal nalezen. Kijken naar:
-	- [ ] Random vs given x, y notatie
+	- [x] Random vs given x, y notatie
 	- [ ] term: nondifferential misclassification
 
 
