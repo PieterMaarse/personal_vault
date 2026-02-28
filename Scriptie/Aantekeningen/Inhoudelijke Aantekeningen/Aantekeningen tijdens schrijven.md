@@ -24,19 +24,24 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 	- [x] Conclusie en discussie
 - [x] Abstract aanpassen
 - [x] Grammarly check
-- [ ] Chat Pro check
+- [x] Chat Pro check
 	- [x] year before retirement vs pre-exemption-era
-	- [ ] Nieuwe sectie met data limitations
+	- [x] Nieuwe sectie met data limitations
 - [x] Comments checken
 	- [x] Discussion verbeteren
-- [ ] Tweede pro check
+- [x] Tweede pro check
 	- [x] Discussie aanvullen
 	- [x] Welke claims nog een bron nodig hebben
 	- [x] Wat een betere onderzoeksvraag is
-	- [ ] Niet:
-		- [ ] Niet titel aanpassen
-		- [ ] Minder theoretisch
-- [ ] Door comments Jellien en Daniel gaan
+	- [x] Niet:
+		- [x] Niet titel aanpassen
+		- [x] Minder theoretisch
+- [x] Equations zonder references zonder nummer doen
+- [x] Door comments Jellien en Daniel gaan
+- [x] Julia op voorkant
+- [ ] Helemaal lezen
+	- [ ] Waarom doen we niet direct LISS gebruiken?
+- [ ] Printen en helemaal lezen
 
 
 
