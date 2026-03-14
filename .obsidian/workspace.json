@@ -4,159 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "471928928f264abe",
+        "id": "5de0a2d931531e8b",
         "type": "tabs",
         "children": [
           {
-            "id": "1bea5c634f58bebb",
+            "id": "8983dc684d492271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aantekeningen tijdens schrijven"
-            }
-          },
-          {
-            "id": "5894239cbedd8599",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
-            "id": "84d39e87784002d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/Feedback Chat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedback Chat"
-            }
-          },
-          {
-            "id": "096126a1638dad46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/Verbeterpunten by sectie Chat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verbeterpunten by sectie Chat"
-            }
-          },
-          {
-            "id": "f226dadca43236e5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
-                "page": 33,
-                "left": -6,
-                "top": 797,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "2nd Draft Thesis Pieter Maarse - comments Daniel"
-            }
-          },
-          {
-            "id": "cf6a34700fb0be23",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-                "page": 59,
-                "left": -8,
-                "top": 265,
-                "zoom": 1
-              },
-              "icon": "lucide-file-text",
-              "title": "Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi"
-            }
-          }
-        ]
-      },
-      {
-        "id": "69646b0fd2c8bb50",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7baed05c3ca615e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/Aanpassingen Chat Prompt.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aanpassingen Chat Prompt"
-            }
-          },
-          {
-            "id": "000f24867bf1a8b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scriptie/Veranderingen Scriptie als mogelijkheid.md",
+                "file": "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Veranderingen Scriptie als mogelijkheid"
             }
-          },
-          {
-            "id": "0606286087cd99fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/Verbeterpunten by sectie Chat 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verbeterpunten by sectie Chat 2"
-            }
-          },
-          {
-            "id": "15a83d3018e477d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "New notes/Verbeterpunten Chat 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verbeterpunten Chat 3"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "349ae95106766c6e",
@@ -355,44 +219,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bea5c634f58bebb",
+  "active": "a88eb294c4c62841",
   "lastOpenFiles": [
-    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
-    "Scriptie/Feedback/Feedback_JK_1st_Draft_Thesis_Pieter_Maarse.pdf",
+    "Scriptie/Scriptie - TODO Globaal.md",
+    "Scriptie/TODO Archive/TODO 2025-11-03.md",
+    "Scriptie/TODO Archive/TODO 2025-10-31.md",
+    "Scriptie/TODO Archive/Prioriteiten 2026 W3.md",
+    "Scriptie/Feedback/Introductie_Scriptie_Pieter_feedback.pdf",
+    "Scriptie/Aantekeningen/Verbeterpunten scriptieproces.md",
+    "Scriptie/Aantekeningen/Verbeterpunten Chat 3.md",
+    "Scriptie/Aantekeningen/Verbeterpunten by sectie Chat 2.md",
+    "Scriptie/Aantekeningen/Verbeterpunten by sectie Chat.md",
+    "Scriptie/Aantekeningen/Aanpassingen Chat Prompt.md",
+    "Scriptie/Aantekeningen/Aantekeningen bellletje Magnus.md",
+    "Scriptie/Aantekeningen/Feedback Chat.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Scriptie Algemene Inhoudelijke Aantekeningen.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht doel, stappen en overwegingen.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Codebase overzicht.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Benodigde plots.md",
+    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
-    "New notes/Feedback Chat.md",
-    "New notes/Verbeterpunten by sectie Chat.md",
+    "Scriptie/ESB/ESB notities.md",
+    "Scriptie/ESB",
+    "Archief",
+    "Scriptie/Eigen bestanden/Thesis_Pieter_Maarse.pdf",
     "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
+    "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
+    "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
+    "Scriptie/Feedback/Feedback_JK_1st_Draft_Thesis_Pieter_Maarse.pdf",
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/early-retirement-for-workers-in-physically-demanding-jobs-an-ageing-society-conundrum.pdf",
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/004_Vermeer.pdf",
-    "New notes/Verbeterpunten Chat 3.md",
-    "New notes/Verbeterpunten by sectie Chat 2.md",
-    "Scriptie/Veranderingen Scriptie als mogelijkheid.md",
-    "New notes/Aanpassingen Chat Prompt.md",
     "Scriptie/Bronnen/Academic Papers/ML/0811.3619v1.pdf",
-    "Scriptie/Bronnen/Academic Papers/ML/rfp0697-chenAemb.pdf",
-    "Scriptie/Aantekeningen/Verbeterpunten scriptieproces.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/RVU toevoegingen.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/Oude intro.md",
-    "Scriptie/Aantekeningen/Oude LaTeX files/Untitled",
-    "Scriptie/Aantekeningen/Oude LaTeX files",
-    "Scriptie/Feedback/Introductie_Scriptie_Pieter_feedback.pdf",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
-    "New notes/Untitled.md",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
-    "New notes/Aantekeningen bellletje Magnus.md",
     "Scriptie/Bronnen/RVU/Officieel/TK Brief gezond naar het pensioen.md",
     "Scriptie/Bronnen/RVU/Overig/Expertisecentrum Zwaar Werk.md",
     "Scriptie/Bronnen/RVU/Overig/Gemiddelde pensioenleeftijd voor het eerst boven de 66 jaar.md",
     "Scriptie/Bronnen/RVU/Untitled.md",
-    "Scriptie/Bronnen/SEO documenten/PowerPoint EBB Voorspellingen SEO.md",
-    "Scriptie/Bronnen/SEO documenten/AOW Monitor Concept.md",
-    "Scriptie/Bronnen/RVU/Officieel/Handreiking voor de interpretatie van het begrip “Regeling voor vervroegde uittreding”.md",
-    "Scriptie/Bronnen/RVU/Artikelen overheid/Wat betekent de versoepeling van de RVU-regeling voor oudere werknemers.md",
-    "Scriptie/Bronnen/RVU/Artikelen overheid/Wat betekent de RVU-drempelvrijstelling voor werkgevers en werknemers.md",
-    "Scriptie/Bronnen/RVU/Overig/Vervroegd pensioen is kwestie van noodzaak of fortuin.md",
-    "Scriptie/Bronnen/RVU/Overig/RVU-regeling - Arbeidsrechter.nl.md",
-    "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
     "Pasted image 20251211145940.png",
