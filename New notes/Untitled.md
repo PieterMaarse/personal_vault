@@ -1,0 +1,1 @@
+- The basics vs go deeper lijkt alosof je wat moet kpen
