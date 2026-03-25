@@ -25,6 +25,7 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 Extra plotjes
 - Misclassification rates per LISS year
 
+- Als jaren wel beschikbaar zijn, voorspellingen over de jaren vergelijken
 
 ## Oude notities
 ### Oude versie met misschien aanvullingen in Obsidian

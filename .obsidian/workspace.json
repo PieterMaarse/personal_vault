@@ -11,14 +11,12 @@
             "id": "8983dc684d492271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
-                "mode": "source",
-                "source": false
+                "file": "Scriptie/Eigen bestanden/Thesis_Pieter_Maarse.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Veranderingen Scriptie als mogelijkheid"
+              "icon": "lucide-file-text",
+              "title": "Thesis_Pieter_Maarse"
             }
           }
         ]
@@ -219,11 +217,69 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+  "floating": {
+    "id": "c5d0c8da93001694",
+    "type": "floating",
+    "children": [
+      {
+        "id": "92eae45c7b7a6903",
+        "type": "window",
+        "children": [
+          {
+            "id": "24ca7fc262eb40d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "182742b789ba8903",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scriptie/Verdediging/Scriptie verdediging.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Scriptie verdediging"
+                }
+              },
+              {
+                "id": "1ce4d93d79429943",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Veranderingen Scriptie als mogelijkheid"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 576,
+        "y": -1080,
+        "width": 768,
+        "height": 653,
+        "maximize": false,
+        "zoom": -0.5
+      }
+    ]
+  },
   "active": "8983dc684d492271",
   "lastOpenFiles": [
-    "New notes/Untitled.md",
     "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
+    "Scriptie/Eigen bestanden/Thesis_Pieter_Maarse.pdf",
+    "Scriptie/Verdediging/Scriptie verdediging.md",
+    "Scriptie/ESB/ESB notities.md",
     "Scriptie/Scriptie - TODO Globaal.md",
+    "Scriptie/Microdata TODO.md",
+    "Scriptie/Verdediging",
+    "New notes/Untitled.md",
     "Scriptie/TODO Archive/TODO 2025-11-03.md",
     "Scriptie/TODO Archive/TODO 2025-10-31.md",
     "Scriptie/TODO Archive/Prioriteiten 2026 W3.md",
@@ -242,22 +298,16 @@
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Benodigde plots.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Belangrijkste bronnen RVU.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Aantekeningen tijdens schrijven.md",
-    "Scriptie/ESB/ESB notities.md",
     "Scriptie/ESB",
     "Archief",
-    "Scriptie/Eigen bestanden/Thesis_Pieter_Maarse.pdf",
     "Scriptie/Feedback/2nd Draft Thesis Pieter Maarse - comments Daniel.pdf",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Measurement Error - Models, Methods, and Applications -- John P. Buonaccorsi.pdf",
     "Scriptie/Feedback/Feedback_JK_1st_Draft_Thesis_Pieter_Maarse.pdf",
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/early-retirement-for-workers-in-physically-demanding-jobs-an-ageing-society-conundrum.pdf",
     "Scriptie/Bronnen/Academic Papers/Early retirement/PDFs Papers/004_Vermeer.pdf",
-    "Scriptie/Bronnen/Academic Papers/ML/0811.3619v1.pdf",
     "Scriptie/Aantekeningen/Oude LaTeX files/RVU toevoegingen.md",
     "Scriptie/Aantekeningen/Oude LaTeX files/Oude intro.md",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-02-17.md",
-    "Scriptie/Bronnen/RVU/Officieel/TK Brief gezond naar het pensioen.md",
-    "Scriptie/Bronnen/RVU/Overig/Expertisecentrum Zwaar Werk.md",
-    "Scriptie/Bronnen/RVU/Overig/Gemiddelde pensioenleeftijd voor het eerst boven de 66 jaar.md",
     "Scriptie/Bronnen/Academic Papers/Misclassified Binary Regressor/Misclassified Binary Regressor Overview.canvas",
     "Scriptie/Inhoudelijke Aantekeningen/Analyse aantekeningen/Misclassified Binary Regressor Overview.canvas",
     "Pasted image 20251211145940.png",
