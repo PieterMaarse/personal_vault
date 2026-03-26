@@ -55,7 +55,16 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Appendix
 	- Overzicht met klikbare linkjes
 	- Formules
+		- OR
+		- Correcten voor misclassificatie
+		- Bayesian prior
+	- Resultaten
+		- Alle tabellen
 
+
+- Footnotes naar wiskunde en tabellen
+- Reveal toevoegen
+- Tabellen mooi maken. Caption?
 
 
 ### Beter uitzoeken
@@ -67,5 +76,6 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Tekortkomingen scherp hebben
 - Stappenplan data selecteren: wanneer filteren voor wat?
 - Interpretatie van tabel 7
-- 
-
+- Waarom OR
+- Welke vraag agree/often was
+- Moeten er captions bij figuren en tabellen?
