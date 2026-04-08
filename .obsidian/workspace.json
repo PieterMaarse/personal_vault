@@ -38,18 +38,6 @@
             }
           },
           {
-            "id": "41b175bb386177e0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
-          },
-          {
             "id": "1ce4d93d79429943",
             "type": "leaf",
             "state": {
@@ -262,7 +250,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "41b175bb386177e0",
+  "active": "1ce4d93d79429943",
   "lastOpenFiles": [
     "Scriptie/ESB/Veranderingen Scriptie als mogelijkheid.md",
     "Scriptie/Verdediging/Scriptie verdediging.md",
