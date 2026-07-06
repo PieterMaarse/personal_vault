@@ -11,10 +11,14 @@
             "id": "ed3f255acf443be2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vragen Sabien.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vragen Sabien"
             }
           }
         ]
@@ -217,6 +221,7 @@
   },
   "active": "ed3f255acf443be2",
   "lastOpenFiles": [
+    "Vragen Sabien.md",
     "Personal Notes/Extrie/Aantekeningen/Extrie lid worden van Kraket.md",
     "Personal Notes/Masterdag Panel Discussion.md",
     "Personal Notes/Extrie/Mail Fusie Kraket Extrie.md",
@@ -247,7 +252,6 @@
     "Scriptie/TODO Archive/Prioriteiten 2026 W3.md",
     "Scriptie/Feedback/Introductie_Scriptie_Pieter_feedback.pdf",
     "Scriptie/Aantekeningen/Aanpassingen Chat Prompt.md",
-    "Scriptie/Aantekeningen/Aantekeningen bellletje Magnus.md",
     "Scriptie/Aantekeningen/Inhoudelijke Aantekeningen/Overzicht stappen.canvas",
     "Scriptie/ESB",
     "Archief",
