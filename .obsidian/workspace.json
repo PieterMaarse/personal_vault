@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "49ea9a90d15bb44a",
+        "id": "6f40cb5ee74e7a68",
         "type": "tabs",
         "children": [
           {
-            "id": "3b1946a19d00d870",
+            "id": "e0f6a597cb38615e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Meeting Irene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "f4c505906ec82326",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Meeting Irene"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,14 +221,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4c505906ec82326",
+  "active": "e0f6a597cb38615e",
   "lastOpenFiles": [
-    "Vragen Sabien.md",
     "Untitled.md",
+    "Meeting Merel.md",
+    "Vragen Sabien.md",
+    "Meeting Irene.md",
     "Untitled 1.md",
     "Meeting Patrick.md",
-    "Meeting Merel.md",
-    "Meeting Irene.md",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2026-08-11.md",
     "Personal Notes/Extrie/Bestuursvergaderingen/Extrie Vergadering 2025-10-01.md",
     "Personal Notes/Inlezen econometrie.md",
