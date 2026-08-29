@@ -28,4 +28,11 @@ FROM [[]] and !outgoing([[]]) and !"_Obsidian"
 - Jaar RVU zit er gewoon in, dus kunnen wel jaar voor doen
 - Alleen door met leeftijdsgenoten (benoemen vergeleken met totale populatie)
 	- Even denken hoe we die precies maken
-- 
+
+
+
+## Opmerking rerunnen code
+
+- [ ] Leeftijd distributie komt niet perfect overeen
+- [ ] Er is één iemand in LISS en RVU in de dataset erdoorheen gekomen! Ff kijken wat ik wou laten zien met de check in 4a
+- [ ] Vragen combineren
