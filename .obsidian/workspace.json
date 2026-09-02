@@ -39,10 +39,14 @@
             "id": "697083d816787977",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Opmerkingen Documenten Tesse.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Opmerkingen Documenten Tesse"
             }
           }
         ],
@@ -248,6 +252,7 @@
   },
   "active": "697083d816787977",
   "lastOpenFiles": [
+    "Opmerkingen Documenten Tesse.md",
     "Feedback CV bas.md",
     "Scriptie/ESB/ESB notities.md",
     "Meeting Irene.md",
@@ -275,7 +280,6 @@
     "Scriptie/Aantekeningen/Verbeterpunten by sectie Chat.md",
     "Scriptie/Eigen bestanden/Thesis_Pieter_Maarse.pdf",
     "SmartFlowFleet/Belletje Pascal 2.md",
-    "SmartFlowFleet/Belletje Pascal 1.md",
     "SmartFlowFleet",
     "Scriptie/Verdediging",
     "Scriptie/Feedback/Introductie_Scriptie_Pieter_feedback.pdf",
