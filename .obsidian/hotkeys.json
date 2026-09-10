@@ -26,7 +26,8 @@
   "editor:toggle-strikethrough": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
       "key": "A"
     }
